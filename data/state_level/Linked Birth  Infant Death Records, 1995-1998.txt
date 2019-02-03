@@ -1,0 +1,1272 @@
+"Notes"	"State"	"State Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Year of Death"	"Year of Death Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	483	Suppressed
+	"Alabama"	"01"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	605	Suppressed
+	"Alabama"	"01"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	724	Suppressed
+	"Alabama"	"01"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	883	Suppressed
+	"Alabama"	"01"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	92	Suppressed
+	"Alabama"	"01"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	125	Suppressed
+	"Alabama"	"01"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	88	Suppressed
+	"Alabama"	"01"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	77	Suppressed
+	"Alabama"	"01"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	20	Suppressed
+	"Alabama"	"01"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	18	Suppressed
+	"Alabama"	"01"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	13	Suppressed
+	"Alabama"	"01"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	22	Suppressed
+	"Alabama"	"01"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	107	Suppressed
+	"Alabama"	"01"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	141	Suppressed
+	"Alabama"	"01"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	179	Suppressed
+	"Alabama"	"01"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	140	Suppressed
+	"Alabama"	"01"	"Non-Hispanic White"	"6"	"1995"	"1995"	282	39073	7.22
+	"Alabama"	"01"	"Non-Hispanic White"	"6"	"1996"	"1996"	317	39326	8.06
+	"Alabama"	"01"	"Non-Hispanic White"	"6"	"1997"	"1997"	293	39402	7.44
+	"Alabama"	"01"	"Non-Hispanic White"	"6"	"1998"	"1998"	306	40203	7.61
+	"Alabama"	"01"	"Non-Hispanic Black"	"7"	"1995"	"1995"	295	19830	14.88
+	"Alabama"	"01"	"Non-Hispanic Black"	"7"	"1996"	"1996"	298	19536	15.25
+	"Alabama"	"01"	"Non-Hispanic Black"	"7"	"1997"	"1997"	267	19798	13.49
+	"Alabama"	"01"	"Non-Hispanic Black"	"7"	"1998"	"1998"	308	20021	15.38
+	"Alaska"	"02"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	236	Suppressed
+	"Alaska"	"02"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	249	Suppressed
+	"Alaska"	"02"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	263	Suppressed
+	"Alaska"	"02"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	238	Suppressed
+	"Alaska"	"02"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	56	Suppressed
+	"Alaska"	"02"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	51	Suppressed
+	"Alaska"	"02"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	38	Suppressed
+	"Alaska"	"02"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	47	Suppressed
+	"Alaska"	"02"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	54	Suppressed
+	"Alaska"	"02"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	59	Suppressed
+	"Alaska"	"02"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	54	Suppressed
+	"Alaska"	"02"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	48	Suppressed
+	"Alaska"	"02"	"Non-Hispanic White"	"6"	"1995"	"1995"	36	6581	5.47
+	"Alaska"	"02"	"Non-Hispanic White"	"6"	"1996"	"1996"	30	6300	4.76
+	"Alaska"	"02"	"Non-Hispanic White"	"6"	"1997"	"1997"	43	6110	7.04
+	"Alaska"	"02"	"Non-Hispanic White"	"6"	"1998"	"1998"	27	6148	4.39
+	"Alaska"	"02"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	421	Suppressed
+	"Alaska"	"02"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	387	Suppressed
+	"Alaska"	"02"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	444	Suppressed
+	"Alaska"	"02"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	386	Suppressed
+	"Arizona"	"04"	"Mexican"	"2148-5"	"1995"	"1995"	177	24538	7.21
+	"Arizona"	"04"	"Mexican"	"2148-5"	"1996"	"1996"	213	26746	7.96
+	"Arizona"	"04"	"Mexican"	"2148-5"	"1997"	"1997"	197	27286	7.22
+	"Arizona"	"04"	"Mexican"	"2148-5"	"1998"	"1998"	207	28385	7.29
+	"Arizona"	"04"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	193	Suppressed
+	"Arizona"	"04"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	289	Suppressed
+	"Arizona"	"04"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	174	Suppressed
+	"Arizona"	"04"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	209	Suppressed
+	"Arizona"	"04"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	41	Suppressed
+	"Arizona"	"04"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	38	Suppressed
+	"Arizona"	"04"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	59	Suppressed
+	"Arizona"	"04"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	40	Suppressed
+	"Arizona"	"04"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	429	Suppressed
+	"Arizona"	"04"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	507	Suppressed
+	"Arizona"	"04"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	493	Suppressed
+	"Arizona"	"04"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	567	Suppressed
+	"Arizona"	"04"	"Non-Hispanic White"	"6"	"1995"	"1995"	290	38474	7.54
+	"Arizona"	"04"	"Non-Hispanic White"	"6"	"1996"	"1996"	271	38602	7.02
+	"Arizona"	"04"	"Non-Hispanic White"	"6"	"1997"	"1997"	250	37860	6.60
+	"Arizona"	"04"	"Non-Hispanic White"	"6"	"1998"	"1998"	276	38621	7.15
+	"Arizona"	"04"	"Non-Hispanic Black"	"7"	"1995"	"1995"	30	2166	13.85
+	"Arizona"	"04"	"Non-Hispanic Black"	"7"	"1996"	"1996"	40	2249	17.79
+	"Arizona"	"04"	"Non-Hispanic Black"	"7"	"1997"	"1997"	26	2375	10.95
+	"Arizona"	"04"	"Non-Hispanic Black"	"7"	"1998"	"1998"	33	2465	13.39
+	"Arkansas"	"05"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	837	Suppressed
+	"Arkansas"	"05"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	1080	Suppressed
+	"Arkansas"	"05"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	1254	Suppressed
+	"Arkansas"	"05"	"Mexican"	"2148-5"	"1998"	"1998"	16	1436	11.14 (Unreliable)
+	"Arkansas"	"05"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	23	Suppressed
+	"Arkansas"	"05"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	31	Suppressed
+	"Arkansas"	"05"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	31	Suppressed
+	"Arkansas"	"05"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	25	Suppressed
+	"Arkansas"	"05"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Arkansas"	"05"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Arkansas"	"05"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Arkansas"	"05"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Arkansas"	"05"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	100	Suppressed
+	"Arkansas"	"05"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	149	Suppressed
+	"Arkansas"	"05"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	211	Suppressed
+	"Arkansas"	"05"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	225	Suppressed
+	"Arkansas"	"05"	"Non-Hispanic White"	"6"	"1995"	"1995"	184	25962	7.09
+	"Arkansas"	"05"	"Non-Hispanic White"	"6"	"1996"	"1996"	222	26572	8.35
+	"Arkansas"	"05"	"Non-Hispanic White"	"6"	"1997"	"1997"	202	26506	7.62
+	"Arkansas"	"05"	"Non-Hispanic White"	"6"	"1998"	"1998"	197	26545	7.42
+	"Arkansas"	"05"	"Non-Hispanic Black"	"7"	"1995"	"1995"	103	7648	13.47
+	"Arkansas"	"05"	"Non-Hispanic Black"	"7"	"1996"	"1996"	108	7871	13.72
+	"Arkansas"	"05"	"Non-Hispanic Black"	"7"	"1997"	"1997"	101	7799	12.95
+	"Arkansas"	"05"	"Non-Hispanic Black"	"7"	"1998"	"1998"	111	7970	13.93
+	"California"	"06"	"Mexican"	"2148-5"	"1995"	"1995"	1260	218238	5.77
+	"California"	"06"	"Mexican"	"2148-5"	"1996"	"1996"	1236	218625	5.65
+	"California"	"06"	"Mexican"	"2148-5"	"1997"	"1997"	1180	215493	5.48
+	"California"	"06"	"Mexican"	"2148-5"	"1998"	"1998"	1127	215600	5.23
+	"California"	"06"	"Puerto Rican"	"2180-8"	"1995"	"1995"	17	2008	8.47 (Unreliable)
+	"California"	"06"	"Puerto Rican"	"2180-8"	"1996"	"1996"	17	1974	8.61 (Unreliable)
+	"California"	"06"	"Puerto Rican"	"2180-8"	"1997"	"1997"	15	1927	7.78 (Unreliable)
+	"California"	"06"	"Puerto Rican"	"2180-8"	"1998"	"1998"	13	1956	6.65 (Unreliable)
+	"California"	"06"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	828	Suppressed
+	"California"	"06"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	770	Suppressed
+	"California"	"06"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	793	Suppressed
+	"California"	"06"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	764	Suppressed
+	"California"	"06"	"Central or South American"	"4"	"1995"	"1995"	151	27207	5.55
+	"California"	"06"	"Central or South American"	"4"	"1996"	"1996"	112	26370	4.25
+	"California"	"06"	"Central or South American"	"4"	"1997"	"1997"	153	25243	6.06
+	"California"	"06"	"Central or South American"	"4"	"1998"	"1998"	123	24847	4.95
+	"California"	"06"	"Non-Hispanic White"	"6"	"1995"	"1995"	1126	196695	5.72
+	"California"	"06"	"Non-Hispanic White"	"6"	"1996"	"1996"	986	185659	5.31
+	"California"	"06"	"Non-Hispanic White"	"6"	"1997"	"1997"	941	177863	5.29
+	"California"	"06"	"Non-Hispanic White"	"6"	"1998"	"1998"	914	176886	5.17
+	"California"	"06"	"Non-Hispanic Black"	"7"	"1995"	"1995"	529	39284	13.47
+	"California"	"06"	"Non-Hispanic Black"	"7"	"1996"	"1996"	459	37133	12.36
+	"California"	"06"	"Non-Hispanic Black"	"7"	"1997"	"1997"	447	36109	12.38
+	"California"	"06"	"Non-Hispanic Black"	"7"	"1998"	"1998"	422	35282	11.96
+	"Colorado"	"08"	"Mexican"	"2148-5"	"1995"	"1995"	35	7291	4.80
+	"Colorado"	"08"	"Mexican"	"2148-5"	"1996"	"1996"	47	8142	5.77
+	"Colorado"	"08"	"Mexican"	"2148-5"	"1997"	"1997"	59	8909	6.62
+	"Colorado"	"08"	"Mexican"	"2148-5"	"1998"	"1998"	75	9921	7.56
+	"Colorado"	"08"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	185	Suppressed
+	"Colorado"	"08"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	180	Suppressed
+	"Colorado"	"08"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	184	Suppressed
+	"Colorado"	"08"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	184	Suppressed
+	"Colorado"	"08"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	29	Suppressed
+	"Colorado"	"08"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	39	Suppressed
+	"Colorado"	"08"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	32	Suppressed
+	"Colorado"	"08"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	29	Suppressed
+	"Colorado"	"08"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	249	Suppressed
+	"Colorado"	"08"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	355	Suppressed
+	"Colorado"	"08"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	365	Suppressed
+	"Colorado"	"08"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	426	Suppressed
+	"Colorado"	"08"	"Non-Hispanic White"	"6"	"1995"	"1995"	222	38142	5.82
+	"Colorado"	"08"	"Non-Hispanic White"	"6"	"1996"	"1996"	233	38667	6.03
+	"Colorado"	"08"	"Non-Hispanic White"	"6"	"1997"	"1997"	254	38685	6.57
+	"Colorado"	"08"	"Non-Hispanic White"	"6"	"1998"	"1998"	237	39936	5.93
+	"Colorado"	"08"	"Non-Hispanic Black"	"7"	"1995"	"1995"	38	2518	15.09
+	"Colorado"	"08"	"Non-Hispanic Black"	"7"	"1996"	"1996"	31	2452	12.64
+	"Colorado"	"08"	"Non-Hispanic Black"	"7"	"1997"	"1997"	32	2487	12.87
+	"Colorado"	"08"	"Non-Hispanic Black"	"7"	"1998"	"1998"	44	2761	15.94
+	"Connecticut"	"09"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	294	Suppressed
+	"Connecticut"	"09"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	319	Suppressed
+	"Connecticut"	"09"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	373	Suppressed
+	"Connecticut"	"09"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	417	Suppressed
+	"Connecticut"	"09"	"Puerto Rican"	"2180-8"	"1995"	"1995"	39	3839	10.16
+	"Connecticut"	"09"	"Puerto Rican"	"2180-8"	"1996"	"1996"	36	3808	9.45
+	"Connecticut"	"09"	"Puerto Rican"	"2180-8"	"1997"	"1997"	39	3868	10.08
+	"Connecticut"	"09"	"Puerto Rican"	"2180-8"	"1998"	"1998"	46	4170	11.03
+	"Connecticut"	"09"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	80	Suppressed
+	"Connecticut"	"09"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	88	Suppressed
+	"Connecticut"	"09"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	78	Suppressed
+	"Connecticut"	"09"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	74	Suppressed
+	"Connecticut"	"09"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	1000	Suppressed
+	"Connecticut"	"09"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	1130	Suppressed
+	"Connecticut"	"09"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	1107	Suppressed
+	"Connecticut"	"09"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	1249	Suppressed
+	"Connecticut"	"09"	"Non-Hispanic White"	"6"	"1995"	"1995"	179	30867	5.80
+	"Connecticut"	"09"	"Non-Hispanic White"	"6"	"1996"	"1996"	145	30617	4.74
+	"Connecticut"	"09"	"Non-Hispanic White"	"6"	"1997"	"1997"	153	28433	5.38
+	"Connecticut"	"09"	"Non-Hispanic White"	"6"	"1998"	"1998"	131	28845	4.54
+	"Connecticut"	"09"	"Non-Hispanic Black"	"7"	"1995"	"1995"	60	4974	12.06
+	"Connecticut"	"09"	"Non-Hispanic Black"	"7"	"1996"	"1996"	74	4845	15.27
+	"Connecticut"	"09"	"Non-Hispanic Black"	"7"	"1997"	"1997"	66	4896	13.48
+	"Connecticut"	"09"	"Non-Hispanic Black"	"7"	"1998"	"1998"	81	4990	16.23
+	"Delaware"	"10"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	232	Suppressed
+	"Delaware"	"10"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	292	Suppressed
+	"Delaware"	"10"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	295	Suppressed
+	"Delaware"	"10"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	356	Suppressed
+	"Delaware"	"10"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	237	Suppressed
+	"Delaware"	"10"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	249	Suppressed
+	"Delaware"	"10"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	215	Suppressed
+	"Delaware"	"10"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	265	Suppressed
+	"Delaware"	"10"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	102	Suppressed
+	"Delaware"	"10"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	90	Suppressed
+	"Delaware"	"10"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	107	Suppressed
+	"Delaware"	"10"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	119	Suppressed
+	"Delaware"	"10"	"Non-Hispanic White"	"6"	"1995"	"1995"	44	7134	6.17
+	"Delaware"	"10"	"Non-Hispanic White"	"6"	"1996"	"1996"	44	6899	6.38
+	"Delaware"	"10"	"Non-Hispanic White"	"6"	"1997"	"1997"	42	6864	6.12
+	"Delaware"	"10"	"Non-Hispanic White"	"6"	"1998"	"1998"	52	6937	7.50
+	"Delaware"	"10"	"Non-Hispanic Black"	"7"	"1995"	"1995"	26	2326	11.18
+	"Delaware"	"10"	"Non-Hispanic Black"	"7"	"1996"	"1996"	31	2348	13.20
+	"Delaware"	"10"	"Non-Hispanic Black"	"7"	"1997"	"1997"	35	2462	14.22
+	"Delaware"	"10"	"Non-Hispanic Black"	"7"	"1998"	"1998"	46	2604	17.67
+	"District of Columbia"	"11"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	30	Suppressed
+	"District of Columbia"	"11"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	33	Suppressed
+	"District of Columbia"	"11"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	46	Suppressed
+	"District of Columbia"	"11"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	44	Suppressed
+	"District of Columbia"	"11"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	16	Suppressed
+	"District of Columbia"	"11"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	10	Suppressed
+	"District of Columbia"	"11"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	16	Suppressed
+	"District of Columbia"	"11"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	564	Suppressed
+	"District of Columbia"	"11"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	688	Suppressed
+	"District of Columbia"	"11"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	574	Suppressed
+	"District of Columbia"	"11"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	619	Suppressed
+	"District of Columbia"	"11"	"Non-Hispanic White"	"6"	"1995"	"1995"	Suppressed	1354	Suppressed
+	"District of Columbia"	"11"	"Non-Hispanic White"	"6"	"1996"	"1996"	Suppressed	1247	Suppressed
+	"District of Columbia"	"11"	"Non-Hispanic White"	"6"	"1997"	"1997"	Suppressed	1274	Suppressed
+	"District of Columbia"	"11"	"Non-Hispanic White"	"6"	"1998"	"1998"	Suppressed	1314	Suppressed
+	"District of Columbia"	"11"	"Non-Hispanic Black"	"7"	"1995"	"1995"	131	6736	19.45
+	"District of Columbia"	"11"	"Non-Hispanic Black"	"7"	"1996"	"1996"	113	6131	18.43
+	"District of Columbia"	"11"	"Non-Hispanic Black"	"7"	"1997"	"1997"	100	5677	17.61
+	"District of Columbia"	"11"	"Non-Hispanic Black"	"7"	"1998"	"1998"	83	5435	15.27
+	"Florida"	"12"	"Mexican"	"2148-5"	"1995"	"1995"	48	6584	7.29
+	"Florida"	"12"	"Mexican"	"2148-5"	"1996"	"1996"	42	7021	5.98
+	"Florida"	"12"	"Mexican"	"2148-5"	"1997"	"1997"	40	7818	5.12
+	"Florida"	"12"	"Mexican"	"2148-5"	"1998"	"1998"	43	8646	4.97
+	"Florida"	"12"	"Puerto Rican"	"2180-8"	"1995"	"1995"	39	5860	6.66
+	"Florida"	"12"	"Puerto Rican"	"2180-8"	"1996"	"1996"	42	6513	6.45
+	"Florida"	"12"	"Puerto Rican"	"2180-8"	"1997"	"1997"	28	6907	4.05
+	"Florida"	"12"	"Puerto Rican"	"2180-8"	"1998"	"1998"	45	7487	6.01
+	"Florida"	"12"	"Cuban"	"2182-4"	"1995"	"1995"	45	8517	5.28
+	"Florida"	"12"	"Cuban"	"2182-4"	"1996"	"1996"	42	8624	4.87
+	"Florida"	"12"	"Cuban"	"2182-4"	"1997"	"1997"	46	8778	5.24
+	"Florida"	"12"	"Cuban"	"2182-4"	"1998"	"1998"	32	9240	3.46
+	"Florida"	"12"	"Central or South American"	"4"	"1995"	"1995"	44	11433	3.85
+	"Florida"	"12"	"Central or South American"	"4"	"1996"	"1996"	59	11860	4.97
+	"Florida"	"12"	"Central or South American"	"4"	"1997"	"1997"	42	12366	3.40
+	"Florida"	"12"	"Central or South American"	"4"	"1998"	"1998"	59	13041	4.52
+	"Florida"	"12"	"Non-Hispanic White"	"6"	"1995"	"1995"	669	108831	6.15
+	"Florida"	"12"	"Non-Hispanic White"	"6"	"1996"	"1996"	665	107900	6.16
+	"Florida"	"12"	"Non-Hispanic White"	"6"	"1997"	"1997"	639	107757	5.93
+	"Florida"	"12"	"Non-Hispanic White"	"6"	"1998"	"1998"	671	107754	6.23
+	"Florida"	"12"	"Non-Hispanic Black"	"7"	"1995"	"1995"	529	41191	12.84
+	"Florida"	"12"	"Non-Hispanic Black"	"7"	"1996"	"1996"	521	41305	12.61
+	"Florida"	"12"	"Non-Hispanic Black"	"7"	"1997"	"1997"	521	42546	12.25
+	"Florida"	"12"	"Non-Hispanic Black"	"7"	"1998"	"1998"	534	43483	12.28
+	"Georgia"	"13"	"Mexican"	"2148-5"	"1995"	"1995"	32	3697	8.66
+	"Georgia"	"13"	"Mexican"	"2148-5"	"1996"	"1996"	30	4697	6.39
+	"Georgia"	"13"	"Mexican"	"2148-5"	"1997"	"1997"	27	5402	5.00
+	"Georgia"	"13"	"Mexican"	"2148-5"	"1998"	"1998"	32	6319	5.06
+	"Georgia"	"13"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	368	Suppressed
+	"Georgia"	"13"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	438	Suppressed
+	"Georgia"	"13"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	424	Suppressed
+	"Georgia"	"13"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	450	Suppressed
+	"Georgia"	"13"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	79	Suppressed
+	"Georgia"	"13"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	88	Suppressed
+	"Georgia"	"13"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	98	Suppressed
+	"Georgia"	"13"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	124	Suppressed
+	"Georgia"	"13"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	665	Suppressed
+	"Georgia"	"13"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	778	Suppressed
+	"Georgia"	"13"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	992	Suppressed
+	"Georgia"	"13"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	1037	Suppressed
+	"Georgia"	"13"	"Non-Hispanic White"	"6"	"1995"	"1995"	424	66497	6.38
+	"Georgia"	"13"	"Non-Hispanic White"	"6"	"1996"	"1996"	427	66346	6.44
+	"Georgia"	"13"	"Non-Hispanic White"	"6"	"1997"	"1997"	426	67874	6.28
+	"Georgia"	"13"	"Non-Hispanic White"	"6"	"1998"	"1998"	421	69495	6.06
+	"Georgia"	"13"	"Non-Hispanic Black"	"7"	"1995"	"1995"	581	38217	15.20
+	"Georgia"	"13"	"Non-Hispanic Black"	"7"	"1996"	"1996"	565	38167	14.80
+	"Georgia"	"13"	"Non-Hispanic Black"	"7"	"1997"	"1997"	519	39404	13.17
+	"Georgia"	"13"	"Non-Hispanic Black"	"7"	"1998"	"1998"	536	40913	13.10
+	"Hawaii"	"15"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	407	Suppressed
+	"Hawaii"	"15"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	417	Suppressed
+	"Hawaii"	"15"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	424	Suppressed
+	"Hawaii"	"15"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	428	Suppressed
+	"Hawaii"	"15"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	608	Suppressed
+	"Hawaii"	"15"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	628	Suppressed
+	"Hawaii"	"15"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	666	Suppressed
+	"Hawaii"	"15"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	642	Suppressed
+	"Hawaii"	"15"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Hawaii"	"15"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	11	Suppressed
+	"Hawaii"	"15"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Hawaii"	"15"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	12	Suppressed
+	"Hawaii"	"15"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	58	Suppressed
+	"Hawaii"	"15"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	86	Suppressed
+	"Hawaii"	"15"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	83	Suppressed
+	"Hawaii"	"15"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	74	Suppressed
+	"Hawaii"	"15"	"Non-Hispanic White"	"6"	"1995"	"1995"	22	4311	5.10
+	"Hawaii"	"15"	"Non-Hispanic White"	"6"	"1996"	"1996"	22	4118	5.34
+	"Hawaii"	"15"	"Non-Hispanic White"	"6"	"1997"	"1997"	19	3766	5.05 (Unreliable)
+	"Hawaii"	"15"	"Non-Hispanic White"	"6"	"1998"	"1998"	22	3529	6.23
+	"Hawaii"	"15"	"Non-Hispanic Black"	"7"	"1995"	"1995"	10	540	18.52 (Unreliable)
+	"Hawaii"	"15"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	489	Suppressed
+	"Hawaii"	"15"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	550	Suppressed
+	"Hawaii"	"15"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	524	Suppressed
+	"Idaho"	"16"	"Mexican"	"2148-5"	"1995"	"1995"	15	1791	8.38 (Unreliable)
+	"Idaho"	"16"	"Mexican"	"2148-5"	"1996"	"1996"	12	1849	6.49 (Unreliable)
+	"Idaho"	"16"	"Mexican"	"2148-5"	"1997"	"1997"	11	2046	5.38 (Unreliable)
+	"Idaho"	"16"	"Mexican"	"2148-5"	"1998"	"1998"	18	2159	8.34 (Unreliable)
+	"Idaho"	"16"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	12	Suppressed
+	"Idaho"	"16"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	10	Suppressed
+	"Idaho"	"16"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	20	Suppressed
+	"Idaho"	"16"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	21	Suppressed
+	"Idaho"	"16"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	50	Suppressed
+	"Idaho"	"16"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	62	Suppressed
+	"Idaho"	"16"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	77	Suppressed
+	"Idaho"	"16"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	64	Suppressed
+	"Idaho"	"16"	"Non-Hispanic White"	"6"	"1995"	"1995"	88	15375	5.72
+	"Idaho"	"16"	"Non-Hispanic White"	"6"	"1996"	"1996"	109	15614	6.98
+	"Idaho"	"16"	"Non-Hispanic White"	"6"	"1997"	"1997"	99	15387	6.43
+	"Idaho"	"16"	"Non-Hispanic White"	"6"	"1998"	"1998"	103	16091	6.40
+	"Idaho"	"16"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	71	Suppressed
+	"Idaho"	"16"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	72	Suppressed
+	"Idaho"	"16"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	63	Suppressed
+	"Idaho"	"16"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	80	Suppressed
+	"Illinois"	"17"	"Mexican"	"2148-5"	"1995"	"1995"	179	26168	6.84
+	"Illinois"	"17"	"Mexican"	"2148-5"	"1996"	"1996"	176	27067	6.50
+	"Illinois"	"17"	"Mexican"	"2148-5"	"1997"	"1997"	188	27366	6.87
+	"Illinois"	"17"	"Mexican"	"2148-5"	"1998"	"1998"	187	28938	6.46
+	"Illinois"	"17"	"Puerto Rican"	"2180-8"	"1995"	"1995"	28	3075	9.11
+	"Illinois"	"17"	"Puerto Rican"	"2180-8"	"1996"	"1996"	28	2885	9.71
+	"Illinois"	"17"	"Puerto Rican"	"2180-8"	"1997"	"1997"	26	2850	9.12
+	"Illinois"	"17"	"Puerto Rican"	"2180-8"	"1998"	"1998"	23	2917	7.88
+	"Illinois"	"17"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	196	Suppressed
+	"Illinois"	"17"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	192	Suppressed
+	"Illinois"	"17"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	201	Suppressed
+	"Illinois"	"17"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	163	Suppressed
+	"Illinois"	"17"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	898	Suppressed
+	"Illinois"	"17"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	858	Suppressed
+	"Illinois"	"17"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	988	Suppressed
+	"Illinois"	"17"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	1012	Suppressed
+	"Illinois"	"17"	"Non-Hispanic White"	"6"	"1995"	"1995"	777	110180	7.05
+	"Illinois"	"17"	"Non-Hispanic White"	"6"	"1996"	"1996"	678	107706	6.29
+	"Illinois"	"17"	"Non-Hispanic White"	"6"	"1997"	"1997"	659	105487	6.25
+	"Illinois"	"17"	"Non-Hispanic White"	"6"	"1998"	"1998"	655	105367	6.22
+	"Illinois"	"17"	"Non-Hispanic Black"	"7"	"1995"	"1995"	683	37308	18.31
+	"Illinois"	"17"	"Non-Hispanic Black"	"7"	"1996"	"1996"	635	36014	17.63
+	"Illinois"	"17"	"Non-Hispanic Black"	"7"	"1997"	"1997"	583	35256	16.54
+	"Illinois"	"17"	"Non-Hispanic Black"	"7"	"1998"	"1998"	604	35481	17.02
+	"Indiana"	"18"	"Mexican"	"2148-5"	"1995"	"1995"	16	1921	8.33 (Unreliable)
+	"Indiana"	"18"	"Mexican"	"2148-5"	"1996"	"1996"	22	2307	9.54
+	"Indiana"	"18"	"Mexican"	"2148-5"	"1997"	"1997"	17	2651	6.41 (Unreliable)
+	"Indiana"	"18"	"Mexican"	"2148-5"	"1998"	"1998"	21	2935	7.16
+	"Indiana"	"18"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	271	Suppressed
+	"Indiana"	"18"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	258	Suppressed
+	"Indiana"	"18"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	306	Suppressed
+	"Indiana"	"18"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	301	Suppressed
+	"Indiana"	"18"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	20	Suppressed
+	"Indiana"	"18"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	22	Suppressed
+	"Indiana"	"18"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	22	Suppressed
+	"Indiana"	"18"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	18	Suppressed
+	"Indiana"	"18"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	131	Suppressed
+	"Indiana"	"18"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	137	Suppressed
+	"Indiana"	"18"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	210	Suppressed
+	"Indiana"	"18"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	337	Suppressed
+	"Indiana"	"18"	"Non-Hispanic White"	"6"	"1995"	"1995"	519	70525	7.36
+	"Indiana"	"18"	"Non-Hispanic White"	"6"	"1996"	"1996"	536	70539	7.60
+	"Indiana"	"18"	"Non-Hispanic White"	"6"	"1997"	"1997"	523	69840	7.49
+	"Indiana"	"18"	"Non-Hispanic White"	"6"	"1998"	"1998"	468	70642	6.62
+	"Indiana"	"18"	"Non-Hispanic Black"	"7"	"1995"	"1995"	140	8674	16.14
+	"Indiana"	"18"	"Non-Hispanic Black"	"7"	"1996"	"1996"	143	8759	16.33
+	"Indiana"	"18"	"Non-Hispanic Black"	"7"	"1997"	"1997"	125	8749	14.29
+	"Indiana"	"18"	"Non-Hispanic Black"	"7"	"1998"	"1998"	139	9222	15.07
+	"Iowa"	"19"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	1009	Suppressed
+	"Iowa"	"19"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	1164	Suppressed
+	"Iowa"	"19"	"Mexican"	"2148-5"	"1997"	"1997"	10	1296	7.72 (Unreliable)
+	"Iowa"	"19"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	1387	Suppressed
+	"Iowa"	"19"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	35	Suppressed
+	"Iowa"	"19"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	32	Suppressed
+	"Iowa"	"19"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	29	Suppressed
+	"Iowa"	"19"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	45	Suppressed
+	"Iowa"	"19"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	108	Suppressed
+	"Iowa"	"19"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	164	Suppressed
+	"Iowa"	"19"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	179	Suppressed
+	"Iowa"	"19"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	189	Suppressed
+	"Iowa"	"19"	"Non-Hispanic White"	"6"	"1995"	"1995"	262	33463	7.83
+	"Iowa"	"19"	"Non-Hispanic White"	"6"	"1996"	"1996"	217	33311	6.51
+	"Iowa"	"19"	"Non-Hispanic White"	"6"	"1997"	"1997"	192	32685	5.87
+	"Iowa"	"19"	"Non-Hispanic White"	"6"	"1998"	"1998"	208	33188	6.27
+	"Iowa"	"19"	"Non-Hispanic Black"	"7"	"1995"	"1995"	15	963	15.58 (Unreliable)
+	"Iowa"	"19"	"Non-Hispanic Black"	"7"	"1996"	"1996"	20	981	20.39
+	"Iowa"	"19"	"Non-Hispanic Black"	"7"	"1997"	"1997"	14	1049	13.35 (Unreliable)
+	"Iowa"	"19"	"Non-Hispanic Black"	"7"	"1998"	"1998"	16	1034	15.47 (Unreliable)
+	"Kansas"	"20"	"Mexican"	"2148-5"	"1995"	"1995"	17	2370	7.17 (Unreliable)
+	"Kansas"	"20"	"Mexican"	"2148-5"	"1996"	"1996"	21	2781	7.55
+	"Kansas"	"20"	"Mexican"	"2148-5"	"1997"	"1997"	21	2981	7.04
+	"Kansas"	"20"	"Mexican"	"2148-5"	"1998"	"1998"	18	3344	5.38 (Unreliable)
+	"Kansas"	"20"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	71	Suppressed
+	"Kansas"	"20"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	64	Suppressed
+	"Kansas"	"20"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	81	Suppressed
+	"Kansas"	"20"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	83	Suppressed
+	"Kansas"	"20"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	14	Suppressed
+	"Kansas"	"20"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	15	Suppressed
+	"Kansas"	"20"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	20	Suppressed
+	"Kansas"	"20"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	21	Suppressed
+	"Kansas"	"20"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	140	Suppressed
+	"Kansas"	"20"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	136	Suppressed
+	"Kansas"	"20"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	190	Suppressed
+	"Kansas"	"20"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	186	Suppressed
+	"Kansas"	"20"	"Non-Hispanic White"	"6"	"1995"	"1995"	180	30010	6.00
+	"Kansas"	"20"	"Non-Hispanic White"	"6"	"1996"	"1996"	214	29288	7.31
+	"Kansas"	"20"	"Non-Hispanic White"	"6"	"1997"	"1997"	198	29430	6.73
+	"Kansas"	"20"	"Non-Hispanic White"	"6"	"1998"	"1998"	222	30013	7.40
+	"Kansas"	"20"	"Non-Hispanic Black"	"7"	"1995"	"1995"	45	2857	15.75
+	"Kansas"	"20"	"Non-Hispanic Black"	"7"	"1996"	"1996"	55	2740	20.07
+	"Kansas"	"20"	"Non-Hispanic Black"	"7"	"1997"	"1997"	41	2766	14.82
+	"Kansas"	"20"	"Non-Hispanic Black"	"7"	"1998"	"1998"	23	2759	8.34
+	"Kentucky"	"21"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	260	Suppressed
+	"Kentucky"	"21"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	349	Suppressed
+	"Kentucky"	"21"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	488	Suppressed
+	"Kentucky"	"21"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	507	Suppressed
+	"Kentucky"	"21"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	74	Suppressed
+	"Kentucky"	"21"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	59	Suppressed
+	"Kentucky"	"21"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	79	Suppressed
+	"Kentucky"	"21"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	84	Suppressed
+	"Kentucky"	"21"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	28	Suppressed
+	"Kentucky"	"21"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	22	Suppressed
+	"Kentucky"	"21"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	30	Suppressed
+	"Kentucky"	"21"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	32	Suppressed
+	"Kentucky"	"21"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	70	Suppressed
+	"Kentucky"	"21"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	85	Suppressed
+	"Kentucky"	"21"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	78	Suppressed
+	"Kentucky"	"21"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	103	Suppressed
+	"Kentucky"	"21"	"Non-Hispanic White"	"6"	"1995"	"1995"	336	46634	7.21
+	"Kentucky"	"21"	"Non-Hispanic White"	"6"	"1996"	"1996"	320	46727	6.85
+	"Kentucky"	"21"	"Non-Hispanic White"	"6"	"1997"	"1997"	323	47230	6.84
+	"Kentucky"	"21"	"Non-Hispanic White"	"6"	"1998"	"1998"	329	48095	6.84
+	"Kentucky"	"21"	"Non-Hispanic Black"	"7"	"1995"	"1995"	52	4759	10.93
+	"Kentucky"	"21"	"Non-Hispanic Black"	"7"	"1996"	"1996"	61	4830	12.63
+	"Kentucky"	"21"	"Non-Hispanic Black"	"7"	"1997"	"1997"	46	4630	9.94
+	"Kentucky"	"21"	"Non-Hispanic Black"	"7"	"1998"	"1998"	70	4845	14.45
+	"Louisiana"	"22"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	405	Suppressed
+	"Louisiana"	"22"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	400	Suppressed
+	"Louisiana"	"22"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	469	Suppressed
+	"Louisiana"	"22"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	480	Suppressed
+	"Louisiana"	"22"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	172	Suppressed
+	"Louisiana"	"22"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	165	Suppressed
+	"Louisiana"	"22"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	83	Suppressed
+	"Louisiana"	"22"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	83	Suppressed
+	"Louisiana"	"22"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	54	Suppressed
+	"Louisiana"	"22"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	60	Suppressed
+	"Louisiana"	"22"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	61	Suppressed
+	"Louisiana"	"22"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	65	Suppressed
+	"Louisiana"	"22"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	280	Suppressed
+	"Louisiana"	"22"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	177	Suppressed
+	"Louisiana"	"22"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	146	Suppressed
+	"Louisiana"	"22"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	135	Suppressed
+	"Louisiana"	"22"	"Non-Hispanic White"	"6"	"1995"	"1995"	235	36448	6.45
+	"Louisiana"	"22"	"Non-Hispanic White"	"6"	"1996"	"1996"	242	36184	6.69
+	"Louisiana"	"22"	"Non-Hispanic White"	"6"	"1997"	"1997"	253	36445	6.94
+	"Louisiana"	"22"	"Non-Hispanic White"	"6"	"1998"	"1998"	229	36756	6.23
+	"Louisiana"	"22"	"Non-Hispanic Black"	"7"	"1995"	"1995"	400	26784	14.93
+	"Louisiana"	"22"	"Non-Hispanic Black"	"7"	"1996"	"1996"	326	26438	12.33
+	"Louisiana"	"22"	"Non-Hispanic Black"	"7"	"1997"	"1997"	362	27097	13.36
+	"Louisiana"	"22"	"Non-Hispanic Black"	"7"	"1998"	"1998"	369	27385	13.47
+	"Maine"	"23"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	25	Suppressed
+	"Maine"	"23"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	22	Suppressed
+	"Maine"	"23"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	21	Suppressed
+	"Maine"	"23"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	29	Suppressed
+	"Maine"	"23"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	12	Suppressed
+	"Maine"	"23"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	11	Suppressed
+	"Maine"	"23"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	21	Suppressed
+	"Maine"	"23"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	15	Suppressed
+	"Maine"	"23"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	13	Suppressed
+	"Maine"	"23"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	21	Suppressed
+	"Maine"	"23"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"Non-Hispanic White"	"6"	"1995"	"1995"	82	13248	6.19
+	"Maine"	"23"	"Non-Hispanic White"	"6"	"1996"	"1996"	50	12951	3.86
+	"Maine"	"23"	"Non-Hispanic White"	"6"	"1997"	"1997"	67	12656	5.29
+	"Maine"	"23"	"Non-Hispanic White"	"6"	"1998"	"1998"	82	12674	6.47
+	"Maine"	"23"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	66	Suppressed
+	"Maine"	"23"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	80	Suppressed
+	"Maine"	"23"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	68	Suppressed
+	"Maine"	"23"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	78	Suppressed
+	"Maryland"	"24"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	509	Suppressed
+	"Maryland"	"24"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	558	Suppressed
+	"Maryland"	"24"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	533	Suppressed
+	"Maryland"	"24"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	616	Suppressed
+	"Maryland"	"24"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	245	Suppressed
+	"Maryland"	"24"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	231	Suppressed
+	"Maryland"	"24"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	240	Suppressed
+	"Maryland"	"24"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	266	Suppressed
+	"Maryland"	"24"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	51	Suppressed
+	"Maryland"	"24"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	44	Suppressed
+	"Maryland"	"24"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	55	Suppressed
+	"Maryland"	"24"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	55	Suppressed
+	"Maryland"	"24"	"Central or South American"	"4"	"1995"	"1995"	10	1747	5.72 (Unreliable)
+	"Maryland"	"24"	"Central or South American"	"4"	"1996"	"1996"	10	1704	5.87 (Unreliable)
+	"Maryland"	"24"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	1640	Suppressed
+	"Maryland"	"24"	"Central or South American"	"4"	"1998"	"1998"	16	1788	8.95 (Unreliable)
+	"Maryland"	"24"	"Non-Hispanic White"	"6"	"1995"	"1995"	253	43477	5.82
+	"Maryland"	"24"	"Non-Hispanic White"	"6"	"1996"	"1996"	242	42214	5.73
+	"Maryland"	"24"	"Non-Hispanic White"	"6"	"1997"	"1997"	227	40890	5.55
+	"Maryland"	"24"	"Non-Hispanic White"	"6"	"1998"	"1998"	234	40893	5.72
+	"Maryland"	"24"	"Non-Hispanic Black"	"7"	"1995"	"1995"	347	22348	15.53
+	"Maryland"	"24"	"Non-Hispanic Black"	"7"	"1996"	"1996"	308	22497	13.69
+	"Maryland"	"24"	"Non-Hispanic Black"	"7"	"1997"	"1997"	348	22490	15.47
+	"Maryland"	"24"	"Non-Hispanic Black"	"7"	"1998"	"1998"	334	23741	14.07
+	"Massachusetts"	"25"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	321	Suppressed
+	"Massachusetts"	"25"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	282	Suppressed
+	"Massachusetts"	"25"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	282	Suppressed
+	"Massachusetts"	"25"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	351	Suppressed
+	"Massachusetts"	"25"	"Puerto Rican"	"2180-8"	"1995"	"1995"	38	4077	9.32
+	"Massachusetts"	"25"	"Puerto Rican"	"2180-8"	"1996"	"1996"	24	4080	5.88
+	"Massachusetts"	"25"	"Puerto Rican"	"2180-8"	"1997"	"1997"	41	4386	9.35
+	"Massachusetts"	"25"	"Puerto Rican"	"2180-8"	"1998"	"1998"	34	4469	7.61
+	"Massachusetts"	"25"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	92	Suppressed
+	"Massachusetts"	"25"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	109	Suppressed
+	"Massachusetts"	"25"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	90	Suppressed
+	"Massachusetts"	"25"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	68	Suppressed
+	"Massachusetts"	"25"	"Central or South American"	"4"	"1995"	"1995"	20	3195	6.26
+	"Massachusetts"	"25"	"Central or South American"	"4"	"1996"	"1996"	17	3014	5.64 (Unreliable)
+	"Massachusetts"	"25"	"Central or South American"	"4"	"1997"	"1997"	17	3152	5.39 (Unreliable)
+	"Massachusetts"	"25"	"Central or South American"	"4"	"1998"	"1998"	21	3390	6.19
+	"Massachusetts"	"25"	"Non-Hispanic White"	"6"	"1995"	"1995"	267	63067	4.23
+	"Massachusetts"	"25"	"Non-Hispanic White"	"6"	"1996"	"1996"	266	62052	4.29
+	"Massachusetts"	"25"	"Non-Hispanic White"	"6"	"1997"	"1997"	273	61446	4.44
+	"Massachusetts"	"25"	"Non-Hispanic White"	"6"	"1998"	"1998"	279	62073	4.49
+	"Massachusetts"	"25"	"Non-Hispanic Black"	"7"	"1995"	"1995"	64	6272	10.20
+	"Massachusetts"	"25"	"Non-Hispanic Black"	"7"	"1996"	"1996"	68	5886	11.55
+	"Massachusetts"	"25"	"Non-Hispanic Black"	"7"	"1997"	"1997"	62	6208	9.99
+	"Massachusetts"	"25"	"Non-Hispanic Black"	"7"	"1998"	"1998"	66	6322	10.44
+	"Michigan"	"26"	"Mexican"	"2148-5"	"1995"	"1995"	23	3196	7.20
+	"Michigan"	"26"	"Mexican"	"2148-5"	"1996"	"1996"	24	3636	6.60
+	"Michigan"	"26"	"Mexican"	"2148-5"	"1997"	"1997"	33	3971	8.31
+	"Michigan"	"26"	"Mexican"	"2148-5"	"1998"	"1998"	24	4420	5.43
+	"Michigan"	"26"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	425	Suppressed
+	"Michigan"	"26"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	367	Suppressed
+	"Michigan"	"26"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	399	Suppressed
+	"Michigan"	"26"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	467	Suppressed
+	"Michigan"	"26"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	68	Suppressed
+	"Michigan"	"26"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	62	Suppressed
+	"Michigan"	"26"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	67	Suppressed
+	"Michigan"	"26"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	65	Suppressed
+	"Michigan"	"26"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	236	Suppressed
+	"Michigan"	"26"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	288	Suppressed
+	"Michigan"	"26"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	333	Suppressed
+	"Michigan"	"26"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	334	Suppressed
+	"Michigan"	"26"	"Non-Hispanic White"	"6"	"1995"	"1995"	619	95715	6.47
+	"Michigan"	"26"	"Non-Hispanic White"	"6"	"1996"	"1996"	582	94990	6.13
+	"Michigan"	"26"	"Non-Hispanic White"	"6"	"1997"	"1997"	580	93875	6.18
+	"Michigan"	"26"	"Non-Hispanic White"	"6"	"1998"	"1998"	595	92972	6.40
+	"Michigan"	"26"	"Non-Hispanic Black"	"7"	"1995"	"1995"	409	24679	16.57
+	"Michigan"	"26"	"Non-Hispanic Black"	"7"	"1996"	"1996"	387	23792	16.27
+	"Michigan"	"26"	"Non-Hispanic Black"	"7"	"1997"	"1997"	385	23957	16.07
+	"Michigan"	"26"	"Non-Hispanic Black"	"7"	"1998"	"1998"	365	24007	15.20
+	"Minnesota"	"27"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	1439	Suppressed
+	"Minnesota"	"27"	"Mexican"	"2148-5"	"1996"	"1996"	11	1768	6.22 (Unreliable)
+	"Minnesota"	"27"	"Mexican"	"2148-5"	"1997"	"1997"	15	2064	7.27 (Unreliable)
+	"Minnesota"	"27"	"Mexican"	"2148-5"	"1998"	"1998"	14	2322	6.03 (Unreliable)
+	"Minnesota"	"27"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	68	Suppressed
+	"Minnesota"	"27"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	83	Suppressed
+	"Minnesota"	"27"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	87	Suppressed
+	"Minnesota"	"27"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	82	Suppressed
+	"Minnesota"	"27"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	10	Suppressed
+	"Minnesota"	"27"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	18	Suppressed
+	"Minnesota"	"27"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	11	Suppressed
+	"Minnesota"	"27"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	26	Suppressed
+	"Minnesota"	"27"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	194	Suppressed
+	"Minnesota"	"27"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	232	Suppressed
+	"Minnesota"	"27"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	266	Suppressed
+	"Minnesota"	"27"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	320	Suppressed
+	"Minnesota"	"27"	"Non-Hispanic White"	"6"	"1995"	"1995"	306	49834	6.14
+	"Minnesota"	"27"	"Non-Hispanic White"	"6"	"1996"	"1996"	269	50726	5.30
+	"Minnesota"	"27"	"Non-Hispanic White"	"6"	"1997"	"1997"	278	51234	5.43
+	"Minnesota"	"27"	"Non-Hispanic White"	"6"	"1998"	"1998"	273	51089	5.34
+	"Minnesota"	"27"	"Non-Hispanic Black"	"7"	"1995"	"1995"	42	2705	15.53
+	"Minnesota"	"27"	"Non-Hispanic Black"	"7"	"1996"	"1996"	36	3049	11.81
+	"Minnesota"	"27"	"Non-Hispanic Black"	"7"	"1997"	"1997"	43	3284	13.09
+	"Minnesota"	"27"	"Non-Hispanic Black"	"7"	"1998"	"1998"	43	3594	11.96
+	"Mississippi"	"28"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	110	Suppressed
+	"Mississippi"	"28"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	136	Suppressed
+	"Mississippi"	"28"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	154	Suppressed
+	"Mississippi"	"28"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	195	Suppressed
+	"Mississippi"	"28"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	16	Suppressed
+	"Mississippi"	"28"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	17	Suppressed
+	"Mississippi"	"28"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	17	Suppressed
+	"Mississippi"	"28"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	20	Suppressed
+	"Mississippi"	"28"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	10	Suppressed
+	"Mississippi"	"28"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	11	Suppressed
+	"Mississippi"	"28"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	12	Suppressed
+	"Mississippi"	"28"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	18	Suppressed
+	"Mississippi"	"28"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	21	Suppressed
+	"Mississippi"	"28"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	20	Suppressed
+	"Mississippi"	"28"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	27	Suppressed
+	"Mississippi"	"28"	"Non-Hispanic White"	"6"	"1995"	"1995"	146	21321	6.85
+	"Mississippi"	"28"	"Non-Hispanic White"	"6"	"1996"	"1996"	162	21156	7.66
+	"Mississippi"	"28"	"Non-Hispanic White"	"6"	"1997"	"1997"	159	21663	7.34
+	"Mississippi"	"28"	"Non-Hispanic White"	"6"	"1998"	"1998"	139	22523	6.17
+	"Mississippi"	"28"	"Non-Hispanic Black"	"7"	"1995"	"1995"	277	19241	14.40
+	"Mississippi"	"28"	"Non-Hispanic Black"	"7"	"1996"	"1996"	275	18958	14.51
+	"Mississippi"	"28"	"Non-Hispanic Black"	"7"	"1997"	"1997"	277	18961	14.61
+	"Mississippi"	"28"	"Non-Hispanic Black"	"7"	"1998"	"1998"	287	19343	14.84
+	"Missouri"	"29"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	942	Suppressed
+	"Missouri"	"29"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	1131	Suppressed
+	"Missouri"	"29"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	1298	Suppressed
+	"Missouri"	"29"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	1439	Suppressed
+	"Missouri"	"29"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	73	Suppressed
+	"Missouri"	"29"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	75	Suppressed
+	"Missouri"	"29"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	78	Suppressed
+	"Missouri"	"29"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	75	Suppressed
+	"Missouri"	"29"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	16	Suppressed
+	"Missouri"	"29"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	23	Suppressed
+	"Missouri"	"29"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	27	Suppressed
+	"Missouri"	"29"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	35	Suppressed
+	"Missouri"	"29"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	131	Suppressed
+	"Missouri"	"29"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	145	Suppressed
+	"Missouri"	"29"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	191	Suppressed
+	"Missouri"	"29"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	224	Suppressed
+	"Missouri"	"29"	"Non-Hispanic White"	"6"	"1995"	"1995"	371	59423	6.24
+	"Missouri"	"29"	"Non-Hispanic White"	"6"	"1996"	"1996"	380	59757	6.36
+	"Missouri"	"29"	"Non-Hispanic White"	"6"	"1997"	"1997"	367	59788	6.14
+	"Missouri"	"29"	"Non-Hispanic White"	"6"	"1998"	"1998"	376	60554	6.21
+	"Missouri"	"29"	"Non-Hispanic Black"	"7"	"1995"	"1995"	145	10990	13.19
+	"Missouri"	"29"	"Non-Hispanic Black"	"7"	"1996"	"1996"	166	11089	14.97
+	"Missouri"	"29"	"Non-Hispanic Black"	"7"	"1997"	"1997"	167	10999	15.18
+	"Missouri"	"29"	"Non-Hispanic Black"	"7"	"1998"	"1998"	186	11367	16.36
+	"Montana"	"30"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	175	Suppressed
+	"Montana"	"30"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	173	Suppressed
+	"Montana"	"30"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	168	Suppressed
+	"Montana"	"30"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	161	Suppressed
+	"Montana"	"30"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	12	Suppressed
+	"Montana"	"30"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	11	Suppressed
+	"Montana"	"30"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	16	Suppressed
+	"Montana"	"30"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	10	Suppressed
+	"Montana"	"30"	"Non-Hispanic White"	"6"	"1995"	"1995"	67	9226	7.26
+	"Montana"	"30"	"Non-Hispanic White"	"6"	"1996"	"1996"	57	8894	6.41
+	"Montana"	"30"	"Non-Hispanic White"	"6"	"1997"	"1997"	53	8818	6.01
+	"Montana"	"30"	"Non-Hispanic White"	"6"	"1998"	"1998"	64	8951	7.15
+	"Montana"	"30"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	33	Suppressed
+	"Montana"	"30"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	31	Suppressed
+	"Montana"	"30"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	18	Suppressed
+	"Montana"	"30"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	38	Suppressed
+	"Nebraska"	"31"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	1259	Suppressed
+	"Nebraska"	"31"	"Mexican"	"2148-5"	"1996"	"1996"	12	1436	8.36 (Unreliable)
+	"Nebraska"	"31"	"Mexican"	"2148-5"	"1997"	"1997"	17	1563	10.88 (Unreliable)
+	"Nebraska"	"31"	"Mexican"	"2148-5"	"1998"	"1998"	10	1729	5.78 (Unreliable)
+	"Nebraska"	"31"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	18	Suppressed
+	"Nebraska"	"31"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	25	Suppressed
+	"Nebraska"	"31"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	22	Suppressed
+	"Nebraska"	"31"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	18	Suppressed
+	"Nebraska"	"31"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	12	Suppressed
+	"Nebraska"	"31"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	10	Suppressed
+	"Nebraska"	"31"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	150	Suppressed
+	"Nebraska"	"31"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	184	Suppressed
+	"Nebraska"	"31"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	219	Suppressed
+	"Nebraska"	"31"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	243	Suppressed
+	"Nebraska"	"31"	"Non-Hispanic White"	"6"	"1995"	"1995"	135	19289	7.00
+	"Nebraska"	"31"	"Non-Hispanic White"	"6"	"1996"	"1996"	158	19050	8.29
+	"Nebraska"	"31"	"Non-Hispanic White"	"6"	"1997"	"1997"	126	18817	6.70
+	"Nebraska"	"31"	"Non-Hispanic White"	"6"	"1998"	"1998"	121	18753	6.45
+	"Nebraska"	"31"	"Non-Hispanic Black"	"7"	"1995"	"1995"	11	1209	9.10 (Unreliable)
+	"Nebraska"	"31"	"Non-Hispanic Black"	"7"	"1996"	"1996"	17	1193	14.25 (Unreliable)
+	"Nebraska"	"31"	"Non-Hispanic Black"	"7"	"1997"	"1997"	21	1236	16.99
+	"Nebraska"	"31"	"Non-Hispanic Black"	"7"	"1998"	"1998"	24	1227	19.56
+	"Nevada"	"32"	"Mexican"	"2148-5"	"1995"	"1995"	22	4989	4.41
+	"Nevada"	"32"	"Mexican"	"2148-5"	"1996"	"1996"	25	5695	4.39
+	"Nevada"	"32"	"Mexican"	"2148-5"	"1997"	"1997"	35	6201	5.64
+	"Nevada"	"32"	"Mexican"	"2148-5"	"1998"	"1998"	44	7086	6.21
+	"Nevada"	"32"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	122	Suppressed
+	"Nevada"	"32"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	134	Suppressed
+	"Nevada"	"32"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	163	Suppressed
+	"Nevada"	"32"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	170	Suppressed
+	"Nevada"	"32"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	117	Suppressed
+	"Nevada"	"32"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	138	Suppressed
+	"Nevada"	"32"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	136	Suppressed
+	"Nevada"	"32"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	165	Suppressed
+	"Nevada"	"32"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	646	Suppressed
+	"Nevada"	"32"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	725	Suppressed
+	"Nevada"	"32"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	718	Suppressed
+	"Nevada"	"32"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	640	Suppressed
+	"Nevada"	"32"	"Non-Hispanic White"	"6"	"1995"	"1995"	93	15459	6.02
+	"Nevada"	"32"	"Non-Hispanic White"	"6"	"1996"	"1996"	90	15386	5.85
+	"Nevada"	"32"	"Non-Hispanic White"	"6"	"1997"	"1997"	106	15121	7.01
+	"Nevada"	"32"	"Non-Hispanic White"	"6"	"1998"	"1998"	112	15603	7.18
+	"Nevada"	"32"	"Non-Hispanic Black"	"7"	"1995"	"1995"	16	1863	8.59 (Unreliable)
+	"Nevada"	"32"	"Non-Hispanic Black"	"7"	"1996"	"1996"	25	1941	12.88
+	"Nevada"	"32"	"Non-Hispanic Black"	"7"	"1997"	"1997"	23	2064	11.14
+	"Nevada"	"32"	"Non-Hispanic Black"	"7"	"1998"	"1998"	32	2182	14.67
+	"New Hampshire"	"33"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	48	Suppressed
+	"New Hampshire"	"33"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	58	Suppressed
+	"New Hampshire"	"33"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	64	Suppressed
+	"New Hampshire"	"33"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	61	Suppressed
+	"New Hampshire"	"33"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	65	Suppressed
+	"New Hampshire"	"33"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	73	Suppressed
+	"New Hampshire"	"33"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	64	Suppressed
+	"New Hampshire"	"33"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	74	Suppressed
+	"New Hampshire"	"33"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	17	Suppressed
+	"New Hampshire"	"33"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	13	Suppressed
+	"New Hampshire"	"33"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	27	Suppressed
+	"New Hampshire"	"33"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	23	Suppressed
+	"New Hampshire"	"33"	"Non-Hispanic White"	"6"	"1995"	"1995"	71	13659	5.20
+	"New Hampshire"	"33"	"Non-Hispanic White"	"6"	"1996"	"1996"	58	13649	4.25
+	"New Hampshire"	"33"	"Non-Hispanic White"	"6"	"1997"	"1997"	56	13350	4.19
+	"New Hampshire"	"33"	"Non-Hispanic White"	"6"	"1998"	"1998"	55	13332	4.13
+	"New Hampshire"	"33"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	75	Suppressed
+	"New Hampshire"	"33"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	98	Suppressed
+	"New Hampshire"	"33"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	96	Suppressed
+	"New Hampshire"	"33"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	116	Suppressed
+	"New Jersey"	"34"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	2105	Suppressed
+	"New Jersey"	"34"	"Mexican"	"2148-5"	"1996"	"1996"	22	2292	9.60
+	"New Jersey"	"34"	"Mexican"	"2148-5"	"1997"	"1997"	16	2399	6.67 (Unreliable)
+	"New Jersey"	"34"	"Mexican"	"2148-5"	"1998"	"1998"	11	2707	4.06 (Unreliable)
+	"New Jersey"	"34"	"Puerto Rican"	"2180-8"	"1995"	"1995"	64	7225	8.86
+	"New Jersey"	"34"	"Puerto Rican"	"2180-8"	"1996"	"1996"	61	7188	8.49
+	"New Jersey"	"34"	"Puerto Rican"	"2180-8"	"1997"	"1997"	62	6935	8.94
+	"New Jersey"	"34"	"Puerto Rican"	"2180-8"	"1998"	"1998"	69	7090	9.73
+	"New Jersey"	"34"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	890	Suppressed
+	"New Jersey"	"34"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	875	Suppressed
+	"New Jersey"	"34"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	927	Suppressed
+	"New Jersey"	"34"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	887	Suppressed
+	"New Jersey"	"34"	"Central or South American"	"4"	"1995"	"1995"	46	8235	5.59
+	"New Jersey"	"34"	"Central or South American"	"4"	"1996"	"1996"	51	8893	5.73
+	"New Jersey"	"34"	"Central or South American"	"4"	"1997"	"1997"	48	9107	5.27
+	"New Jersey"	"34"	"Central or South American"	"4"	"1998"	"1998"	38	9450	4.02
+	"New Jersey"	"34"	"Non-Hispanic White"	"6"	"1995"	"1995"	344	69375	4.96
+	"New Jersey"	"34"	"Non-Hispanic White"	"6"	"1996"	"1996"	293	67216	4.36
+	"New Jersey"	"34"	"Non-Hispanic White"	"6"	"1997"	"1997"	272	66168	4.11
+	"New Jersey"	"34"	"Non-Hispanic White"	"6"	"1998"	"1998"	286	66244	4.32
+	"New Jersey"	"34"	"Non-Hispanic Black"	"7"	"1995"	"1995"	240	19518	12.30
+	"New Jersey"	"34"	"Non-Hispanic Black"	"7"	"1996"	"1996"	287	19227	14.93
+	"New Jersey"	"34"	"Non-Hispanic Black"	"7"	"1997"	"1997"	273	19302	14.14
+	"New Jersey"	"34"	"Non-Hispanic Black"	"7"	"1998"	"1998"	255	19424	13.13
+	"New Mexico"	"35"	"Mexican"	"2148-5"	"1995"	"1995"	17	4351	3.91 (Unreliable)
+	"New Mexico"	"35"	"Mexican"	"2148-5"	"1996"	"1996"	31	4871	6.36
+	"New Mexico"	"35"	"Mexican"	"2148-5"	"1997"	"1997"	25	4475	5.59
+	"New Mexico"	"35"	"Mexican"	"2148-5"	"1998"	"1998"	40	4575	8.74
+	"New Mexico"	"35"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	36	Suppressed
+	"New Mexico"	"35"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	58	Suppressed
+	"New Mexico"	"35"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	48	Suppressed
+	"New Mexico"	"35"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	54	Suppressed
+	"New Mexico"	"35"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	53	Suppressed
+	"New Mexico"	"35"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	56	Suppressed
+	"New Mexico"	"35"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	50	Suppressed
+	"New Mexico"	"35"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	41	Suppressed
+	"New Mexico"	"35"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	74	Suppressed
+	"New Mexico"	"35"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	91	Suppressed
+	"New Mexico"	"35"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	91	Suppressed
+	"New Mexico"	"35"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	116	Suppressed
+	"New Mexico"	"35"	"Non-Hispanic White"	"6"	"1995"	"1995"	63	9914	6.35
+	"New Mexico"	"35"	"Non-Hispanic White"	"6"	"1996"	"1996"	67	10085	6.64
+	"New Mexico"	"35"	"Non-Hispanic White"	"6"	"1997"	"1997"	52	9545	5.45
+	"New Mexico"	"35"	"Non-Hispanic White"	"6"	"1998"	"1998"	67	9453	7.09
+	"New Mexico"	"35"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	473	Suppressed
+	"New Mexico"	"35"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	439	Suppressed
+	"New Mexico"	"35"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	477	Suppressed
+	"New Mexico"	"35"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	468	Suppressed
+	"New York"	"36"	"Mexican"	"2148-5"	"1995"	"1995"	31	6161	5.03
+	"New York"	"36"	"Mexican"	"2148-5"	"1996"	"1996"	38	6299	6.03
+	"New York"	"36"	"Mexican"	"2148-5"	"1997"	"1997"	37	6091	6.07
+	"New York"	"36"	"Mexican"	"2148-5"	"1998"	"1998"	22	6660	3.30
+	"New York"	"36"	"Puerto Rican"	"2180-8"	"1995"	"1995"	159	16127	9.86
+	"New York"	"36"	"Puerto Rican"	"2180-8"	"1996"	"1996"	131	15314	8.55
+	"New York"	"36"	"Puerto Rican"	"2180-8"	"1997"	"1997"	110	15434	7.13
+	"New York"	"36"	"Puerto Rican"	"2180-8"	"1998"	"1998"	110	15333	7.17
+	"New York"	"36"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	499	Suppressed
+	"New York"	"36"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	475	Suppressed
+	"New York"	"36"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	496	Suppressed
+	"New York"	"36"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	454	Suppressed
+	"New York"	"36"	"Central or South American"	"4"	"1995"	"1995"	151	24269	6.22
+	"New York"	"36"	"Central or South American"	"4"	"1996"	"1996"	127	24690	5.14
+	"New York"	"36"	"Central or South American"	"4"	"1997"	"1997"	114	23653	4.82
+	"New York"	"36"	"Central or South American"	"4"	"1998"	"1998"	118	21475	5.49
+	"New York"	"36"	"Non-Hispanic White"	"6"	"1995"	"1995"	636	121349	5.24
+	"New York"	"36"	"Non-Hispanic White"	"6"	"1996"	"1996"	541	119291	4.54
+	"New York"	"36"	"Non-Hispanic White"	"6"	"1997"	"1997"	550	117641	4.68
+	"New York"	"36"	"Non-Hispanic White"	"6"	"1998"	"1998"	547	124220	4.40
+	"New York"	"36"	"Non-Hispanic Black"	"7"	"1995"	"1995"	721	49730	14.50
+	"New York"	"36"	"Non-Hispanic Black"	"7"	"1996"	"1996"	654	48096	13.60
+	"New York"	"36"	"Non-Hispanic Black"	"7"	"1997"	"1997"	582	47172	12.34
+	"New York"	"36"	"Non-Hispanic Black"	"7"	"1998"	"1998"	579	48533	11.93
+	"North Carolina"	"37"	"Mexican"	"2148-5"	"1995"	"1995"	21	2935	7.16
+	"North Carolina"	"37"	"Mexican"	"2148-5"	"1996"	"1996"	22	3867	5.69
+	"North Carolina"	"37"	"Mexican"	"2148-5"	"1997"	"1997"	28	5069	5.52
+	"North Carolina"	"37"	"Mexican"	"2148-5"	"1998"	"1998"	33	6011	5.49
+	"North Carolina"	"37"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	413	Suppressed
+	"North Carolina"	"37"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	445	Suppressed
+	"North Carolina"	"37"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	499	Suppressed
+	"North Carolina"	"37"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	552	Suppressed
+	"North Carolina"	"37"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	60	Suppressed
+	"North Carolina"	"37"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	91	Suppressed
+	"North Carolina"	"37"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	91	Suppressed
+	"North Carolina"	"37"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	79	Suppressed
+	"North Carolina"	"37"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	592	Suppressed
+	"North Carolina"	"37"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	799	Suppressed
+	"North Carolina"	"37"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	847	Suppressed
+	"North Carolina"	"37"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	1373	Suppressed
+	"North Carolina"	"37"	"Non-Hispanic White"	"6"	"1995"	"1995"	457	67262	6.79
+	"North Carolina"	"37"	"Non-Hispanic White"	"6"	"1996"	"1996"	492	68481	7.18
+	"North Carolina"	"37"	"Non-Hispanic White"	"6"	"1997"	"1997"	487	69102	7.05
+	"North Carolina"	"37"	"Non-Hispanic White"	"6"	"1998"	"1998"	473	71294	6.63
+	"North Carolina"	"37"	"Non-Hispanic Black"	"7"	"1995"	"1995"	422	26833	15.73
+	"North Carolina"	"37"	"Non-Hispanic Black"	"7"	"1996"	"1996"	400	27029	14.80
+	"North Carolina"	"37"	"Non-Hispanic Black"	"7"	"1997"	"1997"	417	27376	15.23
+	"North Carolina"	"37"	"Non-Hispanic Black"	"7"	"1998"	"1998"	483	28153	17.16
+	"North Dakota"	"38"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	83	Suppressed
+	"North Dakota"	"38"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	78	Suppressed
+	"North Dakota"	"38"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	110	Suppressed
+	"North Dakota"	"38"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	96	Suppressed
+	"North Dakota"	"38"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	11	Suppressed
+	"North Dakota"	"38"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	12	Suppressed
+	"North Dakota"	"38"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	10	Suppressed
+	"North Dakota"	"38"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	15	Suppressed
+	"North Dakota"	"38"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	14	Suppressed
+	"North Dakota"	"38"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	12	Suppressed
+	"North Dakota"	"38"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	11	Suppressed
+	"North Dakota"	"38"	"Non-Hispanic White"	"6"	"1995"	"1995"	46	7375	6.24
+	"North Dakota"	"38"	"Non-Hispanic White"	"6"	"1996"	"1996"	37	7135	5.19
+	"North Dakota"	"38"	"Non-Hispanic White"	"6"	"1997"	"1997"	43	7100	6.06
+	"North Dakota"	"38"	"Non-Hispanic White"	"6"	"1998"	"1998"	54	6707	8.05
+	"North Dakota"	"38"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	68	Suppressed
+	"North Dakota"	"38"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	86	Suppressed
+	"North Dakota"	"38"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	80	Suppressed
+	"North Dakota"	"38"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	82	Suppressed
+	"Ohio"	"39"	"Mexican"	"2148-5"	"1995"	"1995"	11	1277	8.61 (Unreliable)
+	"Ohio"	"39"	"Mexican"	"2148-5"	"1996"	"1996"	11	1323	8.31 (Unreliable)
+	"Ohio"	"39"	"Mexican"	"2148-5"	"1997"	"1997"	11	1631	6.74 (Unreliable)
+	"Ohio"	"39"	"Mexican"	"2148-5"	"1998"	"1998"	11	1674	6.57 (Unreliable)
+	"Ohio"	"39"	"Puerto Rican"	"2180-8"	"1995"	"1995"	15	1147	13.08 (Unreliable)
+	"Ohio"	"39"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	1147	Suppressed
+	"Ohio"	"39"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	1195	Suppressed
+	"Ohio"	"39"	"Puerto Rican"	"2180-8"	"1998"	"1998"	17	1234	13.78 (Unreliable)
+	"Ohio"	"39"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	42	Suppressed
+	"Ohio"	"39"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	44	Suppressed
+	"Ohio"	"39"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	42	Suppressed
+	"Ohio"	"39"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	50	Suppressed
+	"Ohio"	"39"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	162	Suppressed
+	"Ohio"	"39"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	207	Suppressed
+	"Ohio"	"39"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	299	Suppressed
+	"Ohio"	"39"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	315	Suppressed
+	"Ohio"	"39"	"Non-Hispanic White"	"6"	"1995"	"1995"	926	126215	7.34
+	"Ohio"	"39"	"Non-Hispanic White"	"6"	"1996"	"1996"	791	124295	6.36
+	"Ohio"	"39"	"Non-Hispanic White"	"6"	"1997"	"1997"	818	123489	6.62
+	"Ohio"	"39"	"Non-Hispanic White"	"6"	"1998"	"1998"	850	123800	6.87
+	"Ohio"	"39"	"Non-Hispanic Black"	"7"	"1995"	"1995"	367	22702	16.17
+	"Ohio"	"39"	"Non-Hispanic Black"	"7"	"1996"	"1996"	337	21876	15.41
+	"Ohio"	"39"	"Non-Hispanic Black"	"7"	"1997"	"1997"	318	22120	14.38
+	"Ohio"	"39"	"Non-Hispanic Black"	"7"	"1998"	"1998"	305	22286	13.69
+	"Oklahoma"	"40"	"Mexican"	"2148-5"	"1995"	"1995"	11	1704	6.46 (Unreliable)
+	"Oklahoma"	"40"	"Mexican"	"2148-5"	"1996"	"1996"	12	2104	5.70 (Unreliable)
+	"Oklahoma"	"40"	"Mexican"	"2148-5"	"1997"	"1997"	14	2474	5.66 (Unreliable)
+	"Oklahoma"	"40"	"Mexican"	"2148-5"	"1998"	"1998"	19	2670	7.12 (Unreliable)
+	"Oklahoma"	"40"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	90	Suppressed
+	"Oklahoma"	"40"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	111	Suppressed
+	"Oklahoma"	"40"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	98	Suppressed
+	"Oklahoma"	"40"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	111	Suppressed
+	"Oklahoma"	"40"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Oklahoma"	"40"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	11	Suppressed
+	"Oklahoma"	"40"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	14	Suppressed
+	"Oklahoma"	"40"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	13	Suppressed
+	"Oklahoma"	"40"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	94	Suppressed
+	"Oklahoma"	"40"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	104	Suppressed
+	"Oklahoma"	"40"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	116	Suppressed
+	"Oklahoma"	"40"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	93	Suppressed
+	"Oklahoma"	"40"	"Non-Hispanic White"	"6"	"1995"	"1995"	274	33727	8.12
+	"Oklahoma"	"40"	"Non-Hispanic White"	"6"	"1996"	"1996"	247	33772	7.31
+	"Oklahoma"	"40"	"Non-Hispanic White"	"6"	"1997"	"1997"	245	34750	7.05
+	"Oklahoma"	"40"	"Non-Hispanic White"	"6"	"1998"	"1998"	298	35059	8.50
+	"Oklahoma"	"40"	"Non-Hispanic Black"	"7"	"1995"	"1995"	58	4469	12.98
+	"Oklahoma"	"40"	"Non-Hispanic Black"	"7"	"1996"	"1996"	76	4459	17.04
+	"Oklahoma"	"40"	"Non-Hispanic Black"	"7"	"1997"	"1997"	62	4676	13.26
+	"Oklahoma"	"40"	"Non-Hispanic Black"	"7"	"1998"	"1998"	60	4688	12.80
+	"Oregon"	"41"	"Mexican"	"2148-5"	"1995"	"1995"	25	4639	5.39
+	"Oregon"	"41"	"Mexican"	"2148-5"	"1996"	"1996"	35	5049	6.93
+	"Oregon"	"41"	"Mexican"	"2148-5"	"1997"	"1997"	35	5441	6.43
+	"Oregon"	"41"	"Mexican"	"2148-5"	"1998"	"1998"	31	6049	5.12
+	"Oregon"	"41"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	42	Suppressed
+	"Oregon"	"41"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	59	Suppressed
+	"Oregon"	"41"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	55	Suppressed
+	"Oregon"	"41"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	70	Suppressed
+	"Oregon"	"41"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	14	Suppressed
+	"Oregon"	"41"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	39	Suppressed
+	"Oregon"	"41"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	23	Suppressed
+	"Oregon"	"41"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	26	Suppressed
+	"Oregon"	"41"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	215	Suppressed
+	"Oregon"	"41"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	208	Suppressed
+	"Oregon"	"41"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	247	Suppressed
+	"Oregon"	"41"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	253	Suppressed
+	"Oregon"	"41"	"Non-Hispanic White"	"6"	"1995"	"1995"	216	34781	6.21
+	"Oregon"	"41"	"Non-Hispanic White"	"6"	"1996"	"1996"	176	34990	5.03
+	"Oregon"	"41"	"Non-Hispanic White"	"6"	"1997"	"1997"	188	34369	5.47
+	"Oregon"	"41"	"Non-Hispanic White"	"6"	"1998"	"1998"	186	35138	5.29
+	"Oregon"	"41"	"Non-Hispanic Black"	"7"	"1995"	"1995"	12	860	13.95 (Unreliable)
+	"Oregon"	"41"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	873	Suppressed
+	"Oregon"	"41"	"Non-Hispanic Black"	"7"	"1997"	"1997"	10	914	10.94 (Unreliable)
+	"Oregon"	"41"	"Non-Hispanic Black"	"7"	"1998"	"1998"	10	949	10.54 (Unreliable)
+	"Pennsylvania"	"42"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	764	Suppressed
+	"Pennsylvania"	"42"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	838	Suppressed
+	"Pennsylvania"	"42"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	834	Suppressed
+	"Pennsylvania"	"42"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	998	Suppressed
+	"Pennsylvania"	"42"	"Puerto Rican"	"2180-8"	"1995"	"1995"	32	4432	7.22
+	"Pennsylvania"	"42"	"Puerto Rican"	"2180-8"	"1996"	"1996"	56	4599	12.18
+	"Pennsylvania"	"42"	"Puerto Rican"	"2180-8"	"1997"	"1997"	41	4536	9.04
+	"Pennsylvania"	"42"	"Puerto Rican"	"2180-8"	"1998"	"1998"	36	4670	7.71
+	"Pennsylvania"	"42"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	97	Suppressed
+	"Pennsylvania"	"42"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	99	Suppressed
+	"Pennsylvania"	"42"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	99	Suppressed
+	"Pennsylvania"	"42"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	83	Suppressed
+	"Pennsylvania"	"42"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	664	Suppressed
+	"Pennsylvania"	"42"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	698	Suppressed
+	"Pennsylvania"	"42"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	560	Suppressed
+	"Pennsylvania"	"42"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	495	Suppressed
+	"Pennsylvania"	"42"	"Non-Hispanic White"	"6"	"1995"	"1995"	747	120544	6.20
+	"Pennsylvania"	"42"	"Non-Hispanic White"	"6"	"1996"	"1996"	748	117509	6.37
+	"Pennsylvania"	"42"	"Non-Hispanic White"	"6"	"1997"	"1997"	680	113297	6.00
+	"Pennsylvania"	"42"	"Non-Hispanic White"	"6"	"1998"	"1998"	641	114265	5.61
+	"Pennsylvania"	"42"	"Non-Hispanic Black"	"7"	"1995"	"1995"	364	21062	17.28
+	"Pennsylvania"	"42"	"Non-Hispanic Black"	"7"	"1996"	"1996"	319	20237	15.76
+	"Pennsylvania"	"42"	"Non-Hispanic Black"	"7"	"1997"	"1997"	332	19947	16.64
+	"Pennsylvania"	"42"	"Non-Hispanic Black"	"7"	"1998"	"1998"	301	20272	14.85
+	"Rhode Island"	"44"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	80	Suppressed
+	"Rhode Island"	"44"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	79	Suppressed
+	"Rhode Island"	"44"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	112	Suppressed
+	"Rhode Island"	"44"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	100	Suppressed
+	"Rhode Island"	"44"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	482	Suppressed
+	"Rhode Island"	"44"	"Puerto Rican"	"2180-8"	"1996"	"1996"	12	564	21.28 (Unreliable)
+	"Rhode Island"	"44"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	608	Suppressed
+	"Rhode Island"	"44"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	630	Suppressed
+	"Rhode Island"	"44"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	12	Suppressed
+	"Rhode Island"	"44"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	16	Suppressed
+	"Rhode Island"	"44"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	12	Suppressed
+	"Rhode Island"	"44"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	19	Suppressed
+	"Rhode Island"	"44"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	863	Suppressed
+	"Rhode Island"	"44"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	895	Suppressed
+	"Rhode Island"	"44"	"Central or South American"	"4"	"1997"	"1997"	16	944	16.95 (Unreliable)
+	"Rhode Island"	"44"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	1015	Suppressed
+	"Rhode Island"	"44"	"Non-Hispanic White"	"6"	"1995"	"1995"	50	8256	6.06
+	"Rhode Island"	"44"	"Non-Hispanic White"	"6"	"1996"	"1996"	30	8210	3.65
+	"Rhode Island"	"44"	"Non-Hispanic White"	"6"	"1997"	"1997"	41	7742	5.30
+	"Rhode Island"	"44"	"Non-Hispanic White"	"6"	"1998"	"1998"	43	7743	5.55
+	"Rhode Island"	"44"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	683	Suppressed
+	"Rhode Island"	"44"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	750	Suppressed
+	"Rhode Island"	"44"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	777	Suppressed
+	"Rhode Island"	"44"	"Non-Hispanic Black"	"7"	"1998"	"1998"	11	828	13.29 (Unreliable)
+	"South Carolina"	"45"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	427	Suppressed
+	"South Carolina"	"45"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	567	Suppressed
+	"South Carolina"	"45"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	739	Suppressed
+	"South Carolina"	"45"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	859	Suppressed
+	"South Carolina"	"45"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	107	Suppressed
+	"South Carolina"	"45"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	113	Suppressed
+	"South Carolina"	"45"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	120	Suppressed
+	"South Carolina"	"45"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	131	Suppressed
+	"South Carolina"	"45"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	16	Suppressed
+	"South Carolina"	"45"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	21	Suppressed
+	"South Carolina"	"45"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	11	Suppressed
+	"South Carolina"	"45"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	28	Suppressed
+	"South Carolina"	"45"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	115	Suppressed
+	"South Carolina"	"45"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	149	Suppressed
+	"South Carolina"	"45"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	178	Suppressed
+	"South Carolina"	"45"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	231	Suppressed
+	"South Carolina"	"45"	"Non-Hispanic White"	"6"	"1995"	"1995"	213	31127	6.84
+	"South Carolina"	"45"	"Non-Hispanic White"	"6"	"1996"	"1996"	176	31427	5.60
+	"South Carolina"	"45"	"Non-Hispanic White"	"6"	"1997"	"1997"	206	31971	6.44
+	"South Carolina"	"45"	"Non-Hispanic White"	"6"	"1998"	"1998"	200	32885	6.08
+	"South Carolina"	"45"	"Non-Hispanic Black"	"7"	"1995"	"1995"	264	18393	14.35
+	"South Carolina"	"45"	"Non-Hispanic Black"	"7"	"1996"	"1996"	243	17973	13.52
+	"South Carolina"	"45"	"Non-Hispanic Black"	"7"	"1997"	"1997"	280	18382	15.23
+	"South Carolina"	"45"	"Non-Hispanic Black"	"7"	"1998"	"1998"	297	18840	15.76
+	"South Dakota"	"46"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	79	Suppressed
+	"South Dakota"	"46"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	101	Suppressed
+	"South Dakota"	"46"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	94	Suppressed
+	"South Dakota"	"46"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	113	Suppressed
+	"South Dakota"	"46"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	15	Suppressed
+	"South Dakota"	"46"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	14	Suppressed
+	"South Dakota"	"46"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	21	Suppressed
+	"South Dakota"	"46"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	20	Suppressed
+	"South Dakota"	"46"	"Non-Hispanic White"	"6"	"1995"	"1995"	68	8590	7.92
+	"South Dakota"	"46"	"Non-Hispanic White"	"6"	"1996"	"1996"	40	8520	4.69
+	"South Dakota"	"46"	"Non-Hispanic White"	"6"	"1997"	"1997"	46	8284	5.55
+	"South Dakota"	"46"	"Non-Hispanic White"	"6"	"1998"	"1998"	67	8252	8.12
+	"South Dakota"	"46"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	97	Suppressed
+	"South Dakota"	"46"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	80	Suppressed
+	"South Dakota"	"46"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	89	Suppressed
+	"South Dakota"	"46"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	82	Suppressed
+	"Tennessee"	"47"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	629	Suppressed
+	"Tennessee"	"47"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	877	Suppressed
+	"Tennessee"	"47"	"Mexican"	"2148-5"	"1997"	"1997"	14	1121	12.49 (Unreliable)
+	"Tennessee"	"47"	"Mexican"	"2148-5"	"1998"	"1998"	12	1332	9.01 (Unreliable)
+	"Tennessee"	"47"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	128	Suppressed
+	"Tennessee"	"47"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	130	Suppressed
+	"Tennessee"	"47"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	155	Suppressed
+	"Tennessee"	"47"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	150	Suppressed
+	"Tennessee"	"47"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	44	Suppressed
+	"Tennessee"	"47"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	32	Suppressed
+	"Tennessee"	"47"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	34	Suppressed
+	"Tennessee"	"47"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	36	Suppressed
+	"Tennessee"	"47"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	104	Suppressed
+	"Tennessee"	"47"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	150	Suppressed
+	"Tennessee"	"47"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	175	Suppressed
+	"Tennessee"	"47"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	265	Suppressed
+	"Tennessee"	"47"	"Non-Hispanic White"	"6"	"1995"	"1995"	377	54875	6.87
+	"Tennessee"	"47"	"Non-Hispanic White"	"6"	"1996"	"1996"	377	55120	6.84
+	"Tennessee"	"47"	"Non-Hispanic White"	"6"	"1997"	"1997"	357	55288	6.46
+	"Tennessee"	"47"	"Non-Hispanic White"	"6"	"1998"	"1998"	367	57345	6.40
+	"Tennessee"	"47"	"Non-Hispanic Black"	"7"	"1995"	"1995"	280	16130	17.36
+	"Tennessee"	"47"	"Non-Hispanic Black"	"7"	"1996"	"1996"	239	15985	14.95
+	"Tennessee"	"47"	"Non-Hispanic Black"	"7"	"1997"	"1997"	259	16297	15.89
+	"Tennessee"	"47"	"Non-Hispanic Black"	"7"	"1998"	"1998"	246	16853	14.60
+	"Texas"	"48"	"Mexican"	"2148-5"	"1995"	"1995"	729	121720	5.99
+	"Texas"	"48"	"Mexican"	"2148-5"	"1996"	"1996"	662	128180	5.16
+	"Texas"	"48"	"Mexican"	"2148-5"	"1997"	"1997"	751	131456	5.71
+	"Texas"	"48"	"Mexican"	"2148-5"	"1998"	"1998"	710	134880	5.26
+	"Texas"	"48"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	882	Suppressed
+	"Texas"	"48"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	913	Suppressed
+	"Texas"	"48"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	916	Suppressed
+	"Texas"	"48"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	1074	Suppressed
+	"Texas"	"48"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	264	Suppressed
+	"Texas"	"48"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	246	Suppressed
+	"Texas"	"48"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	276	Suppressed
+	"Texas"	"48"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	316	Suppressed
+	"Texas"	"48"	"Central or South American"	"4"	"1995"	"1995"	23	6398	3.59
+	"Texas"	"48"	"Central or South American"	"4"	"1996"	"1996"	35	6955	5.03
+	"Texas"	"48"	"Central or South American"	"4"	"1997"	"1997"	27	7013	3.85
+	"Texas"	"48"	"Central or South American"	"4"	"1998"	"1998"	48	7151	6.71
+	"Texas"	"48"	"Non-Hispanic White"	"6"	"1995"	"1995"	824	137816	5.98
+	"Texas"	"48"	"Non-Hispanic White"	"6"	"1996"	"1996"	814	138925	5.86
+	"Texas"	"48"	"Non-Hispanic White"	"6"	"1997"	"1997"	835	137580	6.07
+	"Texas"	"48"	"Non-Hispanic White"	"6"	"1998"	"1998"	833	139980	5.95
+	"Texas"	"48"	"Non-Hispanic Black"	"7"	"1995"	"1995"	413	38434	10.75
+	"Texas"	"48"	"Non-Hispanic Black"	"7"	"1996"	"1996"	418	38497	10.86
+	"Texas"	"48"	"Non-Hispanic Black"	"7"	"1997"	"1997"	394	38928	10.12
+	"Texas"	"48"	"Non-Hispanic Black"	"7"	"1998"	"1998"	442	39631	11.15
+	"Utah"	"49"	"Mexican"	"2148-5"	"1995"	"1995"	20	2327	8.59
+	"Utah"	"49"	"Mexican"	"2148-5"	"1996"	"1996"	19	2985	6.37 (Unreliable)
+	"Utah"	"49"	"Mexican"	"2148-5"	"1997"	"1997"	20	3346	5.98
+	"Utah"	"49"	"Mexican"	"2148-5"	"1998"	"1998"	25	3771	6.63
+	"Utah"	"49"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	59	Suppressed
+	"Utah"	"49"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	68	Suppressed
+	"Utah"	"49"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	66	Suppressed
+	"Utah"	"49"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	94	Suppressed
+	"Utah"	"49"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	18	Suppressed
+	"Utah"	"49"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	41	Suppressed
+	"Utah"	"49"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	12	Suppressed
+	"Utah"	"49"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	14	Suppressed
+	"Utah"	"49"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	326	Suppressed
+	"Utah"	"49"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	465	Suppressed
+	"Utah"	"49"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	488	Suppressed
+	"Utah"	"49"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	522	Suppressed
+	"Utah"	"49"	"Non-Hispanic White"	"6"	"1995"	"1995"	181	34496	5.25
+	"Utah"	"49"	"Non-Hispanic White"	"6"	"1996"	"1996"	206	36006	5.72
+	"Utah"	"49"	"Non-Hispanic White"	"6"	"1997"	"1997"	201	36534	5.50
+	"Utah"	"49"	"Non-Hispanic White"	"6"	"1998"	"1998"	210	37982	5.53
+	"Utah"	"49"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	231	Suppressed
+	"Utah"	"49"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	252	Suppressed
+	"Utah"	"49"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	242	Suppressed
+	"Utah"	"49"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	263	Suppressed
+	"Vermont"	"50"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	11	Suppressed
+	"Vermont"	"50"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	10	Suppressed
+	"Vermont"	"50"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"Non-Hispanic White"	"6"	"1995"	"1995"	38	6268	6.06
+	"Vermont"	"50"	"Non-Hispanic White"	"6"	"1996"	"1996"	40	6357	6.29
+	"Vermont"	"50"	"Non-Hispanic White"	"6"	"1997"	"1997"	36	6305	5.71
+	"Vermont"	"50"	"Non-Hispanic White"	"6"	"1998"	"1998"	44	6297	6.99
+	"Vermont"	"50"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	33	Suppressed
+	"Vermont"	"50"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	13	Suppressed
+	"Vermont"	"50"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	22	Suppressed
+	"Vermont"	"50"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	20	Suppressed
+	"Virginia"	"51"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	932	Suppressed
+	"Virginia"	"51"	"Mexican"	"2148-5"	"1996"	"1996"	13	1023	12.71 (Unreliable)
+	"Virginia"	"51"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	1185	Suppressed
+	"Virginia"	"51"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	1232	Suppressed
+	"Virginia"	"51"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	493	Suppressed
+	"Virginia"	"51"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	463	Suppressed
+	"Virginia"	"51"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	496	Suppressed
+	"Virginia"	"51"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	532	Suppressed
+	"Virginia"	"51"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	85	Suppressed
+	"Virginia"	"51"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	90	Suppressed
+	"Virginia"	"51"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	96	Suppressed
+	"Virginia"	"51"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	60	Suppressed
+	"Virginia"	"51"	"Central or South American"	"4"	"1995"	"1995"	15	2459	6.10 (Unreliable)
+	"Virginia"	"51"	"Central or South American"	"4"	"1996"	"1996"	16	2956	5.41 (Unreliable)
+	"Virginia"	"51"	"Central or South American"	"4"	"1997"	"1997"	24	3009	7.98
+	"Virginia"	"51"	"Central or South American"	"4"	"1998"	"1998"	14	3501	4.00 (Unreliable)
+	"Virginia"	"51"	"Non-Hispanic White"	"6"	"1995"	"1995"	367	62660	5.86
+	"Virginia"	"51"	"Non-Hispanic White"	"6"	"1996"	"1996"	370	62192	5.95
+	"Virginia"	"51"	"Non-Hispanic White"	"6"	"1997"	"1997"	379	61428	6.17
+	"Virginia"	"51"	"Non-Hispanic White"	"6"	"1998"	"1998"	357	62119	5.75
+	"Virginia"	"51"	"Non-Hispanic Black"	"7"	"1995"	"1995"	308	21209	14.52
+	"Virginia"	"51"	"Non-Hispanic Black"	"7"	"1996"	"1996"	272	20808	13.07
+	"Virginia"	"51"	"Non-Hispanic Black"	"7"	"1997"	"1997"	279	20956	13.31
+	"Virginia"	"51"	"Non-Hispanic Black"	"7"	"1998"	"1998"	311	21913	14.19
+	"Washington"	"53"	"Mexican"	"2148-5"	"1995"	"1995"	34	7119	4.78
+	"Washington"	"53"	"Mexican"	"2148-5"	"1996"	"1996"	35	7296	4.80
+	"Washington"	"53"	"Mexican"	"2148-5"	"1997"	"1997"	36	7700	4.68
+	"Washington"	"53"	"Mexican"	"2148-5"	"1998"	"1998"	39	8256	4.72
+	"Washington"	"53"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	198	Suppressed
+	"Washington"	"53"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	198	Suppressed
+	"Washington"	"53"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	180	Suppressed
+	"Washington"	"53"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	218	Suppressed
+	"Washington"	"53"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	32	Suppressed
+	"Washington"	"53"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	20	Suppressed
+	"Washington"	"53"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	31	Suppressed
+	"Washington"	"53"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	31	Suppressed
+	"Washington"	"53"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	221	Suppressed
+	"Washington"	"53"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	237	Suppressed
+	"Washington"	"53"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	225	Suppressed
+	"Washington"	"53"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	313	Suppressed
+	"Washington"	"53"	"Non-Hispanic White"	"6"	"1995"	"1995"	308	56839	5.42
+	"Washington"	"53"	"Non-Hispanic White"	"6"	"1996"	"1996"	318	56950	5.58
+	"Washington"	"53"	"Non-Hispanic White"	"6"	"1997"	"1997"	297	56617	5.25
+	"Washington"	"53"	"Non-Hispanic White"	"6"	"1998"	"1998"	294	57214	5.14
+	"Washington"	"53"	"Non-Hispanic Black"	"7"	"1995"	"1995"	42	2757	15.23
+	"Washington"	"53"	"Non-Hispanic Black"	"7"	"1996"	"1996"	36	2886	12.47
+	"Washington"	"53"	"Non-Hispanic Black"	"7"	"1997"	"1997"	33	2968	11.12
+	"Washington"	"53"	"Non-Hispanic Black"	"7"	"1998"	"1998"	30	2888	10.39
+	"West Virginia"	"54"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	33	Suppressed
+	"West Virginia"	"54"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	51	Suppressed
+	"West Virginia"	"54"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	33	Suppressed
+	"West Virginia"	"54"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	45	Suppressed
+	"West Virginia"	"54"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	11	Suppressed
+	"West Virginia"	"54"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	10	Suppressed
+	"West Virginia"	"54"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	10	Suppressed
+	"West Virginia"	"54"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	10	Suppressed
+	"West Virginia"	"54"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"Non-Hispanic White"	"6"	"1995"	"1995"	154	20162	7.64
+	"West Virginia"	"54"	"Non-Hispanic White"	"6"	"1996"	"1996"	135	19757	6.83
+	"West Virginia"	"54"	"Non-Hispanic White"	"6"	"1997"	"1997"	181	19778	9.15
+	"West Virginia"	"54"	"Non-Hispanic White"	"6"	"1998"	"1998"	159	19728	8.06
+	"West Virginia"	"54"	"Non-Hispanic Black"	"7"	"1995"	"1995"	13	806	16.13 (Unreliable)
+	"West Virginia"	"54"	"Non-Hispanic Black"	"7"	"1996"	"1996"	13	738	17.62 (Unreliable)
+	"West Virginia"	"54"	"Non-Hispanic Black"	"7"	"1997"	"1997"	14	744	18.82 (Unreliable)
+	"West Virginia"	"54"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	757	Suppressed
+	"Wisconsin"	"55"	"Mexican"	"2148-5"	"1995"	"1995"	14	2002	6.99 (Unreliable)
+	"Wisconsin"	"55"	"Mexican"	"2148-5"	"1996"	"1996"	22	2319	9.49
+	"Wisconsin"	"55"	"Mexican"	"2148-5"	"1997"	"1997"	22	2349	9.37
+	"Wisconsin"	"55"	"Mexican"	"2148-5"	"1998"	"1998"	31	2692	11.52
+	"Wisconsin"	"55"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	595	Suppressed
+	"Wisconsin"	"55"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	580	Suppressed
+	"Wisconsin"	"55"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	602	Suppressed
+	"Wisconsin"	"55"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	637	Suppressed
+	"Wisconsin"	"55"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	17	Suppressed
+	"Wisconsin"	"55"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	10	Suppressed
+	"Wisconsin"	"55"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	26	Suppressed
+	"Wisconsin"	"55"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	17	Suppressed
+	"Wisconsin"	"55"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	140	Suppressed
+	"Wisconsin"	"55"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	158	Suppressed
+	"Wisconsin"	"55"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	156	Suppressed
+	"Wisconsin"	"55"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	173	Suppressed
+	"Wisconsin"	"55"	"Non-Hispanic White"	"6"	"1995"	"1995"	342	55365	6.18
+	"Wisconsin"	"55"	"Non-Hispanic White"	"6"	"1996"	"1996"	324	54863	5.91
+	"Wisconsin"	"55"	"Non-Hispanic White"	"6"	"1997"	"1997"	301	54292	5.54
+	"Wisconsin"	"55"	"Non-Hispanic White"	"6"	"1998"	"1998"	308	54636	5.64
+	"Wisconsin"	"55"	"Non-Hispanic Black"	"7"	"1995"	"1995"	112	6476	17.29
+	"Wisconsin"	"55"	"Non-Hispanic Black"	"7"	"1996"	"1996"	114	6386	17.85
+	"Wisconsin"	"55"	"Non-Hispanic Black"	"7"	"1997"	"1997"	88	6366	13.82
+	"Wisconsin"	"55"	"Non-Hispanic Black"	"7"	"1998"	"1998"	118	6490	18.18
+	"Wyoming"	"56"	"Mexican"	"2148-5"	"1995"	"1995"	Suppressed	437	Suppressed
+	"Wyoming"	"56"	"Mexican"	"2148-5"	"1996"	"1996"	Suppressed	421	Suppressed
+	"Wyoming"	"56"	"Mexican"	"2148-5"	"1997"	"1997"	Suppressed	456	Suppressed
+	"Wyoming"	"56"	"Mexican"	"2148-5"	"1998"	"1998"	Suppressed	448	Suppressed
+	"Wyoming"	"56"	"Puerto Rican"	"2180-8"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"Puerto Rican"	"2180-8"	"1996"	"1996"	Suppressed	11	Suppressed
+	"Wyoming"	"56"	"Puerto Rican"	"2180-8"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"Puerto Rican"	"2180-8"	"1998"	"1998"	Suppressed	11	Suppressed
+	"Wyoming"	"56"	"Cuban"	"2182-4"	"1995"	"1995"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"Cuban"	"2182-4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"Cuban"	"2182-4"	"1997"	"1997"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"Cuban"	"2182-4"	"1998"	"1998"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"Central or South American"	"4"	"1995"	"1995"	Suppressed	20	Suppressed
+	"Wyoming"	"56"	"Central or South American"	"4"	"1996"	"1996"	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"Central or South American"	"4"	"1997"	"1997"	Suppressed	13	Suppressed
+	"Wyoming"	"56"	"Central or South American"	"4"	"1998"	"1998"	Suppressed	16	Suppressed
+	"Wyoming"	"56"	"Non-Hispanic White"	"6"	"1995"	"1995"	37	5368	6.89
+	"Wyoming"	"56"	"Non-Hispanic White"	"6"	"1996"	"1996"	33	5441	6.07
+	"Wyoming"	"56"	"Non-Hispanic White"	"6"	"1997"	"1997"	30	5527	5.43
+	"Wyoming"	"56"	"Non-Hispanic White"	"6"	"1998"	"1998"	35	5319	6.58
+	"Wyoming"	"56"	"Non-Hispanic Black"	"7"	"1995"	"1995"	Suppressed	69	Suppressed
+	"Wyoming"	"56"	"Non-Hispanic Black"	"7"	"1996"	"1996"	Suppressed	48	Suppressed
+	"Wyoming"	"56"	"Non-Hispanic Black"	"7"	"1997"	"1997"	Suppressed	58	Suppressed
+	"Wyoming"	"56"	"Non-Hispanic Black"	"7"	"1998"	"1998"	Suppressed	52	Suppressed
+"---"
+"Dataset: Linked Birth / Infant Death Records, 1995-1998"
+"Query Parameters:"
+"Title:"
+"Age of Infant at Death: All"
+"Age of Mother: All"
+"Birth Weight: All"
+"Education: All"
+"Gender: All"
+"Hispanic Origin: Mexican, Puerto Rican, Cuban, Central or South American, Non-Hispanic White, Non-Hispanic Black"
+"ICD-9 Codes: All"
+"Live Birth Order: All"
+"LMP Gestational Age at Birth: All"
+"Marital Status: All"
+"Month Prenatal Care Began: All"
+"Plurality or Multiple Birth: All"
+"Race: All"
+"States: All"
+"Year of Death: All, 1995 to 1998"
+"Group By: State, Hispanic Origin, Year of Death"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: May 23, 2018 7:21:24 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS), Linked Birth / Infant Death Records"
+"1995-1998 on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-icd9.html on May 23, 2018 7:21:24 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"2. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"3. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."

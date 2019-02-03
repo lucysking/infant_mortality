@@ -1,0 +1,155 @@
+"Notes"	"State"	"State Code"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"Non-Hispanic White"	"6"	1409	213506	6.60
+	"Alabama"	"01"	"Non-Hispanic Black"	"7"	1452	108683	13.36
+	"Alaska"	"02"	"Non-Hispanic White"	"6"	146	37824	3.86
+	"Alaska"	"02"	"Non-Hispanic Black"	"7"	21	2522	8.33
+	"Arizona"	"04"	"Non-Hispanic White"	"6"	1128	230979	4.88
+	"Arizona"	"04"	"Non-Hispanic Black"	"7"	281	26279	10.69
+	"Arkansas"	"05"	"Non-Hispanic White"	"6"	1054	155387	6.78
+	"Arkansas"	"05"	"Non-Hispanic Black"	"7"	475	43993	10.80
+	"California"	"06"	"Non-Hispanic White"	"6"	3311	862653	3.84
+	"California"	"06"	"Non-Hispanic Black"	"7"	1623	173954	9.33
+	"Colorado"	"08"	"Non-Hispanic White"	"6"	1054	241979	4.36
+	"Colorado"	"08"	"Non-Hispanic Black"	"7"	194	19409	10.00
+	"Connecticut"	"09"	"Non-Hispanic White"	"6"	461	126852	3.63
+	"Connecticut"	"09"	"Non-Hispanic Black"	"7"	286	27894	10.25
+	"Delaware"	"10"	"Non-Hispanic White"	"6"	221	36508	6.05
+	"Delaware"	"10"	"Non-Hispanic Black"	"7"	215	17792	12.08
+	"District of Columbia"	"11"	"Non-Hispanic White"	"6"	46	16647	2.76
+	"District of Columbia"	"11"	"Non-Hispanic Black"	"7"	327	28837	11.34
+	"Florida"	"12"	"Non-Hispanic White"	"6"	3005	594302	5.06
+	"Florida"	"12"	"Non-Hispanic Black"	"7"	3217	295982	10.87
+	"Georgia"	"13"	"Non-Hispanic White"	"6"	1828	360444	5.07
+	"Georgia"	"13"	"Non-Hispanic Black"	"7"	2860	268630	10.65
+	"Hawaii"	"15"	"Non-Hispanic White"	"6"	116	28967	4.00
+	"Hawaii"	"15"	"Non-Hispanic Black"	"7"	39	3183	12.25
+	"Idaho"	"16"	"Non-Hispanic White"	"6"	546	109120	5.00
+	"Idaho"	"16"	"Non-Hispanic Black"	"7"	Suppressed	1171	Suppressed
+	"Illinois"	"17"	"Non-Hispanic White"	"6"	2569	520828	4.93
+	"Illinois"	"17"	"Non-Hispanic Black"	"7"	2072	163878	12.64
+	"Indiana"	"18"	"Non-Hispanic White"	"6"	2491	383955	6.49
+	"Indiana"	"18"	"Non-Hispanic Black"	"7"	786	60517	12.99
+	"Iowa"	"19"	"Non-Hispanic White"	"6"	859	193266	4.44
+	"Iowa"	"19"	"Non-Hispanic Black"	"7"	124	12670	9.79
+	"Kansas"	"20"	"Non-Hispanic White"	"6"	968	172824	5.60
+	"Kansas"	"20"	"Non-Hispanic Black"	"7"	215	17584	12.23
+	"Kentucky"	"21"	"Non-Hispanic White"	"6"	1813	279139	6.49
+	"Kentucky"	"21"	"Non-Hispanic Black"	"7"	325	31348	10.37
+	"Louisiana"	"22"	"Non-Hispanic White"	"6"	1166	201216	5.79
+	"Louisiana"	"22"	"Non-Hispanic Black"	"7"	1667	143938	11.58
+	"Maine"	"23"	"Non-Hispanic White"	"6"	453	70546	6.42
+	"Maine"	"23"	"Non-Hispanic Black"	"7"	22	2520	8.73
+	"Maryland"	"24"	"Non-Hispanic White"	"6"	796	198149	4.02
+	"Maryland"	"24"	"Non-Hispanic Black"	"7"	1594	143091	11.14
+	"Massachusetts"	"25"	"Non-Hispanic White"	"6"	954	274243	3.48
+	"Massachusetts"	"25"	"Non-Hispanic Black"	"7"	312	42509	7.34
+	"Michigan"	"26"	"Non-Hispanic White"	"6"	2495	477001	5.23
+	"Michigan"	"26"	"Non-Hispanic Black"	"7"	1683	130980	12.85
+	"Minnesota"	"27"	"Non-Hispanic White"	"6"	1245	300700	4.14
+	"Minnesota"	"27"	"Non-Hispanic Black"	"7"	399	43113	9.25
+	"Mississippi"	"28"	"Non-Hispanic White"	"6"	802	120206	6.67
+	"Mississippi"	"28"	"Non-Hispanic Black"	"7"	1259	101025	12.46
+	"Missouri"	"29"	"Non-Hispanic White"	"6"	1886	345239	5.46
+	"Missouri"	"29"	"Non-Hispanic Black"	"7"	803	68275	11.76
+	"Montana"	"30"	"Non-Hispanic White"	"6"	319	60444	5.28
+	"Montana"	"30"	"Non-Hispanic Black"	"7"	Suppressed	481	Suppressed
+	"Nebraska"	"31"	"Non-Hispanic White"	"6"	531	115587	4.59
+	"Nebraska"	"31"	"Non-Hispanic Black"	"7"	113	10716	10.54
+	"Nevada"	"32"	"Non-Hispanic White"	"6"	445	91015	4.89
+	"Nevada"	"32"	"Non-Hispanic Black"	"7"	223	23568	9.46
+	"New Hampshire"	"33"	"Non-Hispanic White"	"6"	281	66787	4.21
+	"New Hampshire"	"33"	"Non-Hispanic Black"	"7"	15	1301	11.53 (Unreliable)
+	"New Jersey"	"34"	"Non-Hispanic White"	"6"	925	291699	3.17
+	"New Jersey"	"34"	"Non-Hispanic Black"	"7"	968	94540	10.24
+	"New Mexico"	"35"	"Non-Hispanic White"	"6"	231	45060	5.13
+	"New Mexico"	"35"	"Non-Hispanic Black"	"7"	28	2774	10.09
+	"New York"	"36"	"Non-Hispanic White"	"6"	2698	697738	3.87
+	"New York"	"36"	"Non-Hispanic Black"	"7"	2061	227865	9.04
+	"North Carolina"	"37"	"Non-Hispanic White"	"6"	2214	404530	5.47
+	"North Carolina"	"37"	"Non-Hispanic Black"	"7"	2160	172907	12.49
+	"North Dakota"	"38"	"Non-Hispanic White"	"6"	273	49725	5.49
+	"North Dakota"	"38"	"Non-Hispanic Black"	"7"	14	2048	6.84 (Unreliable)
+	"Ohio"	"39"	"Non-Hispanic White"	"6"	3823	625725	6.11
+	"Ohio"	"39"	"Non-Hispanic Black"	"7"	1916	140234	13.66
+	"Oklahoma"	"40"	"Non-Hispanic White"	"6"	1393	201838	6.90
+	"Oklahoma"	"40"	"Non-Hispanic Black"	"7"	350	29405	11.90
+	"Oregon"	"41"	"Non-Hispanic White"	"6"	912	191704	4.76
+	"Oregon"	"41"	"Non-Hispanic Black"	"7"	65	7209	9.02
+	"Pennsylvania"	"42"	"Non-Hispanic White"	"6"	3074	597359	5.15
+	"Pennsylvania"	"42"	"Non-Hispanic Black"	"7"	1499	124216	12.07
+	"Rhode Island"	"44"	"Non-Hispanic White"	"6"	192	40317	4.76
+	"Rhode Island"	"44"	"Non-Hispanic Black"	"7"	62	5510	11.25
+	"South Carolina"	"45"	"Non-Hispanic White"	"6"	1016	199666	5.09
+	"South Carolina"	"45"	"Non-Hispanic Black"	"7"	1227	108634	11.29
+	"South Dakota"	"46"	"Non-Hispanic White"	"6"	302	54222	5.57
+	"South Dakota"	"46"	"Non-Hispanic Black"	"7"	19	1817	10.46 (Unreliable)
+	"Tennessee"	"47"	"Non-Hispanic White"	"6"	1991	328060	6.07
+	"Tennessee"	"47"	"Non-Hispanic Black"	"7"	1188	100422	11.83
+	"Texas"	"48"	"Non-Hispanic White"	"6"	4202	822540	5.11
+	"Texas"	"48"	"Non-Hispanic Black"	"7"	2922	275772	10.60
+	"Utah"	"49"	"Non-Hispanic White"	"6"	1135	239624	4.74
+	"Utah"	"49"	"Non-Hispanic Black"	"7"	40	3430	11.66
+	"Vermont"	"50"	"Non-Hispanic White"	"6"	153	33916	4.51
+	"Vermont"	"50"	"Non-Hispanic Black"	"7"	Suppressed	650	Suppressed
+	"Virginia"	"51"	"Non-Hispanic White"	"6"	1721	359145	4.79
+	"Virginia"	"51"	"Non-Hispanic Black"	"7"	1531	131610	11.63
+	"Washington"	"53"	"Non-Hispanic White"	"6"	1434	331534	4.33
+	"Washington"	"53"	"Non-Hispanic Black"	"7"	220	26538	8.29
+	"West Virginia"	"54"	"Non-Hispanic White"	"6"	811	115125	7.04
+	"West Virginia"	"54"	"Non-Hispanic Black"	"7"	48	4465	10.75
+	"Wisconsin"	"55"	"Non-Hispanic White"	"6"	1457	299089	4.87
+	"Wisconsin"	"55"	"Non-Hispanic Black"	"7"	568	41018	13.85
+	"Wyoming"	"56"	"Non-Hispanic White"	"6"	209	36864	5.67
+	"Wyoming"	"56"	"Non-Hispanic Black"	"7"	Suppressed	507	Suppressed
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2015"
+"Query Parameters:"
+"Title:"
+"Age of Infant at Death: All"
+"Age of Mother: All"
+"Birthplace: All"
+"Birth Weight: All"
+"Delivery Method: All"
+"Education: All"
+"Gender: All"
+"Hispanic Origin: Non-Hispanic White, Non-Hispanic Black"
+"ICD-10 Codes: All"
+"Live Birth Order: All"
+"LMP Gestational Age 11: All"
+"Marital Status: All"
+"Medical Attendant: All"
+"Month Prenatal Care Began: All"
+"OE Gestational Age 11: All"
+"Plurality or Multiple Birth: All"
+"Race: All"
+"States: All"
+"Year of Death: 2010, 2011, 2012, 2013, 2014, 2015"
+"Group By: State, Hispanic Origin"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Jun 4, 2018 2:58:59 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2015, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Jun 4, 2018 2:58:59 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."

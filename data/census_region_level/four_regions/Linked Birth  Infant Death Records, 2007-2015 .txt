@@ -1,0 +1,537 @@
+"Notes"	"Census Region"	"Census Region Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	"Year of Death"	"Year of Death Code"	Deaths	Births	Death Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2007"	"2007"	94	22325	4.21
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2008"	"2008"	115	21675	5.31
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2009"	"2009"	99	21265	4.66
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2010"	"2010"	97	20203	4.80
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2011"	"2011"	67	18310	3.66
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2012"	"2012"	75	17492	4.29
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2013"	"2013"	75	16897	4.44
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2014"	"2014"	57	15986	3.57
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2015"	"2015"	48	15735	3.05
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2007"	"2007"	47	4474	10.51
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2008"	"2008"	41	4537	9.04
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2009"	"2009"	40	4642	8.62
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2010"	"2010"	48	4829	9.94
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2011"	"2011"	43	6338	6.78
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2012"	"2012"	39	6224	6.27
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2013"	"2013"	33	6173	5.35
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2014"	"2014"	58	6044	9.60
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2015"	"2015"	60	6398	9.38
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2007"	"2007"	251	33918	7.40
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2008"	"2008"	245	34138	7.18
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2009"	"2009"	250	33493	7.46
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2010"	"2010"	222	31975	6.94
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2011"	"2011"	233	30122	7.74
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2012"	"2012"	225	29571	7.61
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2013"	"2013"	175	29571	5.92
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2014"	"2014"	210	29498	7.12
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2015"	"2015"	191	29080	6.57
+	"Census Region 1: Northeast"	"CENS-R1"	"Cuban"	"2182-4"	"White"	"2106-3"	"2012"	"2012"	10	1439	6.95 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2007"	"2007"	58	14650	3.96
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2008"	"2008"	35	6511	5.38
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2009"	"2009"	36	6343	5.68
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2010"	"2010"	31	6254	4.96
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2011"	"2011"	39	5181	7.53
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2012"	"2012"	26	5351	4.86
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2013"	"2013"	24	5216	4.60
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2014"	"2014"	30	6068	4.94
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2015"	"2015"	32	4258	7.52
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2007"	"2007"	159	38411	4.14
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2008"	"2008"	140	36479	3.84
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2009"	"2009"	133	34689	3.83
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2010"	"2010"	136	33698	4.04
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2011"	"2011"	119	32797	3.63
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2012"	"2012"	122	32798	3.72
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2013"	"2013"	131	32903	3.98
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2014"	"2014"	112	33520	3.34
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2015"	"2015"	121	34199	3.54
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2007"	"2007"	13	1506	8.63 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2008"	"2008"	30	4579	6.55
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2009"	"2009"	48	5448	8.81
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2010"	"2010"	28	4898	5.72
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2011"	"2011"	31	6688	4.64
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2012"	"2012"	33	7099	4.65
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2013"	"2013"	31	6399	4.84
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2014"	"2014"	38	6262	6.07
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2015"	"2015"	28	6356	4.41
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2007"	"2007"	53	7985	6.64
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2008"	"2008"	75	14051	5.34
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2009"	"2009"	97	15493	6.26
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2010"	"2010"	92	15839	5.81
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2011"	"2011"	98	17914	5.47
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2012"	"2012"	113	16913	6.68
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2013"	"2013"	97	17390	5.58
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2014"	"2014"	99	18558	5.33
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2015"	"2015"	114	21583	5.28
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2007"	"2007"	1922	405879	4.74
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2008"	"2008"	1798	393081	4.57
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2009"	"2009"	1709	385370	4.43
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2010"	"2010"	1598	377205	4.24
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2011"	"2011"	1597	371381	4.30
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2012"	"2012"	1554	365460	4.25
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2013"	"2013"	1545	363031	4.26
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2014"	"2014"	1437	363858	3.95
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2015"	"2015"	1460	358522	4.07
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2007"	"2007"	1164	95926	12.13
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2008"	"2008"	1112	93544	11.89
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2009"	"2009"	1053	93373	11.28
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2010"	"2010"	958	90093	10.63
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2011"	"2011"	892	89845	9.93
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2012"	"2012"	896	89144	10.05
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2013"	"2013"	878	87217	10.07
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2014"	"2014"	775	86033	9.01
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2015"	"2015"	830	84673	9.80
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	11	1593	6.91 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	10	1562	6.40 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	10	1588	6.30 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	11	1544	7.12 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	15	1443	10.40 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	11	1504	7.31 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	11	1213	9.07 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	171	50900	3.36
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	184	49895	3.69
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	168	49832	3.37
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	191	49816	3.83
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	185	51528	3.59
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	193	55025	3.51
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	172	52107	3.30
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	152	54281	2.80
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	169	54053	3.13
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2007"	"2007"	43	1226	35.07
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2008"	"2008"	56	3290	17.02
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2009"	"2009"	45	1890	23.81
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2010"	"2010"	40	2023	19.77
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2011"	"2011"	36	1211	29.73
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2012"	"2012"	35	1033	33.88
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2013"	"2013"	30	1034	29.01
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2014"	"2014"	33	1223	26.98
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2015"	"2015"	30	1474	20.35
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2007"	"2007"	70	4117	17.00
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2008"	"2008"	84	7137	11.77
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2009"	"2009"	79	4957	15.94
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2010"	"2010"	52	5058	10.28
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2011"	"2011"	62	4582	13.53
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2012"	"2012"	52	5009	10.38
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2013"	"2013"	59	4925	11.98
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2014"	"2014"	60	5663	10.60
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2015"	"2015"	52	6449	8.06
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2007"	"2007"	13	1344	9.67 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2008"	"2008"	11	1509	7.29 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2009"	"2009"	15	1575	9.52 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2011"	"2011"	12	1633	7.35 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2012"	"2012"	12	1688	7.11 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2013"	"2013"	17	1812	9.38 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2014"	"2014"	17	1748	9.73 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2015"	"2015"	19	1633	11.64 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2007"	"2007"	444	76368	5.81
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2008"	"2008"	445	73342	6.07
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2009"	"2009"	410	69314	5.92
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2010"	"2010"	388	64677	6.00
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2011"	"2011"	325	61698	5.27
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2012"	"2012"	339	60336	5.62
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2013"	"2013"	295	58628	5.03
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2014"	"2014"	312	59025	5.29
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2015"	"2015"	338	59768	5.66
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2011"	"2011"	12	865	13.87 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2014"	"2014"	12	894	13.42 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2007"	"2007"	36	5409	6.66
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2008"	"2008"	38	5271	7.21
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2009"	"2009"	34	5370	6.33
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2010"	"2010"	38	5252	7.24
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2011"	"2011"	38	5035	7.55
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2012"	"2012"	40	5231	7.65
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2013"	"2013"	34	5279	6.44
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2014"	"2014"	35	5632	6.21
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2015"	"2015"	31	5726	5.41
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2007"	"2007"	41	7046	5.82
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2008"	"2008"	37	7288	5.08
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2009"	"2009"	36	7584	4.75
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2010"	"2010"	36	7987	4.51
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2011"	"2011"	33	7960	4.15
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2012"	"2012"	31	8017	3.87
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2013"	"2013"	36	8061	4.47
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2014"	"2014"	44	8390	5.24
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2015"	"2015"	38	9268	4.10
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2007"	"2007"	52	6494	8.01
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2008"	"2008"	47	7809	6.02
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2009"	"2009"	38	7176	5.30
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2010"	"2010"	42	5554	7.56
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2011"	"2011"	35	5419	6.46
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2012"	"2012"	39	5783	6.74
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2013"	"2013"	36	5070	7.10
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2014"	"2014"	36	5670	6.35
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2015"	"2015"	41	5541	7.40
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2007"	"2007"	3787	637547	5.94
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2008"	"2008"	3644	626787	5.81
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2009"	"2009"	3459	612484	5.65
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2010"	"2010"	3293	596116	5.52
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2011"	"2011"	3248	591819	5.49
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2012"	"2012"	3159	588198	5.37
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2013"	"2013"	3116	587286	5.31
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2014"	"2014"	3096	590187	5.25
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2015"	"2015"	2988	584555	5.11
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2007"	"2007"	1733	121492	14.26
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2008"	"2008"	1717	121459	14.14
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2009"	"2009"	1634	118911	13.74
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2010"	"2010"	1488	115135	12.92
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2011"	"2011"	1472	113084	13.02
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2012"	"2012"	1455	114439	12.71
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2013"	"2013"	1451	115454	12.57
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2014"	"2014"	1381	117054	11.80
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2015"	"2015"	1464	117684	12.44
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	80	8351	9.58
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	98	8221	11.92
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	79	8045	9.82
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	75	7694	9.75
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	81	7594	10.67
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	81	7453	10.87
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	70	7443	9.40
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	61	7492	8.14
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	80	7381	10.84
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	167	31908	5.23
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	153	32418	4.72
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	163	32024	5.09
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	161	31567	5.10
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	144	32172	4.48
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	158	34281	4.61
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	177	34023	5.20
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	170	35497	4.79
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	175	35885	4.88
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2007"	"2007"	13	945	13.76 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2009"	"2009"	12	606	19.80 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2010"	"2010"	13	1011	12.86 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2011"	"2011"	17	970	17.53 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2012"	"2012"	15	857	17.50 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2013"	"2013"	17	807	21.07 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2014"	"2014"	12	867	13.84 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2015"	"2015"	20	880	22.73
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2007"	"2007"	44	4986	8.82
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2008"	"2008"	25	1850	13.51
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2009"	"2009"	19	1901	9.99 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2010"	"2010"	31	1806	17.17
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2011"	"2011"	34	2347	14.49
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2012"	"2012"	27	1875	14.40
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2013"	"2013"	32	1898	16.86
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2014"	"2014"	23	1924	11.95
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2015"	"2015"	23	2372	9.70
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	11	1484	7.41 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	10	1348	7.42 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	11	1737	6.33 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	12	1792	6.70 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2007"	"2007"	29	5681	5.10
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2008"	"2008"	49	6880	7.12
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2009"	"2009"	51	7266	7.02
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2010"	"2010"	36	6057	5.94
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2011"	"2011"	43	6847	6.28
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2012"	"2012"	41	6597	6.21
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2013"	"2013"	46	7219	6.37
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2014"	"2014"	38	6910	5.50
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2015"	"2015"	31	6877	4.51
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2007"	"2007"	1358	241033	5.63
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2008"	"2008"	1315	228304	5.76
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2009"	"2009"	1133	218003	5.20
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2010"	"2010"	1080	200649	5.38
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2011"	"2011"	1006	188236	5.34
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2012"	"2012"	1006	186895	5.38
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2013"	"2013"	984	186319	5.28
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2014"	"2014"	1006	189567	5.31
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2015"	"2015"	1045	192507	5.43
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2007"	"2007"	22	3061	7.19
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2008"	"2008"	34	3226	10.54
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2009"	"2009"	26	3106	8.37
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2010"	"2010"	26	2857	9.10
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2011"	"2011"	25	3096	8.07
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2012"	"2012"	26	3185	8.16
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2013"	"2013"	24	3381	7.10
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2014"	"2014"	30	3513	8.54
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2015"	"2015"	23	3838	5.99
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2007"	"2007"	110	15159	7.26
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2008"	"2008"	108	15307	7.06
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2009"	"2009"	102	15372	6.64
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2010"	"2010"	91	15009	6.06
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2011"	"2011"	129	15611	8.26
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2012"	"2012"	101	15961	6.33
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2013"	"2013"	92	16606	5.54
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2014"	"2014"	123	17612	6.98
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2015"	"2015"	106	18100	5.86
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2007"	"2007"	59	12666	4.66
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2008"	"2008"	55	12494	4.40
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2009"	"2009"	68	12395	5.49
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2010"	"2010"	43	12496	3.44
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2011"	"2011"	49	12765	3.84
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2012"	"2012"	53	12799	4.14
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2013"	"2013"	30	13964	2.15
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2014"	"2014"	54	15039	3.59
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2015"	"2015"	56	15787	3.55
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2007"	"2007"	32	4184	7.65
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2008"	"2008"	30	3846	7.80
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2009"	"2009"	17	4048	4.20 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2010"	"2010"	22	4028	5.46
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2011"	"2011"	20	3902	5.13
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2012"	"2012"	23	3721	6.18
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2013"	"2013"	25	4166	6.00
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2014"	"2014"	23	4013	5.73
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2015"	"2015"	23	4170	5.52
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2007"	"2007"	310	66269	4.68
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2008"	"2008"	333	65275	5.10
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2009"	"2009"	288	62867	4.58
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2010"	"2010"	272	59863	4.54
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2011"	"2011"	254	55955	4.54
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2012"	"2012"	206	52770	3.90
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2013"	"2013"	226	52472	4.31
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2014"	"2014"	250	56074	4.46
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2015"	"2015"	241	61475	3.92
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2007"	"2007"	13	1817	7.15 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2008"	"2008"	14	2037	6.87 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2009"	"2009"	11	2244	4.90 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2010"	"2010"	14	2222	6.30 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2011"	"2011"	15	2551	5.88 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2012"	"2012"	13	2701	4.81 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2013"	"2013"	21	2492	8.43
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2014"	"2014"	21	2725	7.71
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2015"	"2015"	19	2756	6.89 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2007"	"2007"	245	36108	6.79
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2008"	"2008"	239	41429	5.77
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2009"	"2009"	251	42799	5.86
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2010"	"2010"	252	42325	5.95
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2011"	"2011"	205	43606	4.70
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2012"	"2012"	240	45699	5.25
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2013"	"2013"	255	47202	5.40
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2014"	"2014"	249	47296	5.26
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2015"	"2015"	252	45262	5.57
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2007"	"2007"	5010	820515	6.11
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2008"	"2008"	4961	806353	6.15
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2009"	"2009"	4565	785312	5.81
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2010"	"2010"	4388	766297	5.73
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2011"	"2011"	4151	763848	5.43
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2012"	"2012"	4257	764067	5.57
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2013"	"2013"	4273	762740	5.60
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2014"	"2014"	4193	775665	5.41
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2015"	"2015"	4228	773791	5.46
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2007"	"2007"	4908	360204	13.63
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2008"	"2008"	4518	357874	12.62
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2009"	"2009"	4381	347991	12.59
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2010"	"2010"	3854	335921	11.47
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2011"	"2011"	3856	330893	11.65
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2012"	"2012"	3731	331550	11.25
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2013"	"2013"	3680	332593	11.06
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2014"	"2014"	3805	336900	11.29
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2015"	"2015"	3893	338677	11.49
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	109	11598	9.40
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	101	11514	8.77
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	117	11238	10.41
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	106	11076	9.57
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	72	10554	6.82
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	103	10551	9.76
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	67	10447	6.41
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	73	10317	7.08
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	75	10299	7.28
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	269	53560	5.02
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	241	53604	4.50
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	225	54418	4.13
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	211	54111	3.90
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	257	55952	4.59
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	237	59558	3.98
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	236	58174	4.06
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	277	62704	4.42
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	295	64145	4.60
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2007"	"2007"	32	1485	21.55
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2008"	"2008"	29	1844	15.73
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2009"	"2009"	29	2324	12.48
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2010"	"2010"	31	1839	16.86
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2011"	"2011"	21	1916	10.96
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2012"	"2012"	28	1565	17.89
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2013"	"2013"	37	1717	21.55
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2014"	"2014"	29	1653	17.54
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2015"	"2015"	36	1260	28.57
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2007"	"2007"	36	3237	11.12
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2008"	"2008"	43	3145	13.67
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2009"	"2009"	48	3746	12.81
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2010"	"2010"	33	2974	11.10
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2011"	"2011"	40	3243	12.33
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2012"	"2012"	29	3439	8.43
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2013"	"2013"	43	3347	12.85
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2014"	"2014"	49	2781	17.62
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2015"	"2015"	55	2313	23.78
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	15	2159	6.95 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	13	2128	6.11 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	10	2190	4.57 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	12	2107	5.70 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	12	1952	6.15 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	10	2032	4.92 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	15	2180	6.88 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	13	2217	5.86 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	11	1534	7.17 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2008"	"2008"	19	1924	9.88 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2009"	"2009"	12	1929	6.22 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2010"	"2010"	16	1994	8.02 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2011"	"2011"	14	2065	6.78 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2012"	"2012"	18	2102	8.56 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2013"	"2013"	11	2234	4.92 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2014"	"2014"	14	2203	6.35 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"Black or African American"	"2054-5"	"2015"	"2015"	13	2317	5.61 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2007"	"2007"	1914	364743	5.25
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2008"	"2008"	1817	342498	5.31
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2009"	"2009"	1546	317303	4.87
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2010"	"2010"	1387	294478	4.71
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2011"	"2011"	1310	278353	4.71
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2012"	"2012"	1255	271263	4.63
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2013"	"2013"	1196	262438	4.56
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2014"	"2014"	1152	260943	4.41
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2015"	"2015"	1125	257937	4.36
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2007"	"2007"	28	3722	7.52
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2008"	"2008"	23	3607	6.38
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2009"	"2009"	18	3519	5.12 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2010"	"2010"	21	3455	6.08
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2011"	"2011"	24	3475	6.91
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2012"	"2012"	13	3592	3.62 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2013"	"2013"	22	3751	5.87
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2014"	"2014"	20	3993	5.01
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2015"	"2015"	17	3994	4.26 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Cuban"	"2182-4"	"White"	"2106-3"	"2007"	"2007"	13	1361	9.55 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Cuban"	"2182-4"	"White"	"2106-3"	"2008"	"2008"	10	1254	7.97 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Cuban"	"2182-4"	"White"	"2106-3"	"2012"	"2012"	13	1283	10.13 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Cuban"	"2182-4"	"White"	"2106-3"	"2015"	"2015"	10	1557	6.42 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2007"	"2007"	162	36603	4.43
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2008"	"2008"	150	33369	4.50
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2009"	"2009"	137	30157	4.54
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2010"	"2010"	122	27936	4.37
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2011"	"2011"	107	26804	3.99
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2012"	"2012"	118	25635	4.60
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2013"	"2013"	102	25040	4.07
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2014"	"2014"	107	24920	4.29
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2015"	"2015"	95	24984	3.80
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	11	1791	6.14 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	10	1685	5.93 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	10	1726	5.79 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	13	1743	7.46 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2008"	"2008"	10	935	10.70 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2013"	"2013"	11	1263	8.71 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2014"	"2014"	17	1379	12.33 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2015"	"2015"	13	1359	9.57 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2007"	"2007"	138	26577	5.19
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2008"	"2008"	223	39475	5.65
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2009"	"2009"	248	41399	5.99
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2010"	"2010"	275	44530	6.18
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2011"	"2011"	291	48665	5.98
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2012"	"2012"	284	50835	5.59
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2013"	"2013"	322	52460	6.14
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2014"	"2014"	280	54691	5.12
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2015"	"2015"	304	55560	5.47
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2007"	"2007"	2286	446392	5.12
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2008"	"2008"	2106	441596	4.77
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2009"	"2009"	2052	429386	4.78
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2010"	"2010"	1915	422788	4.53
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2011"	"2011"	1890	419518	4.51
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2012"	"2012"	1789	416319	4.30
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2013"	"2013"	1833	416139	4.40
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2014"	"2014"	1789	419592	4.26
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2015"	"2015"	1768	413411	4.28
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2007"	"2007"	546	49569	11.01
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2008"	"2008"	547	50154	10.91
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2009"	"2009"	491	49309	9.96
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2010"	"2010"	457	48659	9.39
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2011"	"2011"	450	48523	9.27
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2012"	"2012"	446	48356	9.22
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2013"	"2013"	478	48570	9.84
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2014"	"2014"	474	48904	9.69
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2015"	"2015"	438	48013	9.12
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	202	21348	9.46
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	159	21169	7.51
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	175	20660	8.47
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	153	19614	7.80
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	166	19596	8.47
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	147	19495	7.54
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	149	19084	7.81
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	144	18186	7.92
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	150	17932	8.36
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	507	105678	4.80
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	477	104399	4.57
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	460	101389	4.54
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	416	98978	4.20
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	419	100450	4.17
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	434	108958	3.98
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	398	107744	3.69
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	387	115372	3.35
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	445	111765	3.98
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"White"	"2106-3"	"2008"	"2008"	26	26	1000.00
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	37	2642	14.00
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	22	2745	8.01
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	33	3066	10.76
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	22	2780	7.91
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	34	2977	11.42
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	36	3954	9.10
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	34	2687	12.65
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	53	3580	14.80
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	32	3659	8.75
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2007"	"2007"	12	1198	10.02 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2008"	"2008"	13	1171	11.10 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2009"	"2009"	20	1047	19.10
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2010"	"2010"	17	959	17.73 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2011"	"2011"	24	1242	19.32
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2012"	"2012"	20	1438	13.91
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2013"	"2013"	13	1138	11.42 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2014"	"2014"	21	1312	16.01
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2015"	"2015"	13	1407	9.24 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2007"	"2007"	114	9812	11.62
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2008"	"2008"	98	9248	10.60
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2009"	"2009"	86	8773	9.80
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2010"	"2010"	81	7890	10.27
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2011"	"2011"	92	7678	11.98
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2012"	"2012"	107	10537	10.15
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2013"	"2013"	126	8783	14.35
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2014"	"2014"	115	10022	11.47
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2015"	"2015"	123	11064	11.12
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2015"
+"Query Parameters:"
+"Title:"
+"Age of Infant at Death: All"
+"Age of Mother: All"
+"Birthplace: All"
+"Birth Weight: All"
+"Census Regions: All"
+"Delivery Method: All"
+"Education: All"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Live Birth Order: All"
+"LMP Gestational Age 11: All"
+"Marital Status: All"
+"Medical Attendant: All"
+"Month Prenatal Care Began: All"
+"OE Gestational Age 11: All"
+"Plurality or Multiple Birth: All"
+"Race: All"
+"Year of Death: All, 2007 to 2015"
+"Group By: Census Region, Hispanic Origin, Race, Year of Death"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: May 11, 2018 6:59:16 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2015, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on May 11, 2018 6:59:16 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."

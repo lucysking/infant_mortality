@@ -1,0 +1,1954 @@
+"Notes"	"County"	"County Code"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Births	Death Rate
+	"Jefferson County, AL"	"01073"	"Mexican"	"2148-5"	29	4748	6.11
+	"Jefferson County, AL"	"01073"	"Puerto Rican"	"2180-8"	Suppressed	159	Suppressed
+	"Jefferson County, AL"	"01073"	"Cuban"	"2182-4"	Suppressed	39	Suppressed
+	"Jefferson County, AL"	"01073"	"Central or South American"	"4"	Suppressed	1215	Suppressed
+	"Jefferson County, AL"	"01073"	"Non-Hispanic White"	"6"	251	36232	6.93
+	"Jefferson County, AL"	"01073"	"Non-Hispanic Black"	"7"	598	38647	15.47
+	"Madison County, AL"	"01089"	"Mexican"	"2148-5"	15	2192	6.84 (Unreliable)
+	"Madison County, AL"	"01089"	"Puerto Rican"	"2180-8"	Suppressed	221	Suppressed
+	"Madison County, AL"	"01089"	"Cuban"	"2182-4"	Suppressed	16	Suppressed
+	"Madison County, AL"	"01089"	"Central or South American"	"4"	Suppressed	472	Suppressed
+	"Madison County, AL"	"01089"	"Non-Hispanic White"	"6"	132	22395	5.89
+	"Madison County, AL"	"01089"	"Non-Hispanic Black"	"7"	139	10895	12.76
+	"Mobile County, AL"	"01097"	"Mexican"	"2148-5"	Suppressed	660	Suppressed
+	"Mobile County, AL"	"01097"	"Puerto Rican"	"2180-8"	Suppressed	141	Suppressed
+	"Mobile County, AL"	"01097"	"Cuban"	"2182-4"	Suppressed	56	Suppressed
+	"Mobile County, AL"	"01097"	"Central or South American"	"4"	Suppressed	505	Suppressed
+	"Mobile County, AL"	"01097"	"Non-Hispanic White"	"6"	173	27312	6.33
+	"Mobile County, AL"	"01097"	"Non-Hispanic Black"	"7"	271	22038	12.30
+	"Unidentified Counties, AL"	"01999"	"Mexican"	"2148-5"	118	19955	5.91
+	"Unidentified Counties, AL"	"01999"	"Puerto Rican"	"2180-8"	Suppressed	1034	Suppressed
+	"Unidentified Counties, AL"	"01999"	"Cuban"	"2182-4"	Suppressed	228	Suppressed
+	"Unidentified Counties, AL"	"01999"	"Central or South American"	"4"	60	8881	6.76
+	"Unidentified Counties, AL"	"01999"	"Non-Hispanic White"	"6"	1708	241146	7.08
+	"Unidentified Counties, AL"	"01999"	"Non-Hispanic Black"	"7"	1228	95980	12.79
+	"Anchorage Borough, AK"	"02020"	"Mexican"	"2148-5"	Suppressed	1988	Suppressed
+	"Anchorage Borough, AK"	"02020"	"Puerto Rican"	"2180-8"	Suppressed	458	Suppressed
+	"Anchorage Borough, AK"	"02020"	"Cuban"	"2182-4"	Suppressed	97	Suppressed
+	"Anchorage Borough, AK"	"02020"	"Central or South American"	"4"	Suppressed	571	Suppressed
+	"Anchorage Borough, AK"	"02020"	"Non-Hispanic White"	"6"	99	22883	4.33
+	"Anchorage Borough, AK"	"02020"	"Non-Hispanic Black"	"7"	19	2600	7.31 (Unreliable)
+	"Unidentified Counties, AK"	"02999"	"Mexican"	"2148-5"	Suppressed	1490	Suppressed
+	"Unidentified Counties, AK"	"02999"	"Puerto Rican"	"2180-8"	Suppressed	324	Suppressed
+	"Unidentified Counties, AK"	"02999"	"Cuban"	"2182-4"	Suppressed	52	Suppressed
+	"Unidentified Counties, AK"	"02999"	"Central or South American"	"4"	Suppressed	357	Suppressed
+	"Unidentified Counties, AK"	"02999"	"Non-Hispanic White"	"6"	124	33757	3.67
+	"Unidentified Counties, AK"	"02999"	"Non-Hispanic Black"	"7"	12	1150	10.43 (Unreliable)
+	"Maricopa County, AZ"	"04013"	"Mexican"	"2148-5"	1123	199303	5.63
+	"Maricopa County, AZ"	"04013"	"Puerto Rican"	"2180-8"	15	2559	5.86 (Unreliable)
+	"Maricopa County, AZ"	"04013"	"Cuban"	"2182-4"	Suppressed	855	Suppressed
+	"Maricopa County, AZ"	"04013"	"Central or South American"	"4"	34	8211	4.14
+	"Maricopa County, AZ"	"04013"	"Non-Hispanic White"	"6"	1173	226569	5.18
+	"Maricopa County, AZ"	"04013"	"Non-Hispanic Black"	"7"	365	30177	12.10
+	"Pima County, AZ"	"04019"	"Mexican"	"2148-5"	295	50216	5.87
+	"Pima County, AZ"	"04019"	"Puerto Rican"	"2180-8"	Suppressed	485	Suppressed
+	"Pima County, AZ"	"04019"	"Cuban"	"2182-4"	Suppressed	114	Suppressed
+	"Pima County, AZ"	"04019"	"Central or South American"	"4"	Suppressed	844	Suppressed
+	"Pima County, AZ"	"04019"	"Non-Hispanic White"	"6"	222	45187	4.91
+	"Pima County, AZ"	"04019"	"Non-Hispanic Black"	"7"	52	4721	11.01
+	"Pinal County, AZ"	"04021"	"Mexican"	"2148-5"	17	2870	5.92 (Unreliable)
+	"Pinal County, AZ"	"04021"	"Puerto Rican"	"2180-8"	Suppressed	63	Suppressed
+	"Pinal County, AZ"	"04021"	"Cuban"	"2182-4"	Suppressed	12	Suppressed
+	"Pinal County, AZ"	"04021"	"Central or South American"	"4"	Suppressed	72	Suppressed
+	"Pinal County, AZ"	"04021"	"Non-Hispanic White"	"6"	24	4499	5.33
+	"Pinal County, AZ"	"04021"	"Non-Hispanic Black"	"7"	Suppressed	432	Suppressed
+	"Unidentified Counties, AZ"	"04999"	"Mexican"	"2148-5"	352	57959	6.07
+	"Unidentified Counties, AZ"	"04999"	"Puerto Rican"	"2180-8"	Suppressed	599	Suppressed
+	"Unidentified Counties, AZ"	"04999"	"Cuban"	"2182-4"	Suppressed	92	Suppressed
+	"Unidentified Counties, AZ"	"04999"	"Central or South American"	"4"	Suppressed	787	Suppressed
+	"Unidentified Counties, AZ"	"04999"	"Non-Hispanic White"	"6"	452	79481	5.69
+	"Unidentified Counties, AZ"	"04999"	"Non-Hispanic Black"	"7"	32	3049	10.50
+	"Pulaski County, AR"	"05119"	"Mexican"	"2148-5"	22	3746	5.87
+	"Pulaski County, AR"	"05119"	"Puerto Rican"	"2180-8"	Suppressed	122	Suppressed
+	"Pulaski County, AR"	"05119"	"Cuban"	"2182-4"	Suppressed	22	Suppressed
+	"Pulaski County, AR"	"05119"	"Central or South American"	"4"	Suppressed	941	Suppressed
+	"Pulaski County, AR"	"05119"	"Non-Hispanic White"	"6"	118	23667	4.99
+	"Pulaski County, AR"	"05119"	"Non-Hispanic Black"	"7"	275	21389	12.86
+	"Unidentified Counties, AR"	"05999"	"Mexican"	"2148-5"	139	24477	5.68
+	"Unidentified Counties, AR"	"05999"	"Puerto Rican"	"2180-8"	Suppressed	447	Suppressed
+	"Unidentified Counties, AR"	"05999"	"Cuban"	"2182-4"	Suppressed	109	Suppressed
+	"Unidentified Counties, AR"	"05999"	"Central or South American"	"4"	22	5563	3.95
+	"Unidentified Counties, AR"	"05999"	"Non-Hispanic White"	"6"	1478	213686	6.92
+	"Unidentified Counties, AR"	"05999"	"Non-Hispanic Black"	"7"	498	46332	10.75
+	"Alameda County, CA"	"06001"	"Mexican"	"2148-5"	144	39575	3.64
+	"Alameda County, CA"	"06001"	"Puerto Rican"	"2180-8"	Suppressed	1271	Suppressed
+	"Alameda County, CA"	"06001"	"Cuban"	"2182-4"	Suppressed	177	Suppressed
+	"Alameda County, CA"	"06001"	"Central or South American"	"4"	31	7927	3.91
+	"Alameda County, CA"	"06001"	"Non-Hispanic White"	"6"	151	45070	3.35
+	"Alameda County, CA"	"06001"	"Non-Hispanic Black"	"7"	188	20478	9.18
+	"Contra Costa County, CA"	"06013"	"Mexican"	"2148-5"	124	29257	4.24
+	"Contra Costa County, CA"	"06013"	"Puerto Rican"	"2180-8"	Suppressed	855	Suppressed
+	"Contra Costa County, CA"	"06013"	"Cuban"	"2182-4"	Suppressed	143	Suppressed
+	"Contra Costa County, CA"	"06013"	"Central or South American"	"4"	22	6668	3.30
+	"Contra Costa County, CA"	"06013"	"Non-Hispanic White"	"6"	135	40439	3.34
+	"Contra Costa County, CA"	"06013"	"Non-Hispanic Black"	"7"	96	10974	8.75
+	"Fresno County, CA"	"06019"	"Mexican"	"2148-5"	344	60162	5.72
+	"Fresno County, CA"	"06019"	"Puerto Rican"	"2180-8"	Suppressed	209	Suppressed
+	"Fresno County, CA"	"06019"	"Cuban"	"2182-4"	Suppressed	32	Suppressed
+	"Fresno County, CA"	"06019"	"Central or South American"	"4"	18	2513	7.16 (Unreliable)
+	"Fresno County, CA"	"06019"	"Non-Hispanic White"	"6"	193	30740	6.28
+	"Fresno County, CA"	"06019"	"Non-Hispanic Black"	"7"	131	7956	16.47
+	"Kern County, CA"	"06029"	"Mexican"	"2148-5"	314	55903	5.62
+	"Kern County, CA"	"06029"	"Puerto Rican"	"2180-8"	Suppressed	489	Suppressed
+	"Kern County, CA"	"06029"	"Cuban"	"2182-4"	Suppressed	57	Suppressed
+	"Kern County, CA"	"06029"	"Central or South American"	"4"	15	2109	7.11 (Unreliable)
+	"Kern County, CA"	"06029"	"Non-Hispanic White"	"6"	238	37127	6.41
+	"Kern County, CA"	"06029"	"Non-Hispanic Black"	"7"	83	7660	10.84
+	"Los Angeles County, CA"	"06037"	"Mexican"	"2148-5"	2235	518912	4.31
+	"Los Angeles County, CA"	"06037"	"Puerto Rican"	"2180-8"	20	3913	5.11
+	"Los Angeles County, CA"	"06037"	"Cuban"	"2182-4"	13	2744	4.74 (Unreliable)
+	"Los Angeles County, CA"	"06037"	"Central or South American"	"4"	459	107671	4.26
+	"Los Angeles County, CA"	"06037"	"Non-Hispanic White"	"6"	733	218818	3.35
+	"Los Angeles County, CA"	"06037"	"Non-Hispanic Black"	"7"	864	93847	9.21
+	"Marin County, CA"	"06041"	"Mexican"	"2148-5"	Suppressed	459	Suppressed
+	"Marin County, CA"	"06041"	"Puerto Rican"	"2180-8"	Suppressed	14	Suppressed
+	"Marin County, CA"	"06041"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Marin County, CA"	"06041"	"Central or South American"	"4"	Suppressed	798	Suppressed
+	"Marin County, CA"	"06041"	"Non-Hispanic White"	"6"	Suppressed	2610	Suppressed
+	"Marin County, CA"	"06041"	"Non-Hispanic Black"	"7"	Suppressed	101	Suppressed
+	"Merced County, CA"	"06047"	"Mexican"	"2148-5"	17	5462	3.11 (Unreliable)
+	"Merced County, CA"	"06047"	"Puerto Rican"	"2180-8"	Suppressed	12	Suppressed
+	"Merced County, CA"	"06047"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Merced County, CA"	"06047"	"Central or South American"	"4"	Suppressed	62	Suppressed
+	"Merced County, CA"	"06047"	"Non-Hispanic White"	"6"	Suppressed	1690	Suppressed
+	"Merced County, CA"	"06047"	"Non-Hispanic Black"	"7"	Suppressed	240	Suppressed
+	"Monterey County, CA"	"06053"	"Mexican"	"2148-5"	188	42509	4.42
+	"Monterey County, CA"	"06053"	"Puerto Rican"	"2180-8"	Suppressed	160	Suppressed
+	"Monterey County, CA"	"06053"	"Cuban"	"2182-4"	Suppressed	20	Suppressed
+	"Monterey County, CA"	"06053"	"Central or South American"	"4"	Suppressed	1112	Suppressed
+	"Monterey County, CA"	"06053"	"Non-Hispanic White"	"6"	48	11493	4.18
+	"Monterey County, CA"	"06053"	"Non-Hispanic Black"	"7"	Suppressed	921	Suppressed
+	"Orange County, CA"	"06059"	"Mexican"	"2148-5"	647	144558	4.48
+	"Orange County, CA"	"06059"	"Puerto Rican"	"2180-8"	Suppressed	1031	Suppressed
+	"Orange County, CA"	"06059"	"Cuban"	"2182-4"	Suppressed	644	Suppressed
+	"Orange County, CA"	"06059"	"Central or South American"	"4"	33	12035	2.74
+	"Orange County, CA"	"06059"	"Non-Hispanic White"	"6"	317	106577	2.97
+	"Orange County, CA"	"06059"	"Non-Hispanic Black"	"7"	37	4691	7.89
+	"Placer County, CA"	"06061"	"Mexican"	"2148-5"	Suppressed	998	Suppressed
+	"Placer County, CA"	"06061"	"Puerto Rican"	"2180-8"	Suppressed	43	Suppressed
+	"Placer County, CA"	"06061"	"Cuban"	"2182-4"	Suppressed	19	Suppressed
+	"Placer County, CA"	"06061"	"Central or South American"	"4"	Suppressed	113	Suppressed
+	"Placer County, CA"	"06061"	"Non-Hispanic White"	"6"	23	5121	4.49
+	"Placer County, CA"	"06061"	"Non-Hispanic Black"	"7"	Suppressed	102	Suppressed
+	"Riverside County, CA"	"06065"	"Mexican"	"2148-5"	592	134380	4.41
+	"Riverside County, CA"	"06065"	"Puerto Rican"	"2180-8"	Suppressed	1355	Suppressed
+	"Riverside County, CA"	"06065"	"Cuban"	"2182-4"	Suppressed	497	Suppressed
+	"Riverside County, CA"	"06065"	"Central or South American"	"4"	39	7519	5.19
+	"Riverside County, CA"	"06065"	"Non-Hispanic White"	"6"	340	77269	4.40
+	"Riverside County, CA"	"06065"	"Non-Hispanic Black"	"7"	155	16448	9.42
+	"Sacramento County, CA"	"06067"	"Mexican"	"2148-5"	166	41839	3.97
+	"Sacramento County, CA"	"06067"	"Puerto Rican"	"2180-8"	Suppressed	1301	Suppressed
+	"Sacramento County, CA"	"06067"	"Cuban"	"2182-4"	Suppressed	212	Suppressed
+	"Sacramento County, CA"	"06067"	"Central or South American"	"4"	16	3194	5.01 (Unreliable)
+	"Sacramento County, CA"	"06067"	"Non-Hispanic White"	"6"	332	73118	4.54
+	"Sacramento County, CA"	"06067"	"Non-Hispanic Black"	"7"	214	21893	9.77
+	"San Bernardino County, CA"	"06071"	"Mexican"	"2148-5"	705	129644	5.44
+	"San Bernardino County, CA"	"06071"	"Puerto Rican"	"2180-8"	14	1392	10.06 (Unreliable)
+	"San Bernardino County, CA"	"06071"	"Cuban"	"2182-4"	Suppressed	529	Suppressed
+	"San Bernardino County, CA"	"06071"	"Central or South American"	"4"	45	8776	5.13
+	"San Bernardino County, CA"	"06071"	"Non-Hispanic White"	"6"	413	71285	5.79
+	"San Bernardino County, CA"	"06071"	"Non-Hispanic Black"	"7"	292	26039	11.21
+	"San Diego County, CA"	"06073"	"Mexican"	"2148-5"	591	158589	3.73
+	"San Diego County, CA"	"06073"	"Puerto Rican"	"2180-8"	14	2492	5.62 (Unreliable)
+	"San Diego County, CA"	"06073"	"Cuban"	"2182-4"	Suppressed	565	Suppressed
+	"San Diego County, CA"	"06073"	"Central or South American"	"4"	22	7632	2.88
+	"San Diego County, CA"	"06073"	"Non-Hispanic White"	"6"	499	140199	3.56
+	"San Diego County, CA"	"06073"	"Non-Hispanic Black"	"7"	163	19621	8.31
+	"San Francisco County, CA"	"06075"	"Mexican"	"2148-5"	34	7299	4.66
+	"San Francisco County, CA"	"06075"	"Puerto Rican"	"2180-8"	Suppressed	305	Suppressed
+	"San Francisco County, CA"	"06075"	"Cuban"	"2182-4"	Suppressed	102	Suppressed
+	"San Francisco County, CA"	"06075"	"Central or South American"	"4"	25	5880	4.25
+	"San Francisco County, CA"	"06075"	"Non-Hispanic White"	"6"	74	33404	2.22
+	"San Francisco County, CA"	"06075"	"Non-Hispanic Black"	"7"	56	4472	12.52
+	"San Joaquin County, CA"	"06077"	"Mexican"	"2148-5"	207	42104	4.92
+	"San Joaquin County, CA"	"06077"	"Puerto Rican"	"2180-8"	Suppressed	564	Suppressed
+	"San Joaquin County, CA"	"06077"	"Cuban"	"2182-4"	Suppressed	64	Suppressed
+	"San Joaquin County, CA"	"06077"	"Central or South American"	"4"	11	1814	6.06 (Unreliable)
+	"San Joaquin County, CA"	"06077"	"Non-Hispanic White"	"6"	143	24157	5.92
+	"San Joaquin County, CA"	"06077"	"Non-Hispanic Black"	"7"	99	7643	12.95
+	"San Luis Obispo County, CA"	"06079"	"Mexican"	"2148-5"	10	1192	8.39 (Unreliable)
+	"San Luis Obispo County, CA"	"06079"	"Puerto Rican"	"2180-8"	Suppressed	16	Suppressed
+	"San Luis Obispo County, CA"	"06079"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"San Luis Obispo County, CA"	"06079"	"Central or South American"	"4"	Suppressed	75	Suppressed
+	"San Luis Obispo County, CA"	"06079"	"Non-Hispanic White"	"6"	10	3189	3.14 (Unreliable)
+	"San Luis Obispo County, CA"	"06079"	"Non-Hispanic Black"	"7"	Suppressed	60	Suppressed
+	"San Mateo County, CA"	"06081"	"Mexican"	"2148-5"	56	16143	3.47
+	"San Mateo County, CA"	"06081"	"Puerto Rican"	"2180-8"	Suppressed	338	Suppressed
+	"San Mateo County, CA"	"06081"	"Cuban"	"2182-4"	Suppressed	98	Suppressed
+	"San Mateo County, CA"	"06081"	"Central or South American"	"4"	24	6523	3.68
+	"San Mateo County, CA"	"06081"	"Non-Hispanic White"	"6"	52	25568	2.03
+	"San Mateo County, CA"	"06081"	"Non-Hispanic Black"	"7"	13	1442	9.02 (Unreliable)
+	"Santa Barbara County, CA"	"06083"	"Mexican"	"2148-5"	143	32589	4.39
+	"Santa Barbara County, CA"	"06083"	"Puerto Rican"	"2180-8"	Suppressed	118	Suppressed
+	"Santa Barbara County, CA"	"06083"	"Cuban"	"2182-4"	Suppressed	13	Suppressed
+	"Santa Barbara County, CA"	"06083"	"Central or South American"	"4"	Suppressed	1018	Suppressed
+	"Santa Barbara County, CA"	"06083"	"Non-Hispanic White"	"6"	66	14743	4.48
+	"Santa Barbara County, CA"	"06083"	"Non-Hispanic Black"	"7"	Suppressed	678	Suppressed
+	"Santa Clara County, CA"	"06085"	"Mexican"	"2148-5"	242	65012	3.72
+	"Santa Clara County, CA"	"06085"	"Puerto Rican"	"2180-8"	Suppressed	628	Suppressed
+	"Santa Clara County, CA"	"06085"	"Cuban"	"2182-4"	Suppressed	164	Suppressed
+	"Santa Clara County, CA"	"06085"	"Central or South American"	"4"	15	4594	3.27 (Unreliable)
+	"Santa Clara County, CA"	"06085"	"Non-Hispanic White"	"6"	128	50135	2.55
+	"Santa Clara County, CA"	"06085"	"Non-Hispanic Black"	"7"	32	4819	6.64
+	"Santa Cruz County, CA"	"06087"	"Mexican"	"2148-5"	54	13672	3.95
+	"Santa Cruz County, CA"	"06087"	"Puerto Rican"	"2180-8"	Suppressed	33	Suppressed
+	"Santa Cruz County, CA"	"06087"	"Cuban"	"2182-4"	Suppressed	11	Suppressed
+	"Santa Cruz County, CA"	"06087"	"Central or South American"	"4"	Suppressed	359	Suppressed
+	"Santa Cruz County, CA"	"06087"	"Non-Hispanic White"	"6"	34	10967	3.10
+	"Santa Cruz County, CA"	"06087"	"Non-Hispanic Black"	"7"	Suppressed	216	Suppressed
+	"Solano County, CA"	"06095"	"Mexican"	"2148-5"	62	12626	4.91
+	"Solano County, CA"	"06095"	"Puerto Rican"	"2180-8"	Suppressed	467	Suppressed
+	"Solano County, CA"	"06095"	"Cuban"	"2182-4"	Suppressed	75	Suppressed
+	"Solano County, CA"	"06095"	"Central or South American"	"4"	Suppressed	1105	Suppressed
+	"Solano County, CA"	"06095"	"Non-Hispanic White"	"6"	77	16339	4.71
+	"Solano County, CA"	"06095"	"Non-Hispanic Black"	"7"	62	6989	8.87
+	"Sonoma County, CA"	"06097"	"Mexican"	"2148-5"	69	17017	4.05
+	"Sonoma County, CA"	"06097"	"Puerto Rican"	"2180-8"	Suppressed	129	Suppressed
+	"Sonoma County, CA"	"06097"	"Cuban"	"2182-4"	Suppressed	27	Suppressed
+	"Sonoma County, CA"	"06097"	"Central or South American"	"4"	Suppressed	1016	Suppressed
+	"Sonoma County, CA"	"06097"	"Non-Hispanic White"	"6"	79	22715	3.48
+	"Sonoma County, CA"	"06097"	"Non-Hispanic Black"	"7"	Suppressed	812	Suppressed
+	"Stanislaus County, CA"	"06099"	"Mexican"	"2148-5"	221	36250	6.10
+	"Stanislaus County, CA"	"06099"	"Puerto Rican"	"2180-8"	Suppressed	363	Suppressed
+	"Stanislaus County, CA"	"06099"	"Cuban"	"2182-4"	Suppressed	35	Suppressed
+	"Stanislaus County, CA"	"06099"	"Central or South American"	"4"	Suppressed	1074	Suppressed
+	"Stanislaus County, CA"	"06099"	"Non-Hispanic White"	"6"	116	25242	4.60
+	"Stanislaus County, CA"	"06099"	"Non-Hispanic Black"	"7"	25	1861	13.43
+	"Tulare County, CA"	"06107"	"Mexican"	"2148-5"	224	47052	4.76
+	"Tulare County, CA"	"06107"	"Puerto Rican"	"2180-8"	Suppressed	119	Suppressed
+	"Tulare County, CA"	"06107"	"Cuban"	"2182-4"	Suppressed	22	Suppressed
+	"Tulare County, CA"	"06107"	"Central or South American"	"4"	Suppressed	486	Suppressed
+	"Tulare County, CA"	"06107"	"Non-Hispanic White"	"6"	90	15710	5.73
+	"Tulare County, CA"	"06107"	"Non-Hispanic Black"	"7"	Suppressed	925	Suppressed
+	"Ventura County, CA"	"06111"	"Mexican"	"2148-5"	301	53850	5.59
+	"Ventura County, CA"	"06111"	"Puerto Rican"	"2180-8"	Suppressed	297	Suppressed
+	"Ventura County, CA"	"06111"	"Cuban"	"2182-4"	Suppressed	100	Suppressed
+	"Ventura County, CA"	"06111"	"Central or South American"	"4"	10	2392	4.18 (Unreliable)
+	"Ventura County, CA"	"06111"	"Non-Hispanic White"	"6"	123	31272	3.93
+	"Ventura County, CA"	"06111"	"Non-Hispanic Black"	"7"	Suppressed	1321	Suppressed
+	"Unidentified Counties, CA"	"06999"	"Mexican"	"2148-5"	599	130086	4.60
+	"Unidentified Counties, CA"	"06999"	"Puerto Rican"	"2180-8"	Suppressed	936	Suppressed
+	"Unidentified Counties, CA"	"06999"	"Cuban"	"2182-4"	Suppressed	249	Suppressed
+	"Unidentified Counties, CA"	"06999"	"Central or South American"	"4"	26	6016	4.32
+	"Unidentified Counties, CA"	"06999"	"Non-Hispanic White"	"6"	844	181377	4.65
+	"Unidentified Counties, CA"	"06999"	"Non-Hispanic Black"	"7"	65	6593	9.86
+	"Adams County, CO"	"08001"	"Mexican"	"2148-5"	112	19837	5.65
+	"Adams County, CO"	"08001"	"Puerto Rican"	"2180-8"	Suppressed	264	Suppressed
+	"Adams County, CO"	"08001"	"Cuban"	"2182-4"	Suppressed	82	Suppressed
+	"Adams County, CO"	"08001"	"Central or South American"	"4"	Suppressed	998	Suppressed
+	"Adams County, CO"	"08001"	"Non-Hispanic White"	"6"	125	29300	4.27
+	"Adams County, CO"	"08001"	"Non-Hispanic Black"	"7"	24	1848	12.99
+	"Arapahoe County, CO"	"08005"	"Mexican"	"2148-5"	89	12931	6.88
+	"Arapahoe County, CO"	"08005"	"Puerto Rican"	"2180-8"	Suppressed	442	Suppressed
+	"Arapahoe County, CO"	"08005"	"Cuban"	"2182-4"	Suppressed	114	Suppressed
+	"Arapahoe County, CO"	"08005"	"Central or South American"	"4"	10	1576	6.35 (Unreliable)
+	"Arapahoe County, CO"	"08005"	"Non-Hispanic White"	"6"	179	37065	4.83
+	"Arapahoe County, CO"	"08005"	"Non-Hispanic Black"	"7"	93	8356	11.13
+	"Boulder County, CO"	"08013"	"Mexican"	"2148-5"	28	5123	5.47
+	"Boulder County, CO"	"08013"	"Puerto Rican"	"2180-8"	Suppressed	95	Suppressed
+	"Boulder County, CO"	"08013"	"Cuban"	"2182-4"	Suppressed	38	Suppressed
+	"Boulder County, CO"	"08013"	"Central or South American"	"4"	Suppressed	459	Suppressed
+	"Boulder County, CO"	"08013"	"Non-Hispanic White"	"6"	86	18483	4.65
+	"Boulder County, CO"	"08013"	"Non-Hispanic Black"	"7"	Suppressed	216	Suppressed
+	"Denver County, CO"	"08031"	"Mexican"	"2148-5"	149	24767	6.02
+	"Denver County, CO"	"08031"	"Puerto Rican"	"2180-8"	Suppressed	418	Suppressed
+	"Denver County, CO"	"08031"	"Cuban"	"2182-4"	Suppressed	114	Suppressed
+	"Denver County, CO"	"08031"	"Central or South American"	"4"	12	1731	6.93 (Unreliable)
+	"Denver County, CO"	"08031"	"Non-Hispanic White"	"6"	176	40542	4.34
+	"Denver County, CO"	"08031"	"Non-Hispanic Black"	"7"	111	9637	11.52
+	"Douglas County, CO"	"08035"	"Mexican"	"2148-5"	Suppressed	349	Suppressed
+	"Douglas County, CO"	"08035"	"Puerto Rican"	"2180-8"	Suppressed	27	Suppressed
+	"Douglas County, CO"	"08035"	"Cuban"	"2182-4"	Suppressed	16	Suppressed
+	"Douglas County, CO"	"08035"	"Central or South American"	"4"	Suppressed	80	Suppressed
+	"Douglas County, CO"	"08035"	"Non-Hispanic White"	"6"	19	5583	3.40 (Unreliable)
+	"Douglas County, CO"	"08035"	"Non-Hispanic Black"	"7"	Suppressed	75	Suppressed
+	"El Paso County, CO"	"08041"	"Mexican"	"2148-5"	60	10227	5.87
+	"El Paso County, CO"	"08041"	"Puerto Rican"	"2180-8"	13	1365	9.52 (Unreliable)
+	"El Paso County, CO"	"08041"	"Cuban"	"2182-4"	Suppressed	197	Suppressed
+	"El Paso County, CO"	"08041"	"Central or South American"	"4"	Suppressed	1217	Suppressed
+	"El Paso County, CO"	"08041"	"Non-Hispanic White"	"6"	300	54308	5.52
+	"El Paso County, CO"	"08041"	"Non-Hispanic Black"	"7"	67	6066	11.05
+	"Jefferson County, CO"	"08059"	"Mexican"	"2148-5"	28	5717	4.90
+	"Jefferson County, CO"	"08059"	"Puerto Rican"	"2180-8"	Suppressed	208	Suppressed
+	"Jefferson County, CO"	"08059"	"Cuban"	"2182-4"	Suppressed	54	Suppressed
+	"Jefferson County, CO"	"08059"	"Central or South American"	"4"	Suppressed	584	Suppressed
+	"Jefferson County, CO"	"08059"	"Non-Hispanic White"	"6"	168	38439	4.37
+	"Jefferson County, CO"	"08059"	"Non-Hispanic Black"	"7"	Suppressed	636	Suppressed
+	"Larimer County, CO"	"08069"	"Mexican"	"2148-5"	28	4178	6.70
+	"Larimer County, CO"	"08069"	"Puerto Rican"	"2180-8"	Suppressed	98	Suppressed
+	"Larimer County, CO"	"08069"	"Cuban"	"2182-4"	Suppressed	35	Suppressed
+	"Larimer County, CO"	"08069"	"Central or South American"	"4"	Suppressed	233	Suppressed
+	"Larimer County, CO"	"08069"	"Non-Hispanic White"	"6"	90	24163	3.72
+	"Larimer County, CO"	"08069"	"Non-Hispanic Black"	"7"	Suppressed	266	Suppressed
+	"Weld County, CO"	"08123"	"Mexican"	"2148-5"	Suppressed	2329	Suppressed
+	"Weld County, CO"	"08123"	"Puerto Rican"	"2180-8"	Suppressed	22	Suppressed
+	"Weld County, CO"	"08123"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Weld County, CO"	"08123"	"Central or South American"	"4"	Suppressed	110	Suppressed
+	"Weld County, CO"	"08123"	"Non-Hispanic White"	"6"	26	4985	5.22
+	"Weld County, CO"	"08123"	"Non-Hispanic Black"	"7"	Suppressed	159	Suppressed
+	"Unidentified Counties, CO"	"08999"	"Mexican"	"2148-5"	195	31422	6.21
+	"Unidentified Counties, CO"	"08999"	"Puerto Rican"	"2180-8"	Suppressed	500	Suppressed
+	"Unidentified Counties, CO"	"08999"	"Cuban"	"2182-4"	Suppressed	149	Suppressed
+	"Unidentified Counties, CO"	"08999"	"Central or South American"	"4"	16	2648	6.04 (Unreliable)
+	"Unidentified Counties, CO"	"08999"	"Non-Hispanic White"	"6"	525	113612	4.62
+	"Unidentified Counties, CO"	"08999"	"Non-Hispanic Black"	"7"	10	1531	6.53 (Unreliable)
+	"Fairfield County, CT"	"09001"	"Mexican"	"2148-5"	22	3538	6.22
+	"Fairfield County, CT"	"09001"	"Puerto Rican"	"2180-8"	63	7306	8.62
+	"Fairfield County, CT"	"09001"	"Cuban"	"2182-4"	Suppressed	253	Suppressed
+	"Fairfield County, CT"	"09001"	"Central or South American"	"4"	58	13251	4.38
+	"Fairfield County, CT"	"09001"	"Non-Hispanic White"	"6"	133	50650	2.63
+	"Fairfield County, CT"	"09001"	"Non-Hispanic Black"	"7"	132	11626	11.35
+	"Hartford County, CT"	"09003"	"Mexican"	"2148-5"	Suppressed	1177	Suppressed
+	"Hartford County, CT"	"09003"	"Puerto Rican"	"2180-8"	142	15892	8.94
+	"Hartford County, CT"	"09003"	"Cuban"	"2182-4"	Suppressed	202	Suppressed
+	"Hartford County, CT"	"09003"	"Central or South American"	"4"	14	3728	3.76 (Unreliable)
+	"Hartford County, CT"	"09003"	"Non-Hispanic White"	"6"	188	44904	4.19
+	"Hartford County, CT"	"09003"	"Non-Hispanic Black"	"7"	167	14444	11.56
+	"New Haven County, CT"	"09009"	"Mexican"	"2148-5"	18	3242	5.55 (Unreliable)
+	"New Haven County, CT"	"09009"	"Puerto Rican"	"2180-8"	93	12614	7.37
+	"New Haven County, CT"	"09009"	"Cuban"	"2182-4"	Suppressed	212	Suppressed
+	"New Haven County, CT"	"09009"	"Central or South American"	"4"	27	4738	5.70
+	"New Haven County, CT"	"09009"	"Non-Hispanic White"	"6"	205	44440	4.61
+	"New Haven County, CT"	"09009"	"Non-Hispanic Black"	"7"	143	13525	10.57
+	"New London County, CT"	"09011"	"Mexican"	"2148-5"	Suppressed	332	Suppressed
+	"New London County, CT"	"09011"	"Puerto Rican"	"2180-8"	12	1771	6.78 (Unreliable)
+	"New London County, CT"	"09011"	"Cuban"	"2182-4"	Suppressed	40	Suppressed
+	"New London County, CT"	"09011"	"Central or South American"	"4"	Suppressed	1156	Suppressed
+	"New London County, CT"	"09011"	"Non-Hispanic White"	"6"	90	18141	4.96
+	"New London County, CT"	"09011"	"Non-Hispanic Black"	"7"	19	1892	10.04 (Unreliable)
+	"Unidentified Counties, CT"	"09999"	"Mexican"	"2148-5"	Suppressed	611	Suppressed
+	"Unidentified Counties, CT"	"09999"	"Puerto Rican"	"2180-8"	Suppressed	2302	Suppressed
+	"Unidentified Counties, CT"	"09999"	"Cuban"	"2182-4"	Suppressed	82	Suppressed
+	"Unidentified Counties, CT"	"09999"	"Central or South American"	"4"	Suppressed	1130	Suppressed
+	"Unidentified Counties, CT"	"09999"	"Non-Hispanic White"	"6"	174	40387	4.31
+	"Unidentified Counties, CT"	"09999"	"Non-Hispanic Black"	"7"	17	1690	10.06 (Unreliable)
+	"New Castle County, DE"	"10003"	"Mexican"	"2148-5"	32	4493	7.12
+	"New Castle County, DE"	"10003"	"Puerto Rican"	"2180-8"	23	1969	11.68
+	"New Castle County, DE"	"10003"	"Cuban"	"2182-4"	Suppressed	79	Suppressed
+	"New Castle County, DE"	"10003"	"Central or South American"	"4"	Suppressed	624	Suppressed
+	"New Castle County, DE"	"10003"	"Non-Hispanic White"	"6"	183	31505	5.81
+	"New Castle County, DE"	"10003"	"Non-Hispanic Black"	"7"	264	18148	14.55
+	"Unidentified Counties, DE"	"10999"	"Mexican"	"2148-5"	Suppressed	2020	Suppressed
+	"Unidentified Counties, DE"	"10999"	"Puerto Rican"	"2180-8"	Suppressed	946	Suppressed
+	"Unidentified Counties, DE"	"10999"	"Cuban"	"2182-4"	Suppressed	55	Suppressed
+	"Unidentified Counties, DE"	"10999"	"Central or South American"	"4"	13	3085	4.21 (Unreliable)
+	"Unidentified Counties, DE"	"10999"	"Non-Hispanic White"	"6"	139	24141	5.76
+	"Unidentified Counties, DE"	"10999"	"Non-Hispanic Black"	"7"	93	9260	10.04
+	"District of Columbia, DC"	"11001"	"Mexican"	"2148-5"	10	1404	7.12 (Unreliable)
+	"District of Columbia, DC"	"11001"	"Puerto Rican"	"2180-8"	Suppressed	278	Suppressed
+	"District of Columbia, DC"	"11001"	"Cuban"	"2182-4"	Suppressed	133	Suppressed
+	"District of Columbia, DC"	"11001"	"Central or South American"	"4"	54	9303	5.80
+	"District of Columbia, DC"	"11001"	"Non-Hispanic White"	"6"	76	23605	3.22
+	"District of Columbia, DC"	"11001"	"Non-Hispanic Black"	"7"	569	43477	13.09
+	"Brevard County, FL"	"12009"	"Mexican"	"2148-5"	Suppressed	1134	Suppressed
+	"Brevard County, FL"	"12009"	"Puerto Rican"	"2180-8"	14	2007	6.98 (Unreliable)
+	"Brevard County, FL"	"12009"	"Cuban"	"2182-4"	Suppressed	444	Suppressed
+	"Brevard County, FL"	"12009"	"Central or South American"	"4"	Suppressed	1531	Suppressed
+	"Brevard County, FL"	"12009"	"Non-Hispanic White"	"6"	180	33096	5.44
+	"Brevard County, FL"	"12009"	"Non-Hispanic Black"	"7"	86	6967	12.34
+	"Broward County, FL"	"12011"	"Mexican"	"2148-5"	25	5221	4.79
+	"Broward County, FL"	"12011"	"Puerto Rican"	"2180-8"	45	9194	4.89
+	"Broward County, FL"	"12011"	"Cuban"	"2182-4"	32	8373	3.82
+	"Broward County, FL"	"12011"	"Central or South American"	"4"	95	31251	3.04
+	"Broward County, FL"	"12011"	"Non-Hispanic White"	"6"	206	54009	3.81
+	"Broward County, FL"	"12011"	"Non-Hispanic Black"	"7"	654	73769	8.87
+	"Collier County, FL"	"12021"	"Mexican"	"2148-5"	37	7848	4.71
+	"Collier County, FL"	"12021"	"Puerto Rican"	"2180-8"	Suppressed	737	Suppressed
+	"Collier County, FL"	"12021"	"Cuban"	"2182-4"	11	2012	5.47 (Unreliable)
+	"Collier County, FL"	"12021"	"Central or South American"	"4"	16	3800	4.21 (Unreliable)
+	"Collier County, FL"	"12021"	"Non-Hispanic White"	"6"	68	11773	5.78
+	"Collier County, FL"	"12021"	"Non-Hispanic Black"	"7"	43	3652	11.77
+	"Duval County, FL"	"12031"	"Mexican"	"2148-5"	18	2960	6.08 (Unreliable)
+	"Duval County, FL"	"12031"	"Puerto Rican"	"2180-8"	30	3248	9.24
+	"Duval County, FL"	"12031"	"Cuban"	"2182-4"	Suppressed	958	Suppressed
+	"Duval County, FL"	"12031"	"Central or South American"	"4"	23	3286	7.00
+	"Duval County, FL"	"12031"	"Non-Hispanic White"	"6"	329	56914	5.78
+	"Duval County, FL"	"12031"	"Non-Hispanic Black"	"7"	537	41679	12.88
+	"Escambia County, FL"	"12033"	"Mexican"	"2148-5"	Suppressed	986	Suppressed
+	"Escambia County, FL"	"12033"	"Puerto Rican"	"2180-8"	Suppressed	343	Suppressed
+	"Escambia County, FL"	"12033"	"Cuban"	"2182-4"	Suppressed	100	Suppressed
+	"Escambia County, FL"	"12033"	"Central or South American"	"4"	Suppressed	486	Suppressed
+	"Escambia County, FL"	"12033"	"Non-Hispanic White"	"6"	133	21418	6.21
+	"Escambia County, FL"	"12033"	"Non-Hispanic Black"	"7"	154	11231	13.71
+	"Hillsborough County, FL"	"12057"	"Mexican"	"2148-5"	87	15393	5.65
+	"Hillsborough County, FL"	"12057"	"Puerto Rican"	"2180-8"	113	13267	8.52
+	"Hillsborough County, FL"	"12057"	"Cuban"	"2182-4"	52	7226	7.20
+	"Hillsborough County, FL"	"12057"	"Central or South American"	"4"	48	8024	5.98
+	"Hillsborough County, FL"	"12057"	"Non-Hispanic White"	"6"	354	66146	5.35
+	"Hillsborough County, FL"	"12057"	"Non-Hispanic Black"	"7"	474	32177	14.73
+	"Lake County, FL"	"12069"	"Mexican"	"2148-5"	Suppressed	470	Suppressed
+	"Lake County, FL"	"12069"	"Puerto Rican"	"2180-8"	Suppressed	446	Suppressed
+	"Lake County, FL"	"12069"	"Cuban"	"2182-4"	Suppressed	59	Suppressed
+	"Lake County, FL"	"12069"	"Central or South American"	"4"	Suppressed	159	Suppressed
+	"Lake County, FL"	"12069"	"Non-Hispanic White"	"6"	35	4025	8.70
+	"Lake County, FL"	"12069"	"Non-Hispanic Black"	"7"	18	936	19.23 (Unreliable)
+	"Lee County, FL"	"12071"	"Mexican"	"2148-5"	38	6816	5.58
+	"Lee County, FL"	"12071"	"Puerto Rican"	"2180-8"	18	3178	5.66 (Unreliable)
+	"Lee County, FL"	"12071"	"Cuban"	"2182-4"	Suppressed	2344	Suppressed
+	"Lee County, FL"	"12071"	"Central or South American"	"4"	25	5274	4.74
+	"Lee County, FL"	"12071"	"Non-Hispanic White"	"6"	135	31424	4.30
+	"Lee County, FL"	"12071"	"Non-Hispanic Black"	"7"	120	8574	14.00
+	"Leon County, FL"	"12073"	"Mexican"	"2148-5"	Suppressed	111	Suppressed
+	"Leon County, FL"	"12073"	"Puerto Rican"	"2180-8"	Suppressed	56	Suppressed
+	"Leon County, FL"	"12073"	"Cuban"	"2182-4"	Suppressed	36	Suppressed
+	"Leon County, FL"	"12073"	"Central or South American"	"4"	Suppressed	101	Suppressed
+	"Leon County, FL"	"12073"	"Non-Hispanic White"	"6"	16	2965	5.40 (Unreliable)
+	"Leon County, FL"	"12073"	"Non-Hispanic Black"	"7"	26	2597	10.01
+	"Manatee County, FL"	"12081"	"Mexican"	"2148-5"	44	6600	6.67
+	"Manatee County, FL"	"12081"	"Puerto Rican"	"2180-8"	Suppressed	861	Suppressed
+	"Manatee County, FL"	"12081"	"Cuban"	"2182-4"	Suppressed	253	Suppressed
+	"Manatee County, FL"	"12081"	"Central or South American"	"4"	11	1941	5.67 (Unreliable)
+	"Manatee County, FL"	"12081"	"Non-Hispanic White"	"6"	97	16990	5.71
+	"Manatee County, FL"	"12081"	"Non-Hispanic Black"	"7"	58	4678	12.40
+	"Marion County, FL"	"12083"	"Mexican"	"2148-5"	Suppressed	1553	Suppressed
+	"Marion County, FL"	"12083"	"Puerto Rican"	"2180-8"	17	1873	9.08 (Unreliable)
+	"Marion County, FL"	"12083"	"Cuban"	"2182-4"	Suppressed	297	Suppressed
+	"Marion County, FL"	"12083"	"Central or South American"	"4"	Suppressed	906	Suppressed
+	"Marion County, FL"	"12083"	"Non-Hispanic White"	"6"	119	19641	6.06
+	"Marion County, FL"	"12083"	"Non-Hispanic Black"	"7"	91	6188	14.71
+	"Miami-Dade County, FL"	"12086"	"Mexican"	"2148-5"	49	8715	5.62
+	"Miami-Dade County, FL"	"12086"	"Puerto Rican"	"2180-8"	52	10143	5.13
+	"Miami-Dade County, FL"	"12086"	"Cuban"	"2182-4"	235	72436	3.24
+	"Miami-Dade County, FL"	"12086"	"Central or South American"	"4"	228	76417	2.98
+	"Miami-Dade County, FL"	"12086"	"Non-Hispanic White"	"6"	152	39406	3.86
+	"Miami-Dade County, FL"	"12086"	"Non-Hispanic Black"	"7"	628	65747	9.55
+	"Orange County, FL"	"12095"	"Mexican"	"2148-5"	45	7161	6.28
+	"Orange County, FL"	"12095"	"Puerto Rican"	"2180-8"	130	20442	6.36
+	"Orange County, FL"	"12095"	"Cuban"	"2182-4"	14	2313	6.05 (Unreliable)
+	"Orange County, FL"	"12095"	"Central or South American"	"4"	51	10590	4.82
+	"Orange County, FL"	"12095"	"Non-Hispanic White"	"6"	233	52313	4.45
+	"Orange County, FL"	"12095"	"Non-Hispanic Black"	"7"	488	39739	12.28
+	"Osceola County, FL"	"12097"	"Mexican"	"2148-5"	Suppressed	263	Suppressed
+	"Osceola County, FL"	"12097"	"Puerto Rican"	"2180-8"	14	2838	4.93 (Unreliable)
+	"Osceola County, FL"	"12097"	"Cuban"	"2182-4"	Suppressed	172	Suppressed
+	"Osceola County, FL"	"12097"	"Central or South American"	"4"	Suppressed	842	Suppressed
+	"Osceola County, FL"	"12097"	"Non-Hispanic White"	"6"	11	2650	4.15 (Unreliable)
+	"Osceola County, FL"	"12097"	"Non-Hispanic Black"	"7"	Suppressed	926	Suppressed
+	"Palm Beach County, FL"	"12099"	"Mexican"	"2148-5"	37	9097	4.07
+	"Palm Beach County, FL"	"12099"	"Puerto Rican"	"2180-8"	42	5040	8.33
+	"Palm Beach County, FL"	"12099"	"Cuban"	"2182-4"	15	4331	3.46 (Unreliable)
+	"Palm Beach County, FL"	"12099"	"Central or South American"	"4"	76	19506	3.90
+	"Palm Beach County, FL"	"12099"	"Non-Hispanic White"	"6"	156	48314	3.23
+	"Palm Beach County, FL"	"12099"	"Non-Hispanic Black"	"7"	353	37274	9.47
+	"Pasco County, FL"	"12101"	"Mexican"	"2148-5"	13	2202	5.90 (Unreliable)
+	"Pasco County, FL"	"12101"	"Puerto Rican"	"2180-8"	17	2559	6.64 (Unreliable)
+	"Pasco County, FL"	"12101"	"Cuban"	"2182-4"	Suppressed	703	Suppressed
+	"Pasco County, FL"	"12101"	"Central or South American"	"4"	Suppressed	1396	Suppressed
+	"Pasco County, FL"	"12101"	"Non-Hispanic White"	"6"	199	32936	6.04
+	"Pasco County, FL"	"12101"	"Non-Hispanic Black"	"7"	25	2646	9.45
+	"Pinellas County, FL"	"12103"	"Mexican"	"2148-5"	29	4590	6.32
+	"Pinellas County, FL"	"12103"	"Puerto Rican"	"2180-8"	21	2605	8.06
+	"Pinellas County, FL"	"12103"	"Cuban"	"2182-4"	Suppressed	716	Suppressed
+	"Pinellas County, FL"	"12103"	"Central or South American"	"4"	Suppressed	1811	Suppressed
+	"Pinellas County, FL"	"12103"	"Non-Hispanic White"	"6"	271	49536	5.47
+	"Pinellas County, FL"	"12103"	"Non-Hispanic Black"	"7"	215	14452	14.88
+	"Polk County, FL"	"12105"	"Mexican"	"2148-5"	63	10034	6.28
+	"Polk County, FL"	"12105"	"Puerto Rican"	"2180-8"	33	4396	7.51
+	"Polk County, FL"	"12105"	"Cuban"	"2182-4"	Suppressed	728	Suppressed
+	"Polk County, FL"	"12105"	"Central or South American"	"4"	Suppressed	1863	Suppressed
+	"Polk County, FL"	"12105"	"Non-Hispanic White"	"6"	242	35859	6.75
+	"Polk County, FL"	"12105"	"Non-Hispanic Black"	"7"	157	13440	11.68
+	"St. Lucie County, FL"	"12111"	"Mexican"	"2148-5"	Suppressed	524	Suppressed
+	"St. Lucie County, FL"	"12111"	"Puerto Rican"	"2180-8"	Suppressed	295	Suppressed
+	"St. Lucie County, FL"	"12111"	"Cuban"	"2182-4"	Suppressed	106	Suppressed
+	"St. Lucie County, FL"	"12111"	"Central or South American"	"4"	Suppressed	353	Suppressed
+	"St. Lucie County, FL"	"12111"	"Non-Hispanic White"	"6"	Suppressed	2829	Suppressed
+	"St. Lucie County, FL"	"12111"	"Non-Hispanic Black"	"7"	23	1748	13.16
+	"Sarasota County, FL"	"12115"	"Mexican"	"2148-5"	11	2040	5.39 (Unreliable)
+	"Sarasota County, FL"	"12115"	"Puerto Rican"	"2180-8"	Suppressed	513	Suppressed
+	"Sarasota County, FL"	"12115"	"Cuban"	"2182-4"	Suppressed	385	Suppressed
+	"Sarasota County, FL"	"12115"	"Central or South American"	"4"	Suppressed	960	Suppressed
+	"Sarasota County, FL"	"12115"	"Non-Hispanic White"	"6"	78	19166	4.07
+	"Sarasota County, FL"	"12115"	"Non-Hispanic Black"	"7"	24	2594	9.25
+	"Seminole County, FL"	"12117"	"Mexican"	"2148-5"	Suppressed	1104	Suppressed
+	"Seminole County, FL"	"12117"	"Puerto Rican"	"2180-8"	21	4033	5.21
+	"Seminole County, FL"	"12117"	"Cuban"	"2182-4"	Suppressed	531	Suppressed
+	"Seminole County, FL"	"12117"	"Central or South American"	"4"	Suppressed	2145	Suppressed
+	"Seminole County, FL"	"12117"	"Non-Hispanic White"	"6"	103	23768	4.33
+	"Seminole County, FL"	"12117"	"Non-Hispanic Black"	"7"	82	6269	13.08
+	"Volusia County, FL"	"12127"	"Mexican"	"2148-5"	11	2491	4.42 (Unreliable)
+	"Volusia County, FL"	"12127"	"Puerto Rican"	"2180-8"	27	3038	8.89
+	"Volusia County, FL"	"12127"	"Cuban"	"2182-4"	Suppressed	325	Suppressed
+	"Volusia County, FL"	"12127"	"Central or South American"	"4"	Suppressed	928	Suppressed
+	"Volusia County, FL"	"12127"	"Non-Hispanic White"	"6"	139	28695	4.84
+	"Volusia County, FL"	"12127"	"Non-Hispanic Black"	"7"	84	7200	11.67
+	"Unidentified Counties, FL"	"12999"	"Mexican"	"2148-5"	139	26455	5.25
+	"Unidentified Counties, FL"	"12999"	"Puerto Rican"	"2180-8"	106	17709	5.99
+	"Unidentified Counties, FL"	"12999"	"Cuban"	"2182-4"	20	4304	4.65
+	"Unidentified Counties, FL"	"12999"	"Central or South American"	"4"	53	12783	4.15
+	"Unidentified Counties, FL"	"12999"	"Non-Hispanic White"	"6"	1458	254532	5.73
+	"Unidentified Counties, FL"	"12999"	"Non-Hispanic Black"	"7"	831	65720	12.64
+	"Chatham County, GA"	"13051"	"Mexican"	"2148-5"	Suppressed	355	Suppressed
+	"Chatham County, GA"	"13051"	"Puerto Rican"	"2180-8"	Suppressed	130	Suppressed
+	"Chatham County, GA"	"13051"	"Cuban"	"2182-4"	Suppressed	23	Suppressed
+	"Chatham County, GA"	"13051"	"Central or South American"	"4"	Suppressed	153	Suppressed
+	"Chatham County, GA"	"13051"	"Non-Hispanic White"	"6"	16	3494	4.58 (Unreliable)
+	"Chatham County, GA"	"13051"	"Non-Hispanic Black"	"7"	43	3206	13.41
+	"Clayton County, GA"	"13063"	"Mexican"	"2148-5"	Suppressed	1132	Suppressed
+	"Clayton County, GA"	"13063"	"Puerto Rican"	"2180-8"	Suppressed	95	Suppressed
+	"Clayton County, GA"	"13063"	"Cuban"	"2182-4"	Suppressed	15	Suppressed
+	"Clayton County, GA"	"13063"	"Central or South American"	"4"	Suppressed	139	Suppressed
+	"Clayton County, GA"	"13063"	"Non-Hispanic White"	"6"	Suppressed	583	Suppressed
+	"Clayton County, GA"	"13063"	"Non-Hispanic Black"	"7"	47	4934	9.53
+	"Cobb County, GA"	"13067"	"Mexican"	"2148-5"	57	11424	4.99
+	"Cobb County, GA"	"13067"	"Puerto Rican"	"2180-8"	Suppressed	789	Suppressed
+	"Cobb County, GA"	"13067"	"Cuban"	"2182-4"	Suppressed	213	Suppressed
+	"Cobb County, GA"	"13067"	"Central or South American"	"4"	19	3652	5.20 (Unreliable)
+	"Cobb County, GA"	"13067"	"Non-Hispanic White"	"6"	160	39136	4.09
+	"Cobb County, GA"	"13067"	"Non-Hispanic Black"	"7"	282	25568	11.03
+	"DeKalb County, GA"	"13089"	"Mexican"	"2148-5"	61	10128	6.02
+	"DeKalb County, GA"	"13089"	"Puerto Rican"	"2180-8"	Suppressed	550	Suppressed
+	"DeKalb County, GA"	"13089"	"Cuban"	"2182-4"	Suppressed	200	Suppressed
+	"DeKalb County, GA"	"13089"	"Central or South American"	"4"	18	4731	3.80 (Unreliable)
+	"DeKalb County, GA"	"13089"	"Non-Hispanic White"	"6"	78	22573	3.46
+	"DeKalb County, GA"	"13089"	"Non-Hispanic Black"	"7"	496	51622	9.61
+	"Fulton County, GA"	"13121"	"Mexican"	"2148-5"	46	10420	4.41
+	"Fulton County, GA"	"13121"	"Puerto Rican"	"2180-8"	Suppressed	756	Suppressed
+	"Fulton County, GA"	"13121"	"Cuban"	"2182-4"	Suppressed	247	Suppressed
+	"Fulton County, GA"	"13121"	"Central or South American"	"4"	12	2687	4.47 (Unreliable)
+	"Fulton County, GA"	"13121"	"Non-Hispanic White"	"6"	135	36939	3.65
+	"Fulton County, GA"	"13121"	"Non-Hispanic Black"	"7"	640	62789	10.19
+	"Gwinnett County, GA"	"13135"	"Mexican"	"2148-5"	122	22082	5.52
+	"Gwinnett County, GA"	"13135"	"Puerto Rican"	"2180-8"	Suppressed	1203	Suppressed
+	"Gwinnett County, GA"	"13135"	"Cuban"	"2182-4"	Suppressed	376	Suppressed
+	"Gwinnett County, GA"	"13135"	"Central or South American"	"4"	35	9072	3.86
+	"Gwinnett County, GA"	"13135"	"Non-Hispanic White"	"6"	126	31962	3.94
+	"Gwinnett County, GA"	"13135"	"Non-Hispanic Black"	"7"	248	25683	9.66
+	"Unidentified Counties, GA"	"13999"	"Mexican"	"2148-5"	285	63413	4.49
+	"Unidentified Counties, GA"	"13999"	"Puerto Rican"	"2180-8"	37	5799	6.38
+	"Unidentified Counties, GA"	"13999"	"Cuban"	"2182-4"	11	1306	8.42 (Unreliable)
+	"Unidentified Counties, GA"	"13999"	"Central or South American"	"4"	97	16226	5.98
+	"Unidentified Counties, GA"	"13999"	"Non-Hispanic White"	"6"	2418	419900	5.76
+	"Unidentified Counties, GA"	"13999"	"Non-Hispanic Black"	"7"	2879	238981	12.05
+	"Honolulu County, HI"	"15003"	"Mexican"	"2148-5"	11	4199	2.62 (Unreliable)
+	"Honolulu County, HI"	"15003"	"Puerto Rican"	"2180-8"	33	4661	7.08
+	"Honolulu County, HI"	"15003"	"Cuban"	"2182-4"	Suppressed	160	Suppressed
+	"Honolulu County, HI"	"15003"	"Central or South American"	"4"	Suppressed	1039	Suppressed
+	"Honolulu County, HI"	"15003"	"Non-Hispanic White"	"6"	140	29371	4.77
+	"Honolulu County, HI"	"15003"	"Non-Hispanic Black"	"7"	53	4095	12.94
+	"Unidentified Counties, HI"	"15999"	"Mexican"	"2148-5"	Suppressed	2173	Suppressed
+	"Unidentified Counties, HI"	"15999"	"Puerto Rican"	"2180-8"	20	3198	6.25
+	"Unidentified Counties, HI"	"15999"	"Cuban"	"2182-4"	Suppressed	57	Suppressed
+	"Unidentified Counties, HI"	"15999"	"Central or South American"	"4"	Suppressed	378	Suppressed
+	"Unidentified Counties, HI"	"15999"	"Non-Hispanic White"	"6"	44	13505	3.26
+	"Unidentified Counties, HI"	"15999"	"Non-Hispanic Black"	"7"	Suppressed	402	Suppressed
+	"Ada County, ID"	"16001"	"Mexican"	"2148-5"	17	3301	5.15 (Unreliable)
+	"Ada County, ID"	"16001"	"Puerto Rican"	"2180-8"	Suppressed	125	Suppressed
+	"Ada County, ID"	"16001"	"Cuban"	"2182-4"	Suppressed	42	Suppressed
+	"Ada County, ID"	"16001"	"Central or South American"	"4"	Suppressed	328	Suppressed
+	"Ada County, ID"	"16001"	"Non-Hispanic White"	"6"	195	39573	4.93
+	"Ada County, ID"	"16001"	"Non-Hispanic Black"	"7"	Suppressed	785	Suppressed
+	"Unidentified Counties, ID"	"16999"	"Mexican"	"2148-5"	153	23538	6.50
+	"Unidentified Counties, ID"	"16999"	"Puerto Rican"	"2180-8"	Suppressed	292	Suppressed
+	"Unidentified Counties, ID"	"16999"	"Cuban"	"2182-4"	Suppressed	60	Suppressed
+	"Unidentified Counties, ID"	"16999"	"Central or South American"	"4"	Suppressed	1108	Suppressed
+	"Unidentified Counties, ID"	"16999"	"Non-Hispanic White"	"6"	683	128655	5.31
+	"Unidentified Counties, ID"	"16999"	"Non-Hispanic Black"	"7"	Suppressed	816	Suppressed
+	"Cook County, IL"	"17031"	"Mexican"	"2148-5"	887	166240	5.34
+	"Cook County, IL"	"17031"	"Puerto Rican"	"2180-8"	123	16640	7.39
+	"Cook County, IL"	"17031"	"Cuban"	"2182-4"	Suppressed	1009	Suppressed
+	"Cook County, IL"	"17031"	"Central or South American"	"4"	56	12592	4.45
+	"Cook County, IL"	"17031"	"Non-Hispanic White"	"6"	1008	227377	4.43
+	"Cook County, IL"	"17031"	"Non-Hispanic Black"	"7"	2208	169081	13.06
+	"DuPage County, IL"	"17043"	"Mexican"	"2148-5"	88	17670	4.98
+	"DuPage County, IL"	"17043"	"Puerto Rican"	"2180-8"	Suppressed	905	Suppressed
+	"DuPage County, IL"	"17043"	"Cuban"	"2182-4"	Suppressed	179	Suppressed
+	"DuPage County, IL"	"17043"	"Central or South American"	"4"	Suppressed	1374	Suppressed
+	"DuPage County, IL"	"17043"	"Non-Hispanic White"	"6"	245	58267	4.20
+	"DuPage County, IL"	"17043"	"Non-Hispanic Black"	"7"	67	5651	11.86
+	"Kane County, IL"	"17089"	"Mexican"	"2148-5"	170	26359	6.45
+	"Kane County, IL"	"17089"	"Puerto Rican"	"2180-8"	Suppressed	973	Suppressed
+	"Kane County, IL"	"17089"	"Cuban"	"2182-4"	Suppressed	63	Suppressed
+	"Kane County, IL"	"17089"	"Central or South American"	"4"	Suppressed	869	Suppressed
+	"Kane County, IL"	"17089"	"Non-Hispanic White"	"6"	126	29792	4.23
+	"Kane County, IL"	"17089"	"Non-Hispanic Black"	"7"	45	4340	10.37
+	"Lake County, IL"	"17097"	"Mexican"	"2148-5"	102	20167	5.06
+	"Lake County, IL"	"17097"	"Puerto Rican"	"2180-8"	Suppressed	1243	Suppressed
+	"Lake County, IL"	"17097"	"Cuban"	"2182-4"	Suppressed	124	Suppressed
+	"Lake County, IL"	"17097"	"Central or South American"	"4"	10	2109	4.74 (Unreliable)
+	"Lake County, IL"	"17097"	"Non-Hispanic White"	"6"	165	37829	4.36
+	"Lake County, IL"	"17097"	"Non-Hispanic Black"	"7"	75	6791	11.04
+	"McHenry County, IL"	"17111"	"Mexican"	"2148-5"	33	5418	6.09
+	"McHenry County, IL"	"17111"	"Puerto Rican"	"2180-8"	Suppressed	224	Suppressed
+	"McHenry County, IL"	"17111"	"Cuban"	"2182-4"	Suppressed	24	Suppressed
+	"McHenry County, IL"	"17111"	"Central or South American"	"4"	Suppressed	276	Suppressed
+	"McHenry County, IL"	"17111"	"Non-Hispanic White"	"6"	87	23688	3.67
+	"McHenry County, IL"	"17111"	"Non-Hispanic Black"	"7"	Suppressed	416	Suppressed
+	"Madison County, IL"	"17119"	"Mexican"	"2148-5"	Suppressed	910	Suppressed
+	"Madison County, IL"	"17119"	"Puerto Rican"	"2180-8"	Suppressed	55	Suppressed
+	"Madison County, IL"	"17119"	"Cuban"	"2182-4"	Suppressed	15	Suppressed
+	"Madison County, IL"	"17119"	"Central or South American"	"4"	Suppressed	56	Suppressed
+	"Madison County, IL"	"17119"	"Non-Hispanic White"	"6"	109	23585	4.62
+	"Madison County, IL"	"17119"	"Non-Hispanic Black"	"7"	49	3594	13.63
+	"St. Clair County, IL"	"17163"	"Mexican"	"2148-5"	Suppressed	990	Suppressed
+	"St. Clair County, IL"	"17163"	"Puerto Rican"	"2180-8"	Suppressed	99	Suppressed
+	"St. Clair County, IL"	"17163"	"Cuban"	"2182-4"	Suppressed	17	Suppressed
+	"St. Clair County, IL"	"17163"	"Central or South American"	"4"	Suppressed	105	Suppressed
+	"St. Clair County, IL"	"17163"	"Non-Hispanic White"	"6"	86	17444	4.93
+	"St. Clair County, IL"	"17163"	"Non-Hispanic Black"	"7"	141	12414	11.36
+	"Will County, IL"	"17197"	"Mexican"	"2148-5"	87	14967	5.81
+	"Will County, IL"	"17197"	"Puerto Rican"	"2180-8"	Suppressed	836	Suppressed
+	"Will County, IL"	"17197"	"Cuban"	"2182-4"	Suppressed	60	Suppressed
+	"Will County, IL"	"17197"	"Central or South American"	"4"	Suppressed	513	Suppressed
+	"Will County, IL"	"17197"	"Non-Hispanic White"	"6"	245	46481	5.27
+	"Will County, IL"	"17197"	"Non-Hispanic Black"	"7"	106	9321	11.37
+	"Winnebago County, IL"	"17201"	"Mexican"	"2148-5"	26	4874	5.33
+	"Winnebago County, IL"	"17201"	"Puerto Rican"	"2180-8"	Suppressed	261	Suppressed
+	"Winnebago County, IL"	"17201"	"Cuban"	"2182-4"	Suppressed	51	Suppressed
+	"Winnebago County, IL"	"17201"	"Central or South American"	"4"	Suppressed	206	Suppressed
+	"Winnebago County, IL"	"17201"	"Non-Hispanic White"	"6"	112	21234	5.27
+	"Winnebago County, IL"	"17201"	"Non-Hispanic Black"	"7"	83	6331	13.11
+	"Unidentified Counties, IL"	"17999"	"Mexican"	"2148-5"	130	21757	5.98
+	"Unidentified Counties, IL"	"17999"	"Puerto Rican"	"2180-8"	Suppressed	1461	Suppressed
+	"Unidentified Counties, IL"	"17999"	"Cuban"	"2182-4"	Suppressed	207	Suppressed
+	"Unidentified Counties, IL"	"17999"	"Central or South American"	"4"	Suppressed	1378	Suppressed
+	"Unidentified Counties, IL"	"17999"	"Non-Hispanic White"	"6"	1923	314184	6.12
+	"Unidentified Counties, IL"	"17999"	"Non-Hispanic Black"	"7"	553	38269	14.45
+	"Allen County, IN"	"18003"	"Mexican"	"2148-5"	17	2664	6.38 (Unreliable)
+	"Allen County, IN"	"18003"	"Puerto Rican"	"2180-8"	Suppressed	107	Suppressed
+	"Allen County, IN"	"18003"	"Cuban"	"2182-4"	Suppressed	14	Suppressed
+	"Allen County, IN"	"18003"	"Central or South American"	"4"	Suppressed	441	Suppressed
+	"Allen County, IN"	"18003"	"Non-Hispanic White"	"6"	203	33907	5.99
+	"Allen County, IN"	"18003"	"Non-Hispanic Black"	"7"	136	7598	17.90
+	"Hamilton County, IN"	"18057"	"Mexican"	"2148-5"	Suppressed	160	Suppressed
+	"Hamilton County, IN"	"18057"	"Puerto Rican"	"2180-8"	Suppressed	11	Suppressed
+	"Hamilton County, IN"	"18057"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Hamilton County, IN"	"18057"	"Central or South American"	"4"	Suppressed	38	Suppressed
+	"Hamilton County, IN"	"18057"	"Non-Hispanic White"	"6"	35	6695	5.23
+	"Hamilton County, IN"	"18057"	"Non-Hispanic Black"	"7"	Suppressed	305	Suppressed
+	"Lake County, IN"	"18089"	"Mexican"	"2148-5"	50	8777	5.70
+	"Lake County, IN"	"18089"	"Puerto Rican"	"2180-8"	10	1227	8.15 (Unreliable)
+	"Lake County, IN"	"18089"	"Cuban"	"2182-4"	Suppressed	48	Suppressed
+	"Lake County, IN"	"18089"	"Central or South American"	"4"	Suppressed	201	Suppressed
+	"Lake County, IN"	"18089"	"Non-Hispanic White"	"6"	171	27224	6.28
+	"Lake County, IN"	"18089"	"Non-Hispanic Black"	"7"	236	17818	13.25
+	"Marion County, IN"	"18097"	"Mexican"	"2148-5"	110	16033	6.86
+	"Marion County, IN"	"18097"	"Puerto Rican"	"2180-8"	Suppressed	488	Suppressed
+	"Marion County, IN"	"18097"	"Cuban"	"2182-4"	Suppressed	95	Suppressed
+	"Marion County, IN"	"18097"	"Central or South American"	"4"	18	2755	6.53 (Unreliable)
+	"Marion County, IN"	"18097"	"Non-Hispanic White"	"6"	498	68084	7.31
+	"Marion County, IN"	"18097"	"Non-Hispanic Black"	"7"	505	39781	12.69
+	"St. Joseph County, IN"	"18141"	"Mexican"	"2148-5"	27	2950	9.15
+	"St. Joseph County, IN"	"18141"	"Puerto Rican"	"2180-8"	Suppressed	153	Suppressed
+	"St. Joseph County, IN"	"18141"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"St. Joseph County, IN"	"18141"	"Central or South American"	"4"	Suppressed	205	Suppressed
+	"St. Joseph County, IN"	"18141"	"Non-Hispanic White"	"6"	145	21625	6.71
+	"St. Joseph County, IN"	"18141"	"Non-Hispanic Black"	"7"	96	6163	15.58
+	"Unidentified Counties, IN"	"18999"	"Mexican"	"2148-5"	163	23137	7.04
+	"Unidentified Counties, IN"	"18999"	"Puerto Rican"	"2180-8"	Suppressed	1115	Suppressed
+	"Unidentified Counties, IN"	"18999"	"Cuban"	"2182-4"	Suppressed	195	Suppressed
+	"Unidentified Counties, IN"	"18999"	"Central or South American"	"4"	11	2761	3.98 (Unreliable)
+	"Unidentified Counties, IN"	"18999"	"Non-Hispanic White"	"6"	2750	429511	6.40
+	"Unidentified Counties, IN"	"18999"	"Non-Hispanic Black"	"7"	256	19602	13.06
+	"Polk County, IA"	"19153"	"Mexican"	"2148-5"	32	5238	6.11
+	"Polk County, IA"	"19153"	"Puerto Rican"	"2180-8"	Suppressed	180	Suppressed
+	"Polk County, IA"	"19153"	"Cuban"	"2182-4"	Suppressed	33	Suppressed
+	"Polk County, IA"	"19153"	"Central or South American"	"4"	Suppressed	1061	Suppressed
+	"Polk County, IA"	"19153"	"Non-Hispanic White"	"6"	219	45099	4.86
+	"Polk County, IA"	"19153"	"Non-Hispanic Black"	"7"	63	5444	11.57
+	"Unidentified Counties, IA"	"19999"	"Mexican"	"2148-5"	75	17023	4.41
+	"Unidentified Counties, IA"	"19999"	"Puerto Rican"	"2180-8"	Suppressed	578	Suppressed
+	"Unidentified Counties, IA"	"19999"	"Cuban"	"2182-4"	Suppressed	106	Suppressed
+	"Unidentified Counties, IA"	"19999"	"Central or South American"	"4"	15	3397	4.42 (Unreliable)
+	"Unidentified Counties, IA"	"19999"	"Non-Hispanic White"	"6"	1138	250021	4.55
+	"Unidentified Counties, IA"	"19999"	"Non-Hispanic Black"	"7"	128	12717	10.07
+	"Johnson County, KS"	"20091"	"Mexican"	"2148-5"	22	2849	7.72
+	"Johnson County, KS"	"20091"	"Puerto Rican"	"2180-8"	Suppressed	141	Suppressed
+	"Johnson County, KS"	"20091"	"Cuban"	"2182-4"	Suppressed	44	Suppressed
+	"Johnson County, KS"	"20091"	"Central or South American"	"4"	Suppressed	1437	Suppressed
+	"Johnson County, KS"	"20091"	"Non-Hispanic White"	"6"	241	53131	4.54
+	"Johnson County, KS"	"20091"	"Non-Hispanic Black"	"7"	46	3760	12.23
+	"Sedgwick County, KS"	"20173"	"Mexican"	"2148-5"	75	11753	6.38
+	"Sedgwick County, KS"	"20173"	"Puerto Rican"	"2180-8"	Suppressed	241	Suppressed
+	"Sedgwick County, KS"	"20173"	"Cuban"	"2182-4"	Suppressed	33	Suppressed
+	"Sedgwick County, KS"	"20173"	"Central or South American"	"4"	Suppressed	653	Suppressed
+	"Sedgwick County, KS"	"20173"	"Non-Hispanic White"	"6"	282	45942	6.14
+	"Sedgwick County, KS"	"20173"	"Non-Hispanic Black"	"7"	133	8382	15.87
+	"Unidentified Counties, KS"	"20999"	"Mexican"	"2148-5"	185	28441	6.50
+	"Unidentified Counties, KS"	"20999"	"Puerto Rican"	"2180-8"	12	948	12.66 (Unreliable)
+	"Unidentified Counties, KS"	"20999"	"Cuban"	"2182-4"	Suppressed	221	Suppressed
+	"Unidentified Counties, KS"	"20999"	"Central or South American"	"4"	29	3821	7.59
+	"Unidentified Counties, KS"	"20999"	"Non-Hispanic White"	"6"	1069	164315	6.51
+	"Unidentified Counties, KS"	"20999"	"Non-Hispanic Black"	"7"	178	14715	12.10
+	"Fayette County, KY"	"21067"	"Mexican"	"2148-5"	22	3602	6.11
+	"Fayette County, KY"	"21067"	"Puerto Rican"	"2180-8"	Suppressed	126	Suppressed
+	"Fayette County, KY"	"21067"	"Cuban"	"2182-4"	Suppressed	47	Suppressed
+	"Fayette County, KY"	"21067"	"Central or South American"	"4"	Suppressed	479	Suppressed
+	"Fayette County, KY"	"21067"	"Non-Hispanic White"	"6"	130	24014	5.41
+	"Fayette County, KY"	"21067"	"Non-Hispanic Black"	"7"	60	6162	9.74
+	"Jefferson County, KY"	"21111"	"Mexican"	"2148-5"	20	3576	5.59
+	"Jefferson County, KY"	"21111"	"Puerto Rican"	"2180-8"	Suppressed	353	Suppressed
+	"Jefferson County, KY"	"21111"	"Cuban"	"2182-4"	Suppressed	1186	Suppressed
+	"Jefferson County, KY"	"21111"	"Central or South American"	"4"	Suppressed	1258	Suppressed
+	"Jefferson County, KY"	"21111"	"Non-Hispanic White"	"6"	297	57607	5.16
+	"Jefferson County, KY"	"21111"	"Non-Hispanic Black"	"7"	249	24268	10.26
+	"Unidentified Counties, KY"	"21999"	"Mexican"	"2148-5"	45	9035	4.98
+	"Unidentified Counties, KY"	"21999"	"Puerto Rican"	"2180-8"	Suppressed	1184	Suppressed
+	"Unidentified Counties, KY"	"21999"	"Cuban"	"2182-4"	Suppressed	191	Suppressed
+	"Unidentified Counties, KY"	"21999"	"Central or South American"	"4"	14	2724	5.14 (Unreliable)
+	"Unidentified Counties, KY"	"21999"	"Non-Hispanic White"	"6"	2342	344414	6.80
+	"Unidentified Counties, KY"	"21999"	"Non-Hispanic Black"	"7"	198	17214	11.50
+	"Caddo Parish, LA"	"22017"	"Mexican"	"2148-5"	Suppressed	658	Suppressed
+	"Caddo Parish, LA"	"22017"	"Puerto Rican"	"2180-8"	Suppressed	71	Suppressed
+	"Caddo Parish, LA"	"22017"	"Cuban"	"2182-4"	Suppressed	17	Suppressed
+	"Caddo Parish, LA"	"22017"	"Central or South American"	"4"	Suppressed	151	Suppressed
+	"Caddo Parish, LA"	"22017"	"Non-Hispanic White"	"6"	92	12877	7.14
+	"Caddo Parish, LA"	"22017"	"Non-Hispanic Black"	"7"	349	19996	17.45
+	"East Baton Rouge Parish, LA"	"22033"	"Mexican"	"2148-5"	Suppressed	1373	Suppressed
+	"East Baton Rouge Parish, LA"	"22033"	"Puerto Rican"	"2180-8"	Suppressed	89	Suppressed
+	"East Baton Rouge Parish, LA"	"22033"	"Cuban"	"2182-4"	Suppressed	80	Suppressed
+	"East Baton Rouge Parish, LA"	"22033"	"Central or South American"	"4"	11	1465	7.51 (Unreliable)
+	"East Baton Rouge Parish, LA"	"22033"	"Non-Hispanic White"	"6"	117	19386	6.04
+	"East Baton Rouge Parish, LA"	"22033"	"Non-Hispanic Black"	"7"	463	31285	14.80
+	"Jefferson Parish, LA"	"22051"	"Mexican"	"2148-5"	Suppressed	1809	Suppressed
+	"Jefferson Parish, LA"	"22051"	"Puerto Rican"	"2180-8"	Suppressed	339	Suppressed
+	"Jefferson Parish, LA"	"22051"	"Cuban"	"2182-4"	Suppressed	357	Suppressed
+	"Jefferson Parish, LA"	"22051"	"Central or South American"	"4"	28	6599	4.24
+	"Jefferson Parish, LA"	"22051"	"Non-Hispanic White"	"6"	117	23133	5.06
+	"Jefferson Parish, LA"	"22051"	"Non-Hispanic Black"	"7"	189	17407	10.86
+	"Orleans Parish, LA"	"22071"	"Mexican"	"2148-5"	Suppressed	526	Suppressed
+	"Orleans Parish, LA"	"22071"	"Puerto Rican"	"2180-8"	Suppressed	113	Suppressed
+	"Orleans Parish, LA"	"22071"	"Cuban"	"2182-4"	Suppressed	105	Suppressed
+	"Orleans Parish, LA"	"22071"	"Central or South American"	"4"	Suppressed	2100	Suppressed
+	"Orleans Parish, LA"	"22071"	"Non-Hispanic White"	"6"	38	10161	3.74
+	"Orleans Parish, LA"	"22071"	"Non-Hispanic Black"	"7"	265	27434	9.66
+	"Unidentified Counties, LA"	"22999"	"Mexican"	"2148-5"	46	10035	4.58
+	"Unidentified Counties, LA"	"22999"	"Puerto Rican"	"2180-8"	Suppressed	911	Suppressed
+	"Unidentified Counties, LA"	"22999"	"Cuban"	"2182-4"	Suppressed	400	Suppressed
+	"Unidentified Counties, LA"	"22999"	"Central or South American"	"4"	12	3750	3.20 (Unreliable)
+	"Unidentified Counties, LA"	"22999"	"Non-Hispanic White"	"6"	1526	240794	6.34
+	"Unidentified Counties, LA"	"22999"	"Non-Hispanic Black"	"7"	1375	124234	11.07
+	"Cumberland County, ME"	"23005"	"Mexican"	"2148-5"	Suppressed	96	Suppressed
+	"Cumberland County, ME"	"23005"	"Puerto Rican"	"2180-8"	Suppressed	67	Suppressed
+	"Cumberland County, ME"	"23005"	"Cuban"	"2182-4"	Suppressed	27	Suppressed
+	"Cumberland County, ME"	"23005"	"Central or South American"	"4"	Suppressed	206	Suppressed
+	"Cumberland County, ME"	"23005"	"Non-Hispanic White"	"6"	114	22033	5.17
+	"Cumberland County, ME"	"23005"	"Non-Hispanic Black"	"7"	17	1752	9.70 (Unreliable)
+	"Unidentified Counties, ME"	"23999"	"Mexican"	"2148-5"	Suppressed	251	Suppressed
+	"Unidentified Counties, ME"	"23999"	"Puerto Rican"	"2180-8"	Suppressed	273	Suppressed
+	"Unidentified Counties, ME"	"23999"	"Cuban"	"2182-4"	Suppressed	46	Suppressed
+	"Unidentified Counties, ME"	"23999"	"Central or South American"	"4"	Suppressed	172	Suppressed
+	"Unidentified Counties, ME"	"23999"	"Non-Hispanic White"	"6"	559	86839	6.44
+	"Unidentified Counties, ME"	"23999"	"Non-Hispanic Black"	"7"	17	1846	9.21 (Unreliable)
+	"Anne Arundel County, MD"	"24003"	"Mexican"	"2148-5"	10	2170	4.61 (Unreliable)
+	"Anne Arundel County, MD"	"24003"	"Puerto Rican"	"2180-8"	Suppressed	675	Suppressed
+	"Anne Arundel County, MD"	"24003"	"Cuban"	"2182-4"	Suppressed	97	Suppressed
+	"Anne Arundel County, MD"	"24003"	"Central or South American"	"4"	13	3721	3.49 (Unreliable)
+	"Anne Arundel County, MD"	"24003"	"Non-Hispanic White"	"6"	179	40615	4.41
+	"Anne Arundel County, MD"	"24003"	"Non-Hispanic Black"	"7"	113	11042	10.23
+	"Baltimore County, MD"	"24005"	"Mexican"	"2148-5"	Suppressed	1259	Suppressed
+	"Baltimore County, MD"	"24005"	"Puerto Rican"	"2180-8"	10	703	14.22 (Unreliable)
+	"Baltimore County, MD"	"24005"	"Cuban"	"2182-4"	Suppressed	107	Suppressed
+	"Baltimore County, MD"	"24005"	"Central or South American"	"4"	15	4210	3.56 (Unreliable)
+	"Baltimore County, MD"	"24005"	"Non-Hispanic White"	"6"	184	46471	3.96
+	"Baltimore County, MD"	"24005"	"Non-Hispanic Black"	"7"	339	28875	11.74
+	"Howard County, MD"	"24027"	"Mexican"	"2148-5"	Suppressed	124	Suppressed
+	"Howard County, MD"	"24027"	"Puerto Rican"	"2180-8"	Suppressed	67	Suppressed
+	"Howard County, MD"	"24027"	"Cuban"	"2182-4"	Suppressed	18	Suppressed
+	"Howard County, MD"	"24027"	"Central or South American"	"4"	Suppressed	448	Suppressed
+	"Howard County, MD"	"24027"	"Non-Hispanic White"	"6"	12	3254	3.69 (Unreliable)
+	"Howard County, MD"	"24027"	"Non-Hispanic Black"	"7"	16	1491	10.73 (Unreliable)
+	"Montgomery County, MD"	"24031"	"Mexican"	"2148-5"	11	2315	4.75 (Unreliable)
+	"Montgomery County, MD"	"24031"	"Puerto Rican"	"2180-8"	Suppressed	857	Suppressed
+	"Montgomery County, MD"	"24031"	"Cuban"	"2182-4"	Suppressed	258	Suppressed
+	"Montgomery County, MD"	"24031"	"Central or South American"	"4"	127	26507	4.79
+	"Montgomery County, MD"	"24031"	"Non-Hispanic White"	"6"	131	43943	2.98
+	"Montgomery County, MD"	"24031"	"Non-Hispanic Black"	"7"	242	25103	9.64
+	"Prince George's County, MD"	"24033"	"Mexican"	"2148-5"	42	5565	7.55
+	"Prince George's County, MD"	"24033"	"Puerto Rican"	"2180-8"	Suppressed	712	Suppressed
+	"Prince George's County, MD"	"24033"	"Cuban"	"2182-4"	Suppressed	115	Suppressed
+	"Prince George's County, MD"	"24033"	"Central or South American"	"4"	97	19057	5.09
+	"Prince George's County, MD"	"24033"	"Non-Hispanic White"	"6"	60	11164	5.37
+	"Prince George's County, MD"	"24033"	"Non-Hispanic Black"	"7"	759	66460	11.42
+	"Baltimore city, MD"	"24510"	"Mexican"	"2148-5"	Suppressed	1684	Suppressed
+	"Baltimore city, MD"	"24510"	"Puerto Rican"	"2180-8"	Suppressed	404	Suppressed
+	"Baltimore city, MD"	"24510"	"Cuban"	"2182-4"	Suppressed	62	Suppressed
+	"Baltimore city, MD"	"24510"	"Central or South American"	"4"	16	3361	4.76 (Unreliable)
+	"Baltimore city, MD"	"24510"	"Non-Hispanic White"	"6"	113	20938	5.40
+	"Baltimore city, MD"	"24510"	"Non-Hispanic Black"	"7"	736	52790	13.94
+	"Unidentified Counties, MD"	"24999"	"Mexican"	"2148-5"	20	4257	4.70
+	"Unidentified Counties, MD"	"24999"	"Puerto Rican"	"2180-8"	Suppressed	1930	Suppressed
+	"Unidentified Counties, MD"	"24999"	"Cuban"	"2182-4"	Suppressed	225	Suppressed
+	"Unidentified Counties, MD"	"24999"	"Central or South American"	"4"	28	6782	4.13
+	"Unidentified Counties, MD"	"24999"	"Non-Hispanic White"	"6"	626	137592	4.55
+	"Unidentified Counties, MD"	"24999"	"Non-Hispanic Black"	"7"	414	34401	12.03
+	"Bristol County, MA"	"25005"	"Mexican"	"2148-5"	Suppressed	240	Suppressed
+	"Bristol County, MA"	"25005"	"Puerto Rican"	"2180-8"	28	3185	8.79
+	"Bristol County, MA"	"25005"	"Cuban"	"2182-4"	Suppressed	50	Suppressed
+	"Bristol County, MA"	"25005"	"Central or South American"	"4"	12	1776	6.76 (Unreliable)
+	"Bristol County, MA"	"25005"	"Non-Hispanic White"	"6"	166	41133	4.04
+	"Bristol County, MA"	"25005"	"Non-Hispanic Black"	"7"	30	3585	8.37
+	"Essex County, MA"	"25009"	"Mexican"	"2148-5"	Suppressed	589	Suppressed
+	"Essex County, MA"	"25009"	"Puerto Rican"	"2180-8"	46	5505	8.36
+	"Essex County, MA"	"25009"	"Cuban"	"2182-4"	Suppressed	99	Suppressed
+	"Essex County, MA"	"25009"	"Central or South American"	"4"	46	9541	4.82
+	"Essex County, MA"	"25009"	"Non-Hispanic White"	"6"	160	45759	3.50
+	"Essex County, MA"	"25009"	"Non-Hispanic Black"	"7"	23	3448	6.67
+	"Hampden County, MA"	"25013"	"Mexican"	"2148-5"	Suppressed	386	Suppressed
+	"Hampden County, MA"	"25013"	"Puerto Rican"	"2180-8"	111	14540	7.63
+	"Hampden County, MA"	"25013"	"Cuban"	"2182-4"	Suppressed	64	Suppressed
+	"Hampden County, MA"	"25013"	"Central or South American"	"4"	12	1115	10.76 (Unreliable)
+	"Hampden County, MA"	"25013"	"Non-Hispanic White"	"6"	105	25137	4.18
+	"Hampden County, MA"	"25013"	"Non-Hispanic Black"	"7"	53	5085	10.42
+	"Middlesex County, MA"	"25017"	"Mexican"	"2148-5"	Suppressed	1224	Suppressed
+	"Middlesex County, MA"	"25017"	"Puerto Rican"	"2180-8"	36	4236	8.50
+	"Middlesex County, MA"	"25017"	"Cuban"	"2182-4"	Suppressed	197	Suppressed
+	"Middlesex County, MA"	"25017"	"Central or South American"	"4"	33	8155	4.05
+	"Middlesex County, MA"	"25017"	"Non-Hispanic White"	"6"	303	105874	2.86
+	"Middlesex County, MA"	"25017"	"Non-Hispanic Black"	"7"	75	10684	7.02
+	"Norfolk County, MA"	"25021"	"Mexican"	"2148-5"	Suppressed	264	Suppressed
+	"Norfolk County, MA"	"25021"	"Puerto Rican"	"2180-8"	Suppressed	733	Suppressed
+	"Norfolk County, MA"	"25021"	"Cuban"	"2182-4"	Suppressed	99	Suppressed
+	"Norfolk County, MA"	"25021"	"Central or South American"	"4"	Suppressed	1160	Suppressed
+	"Norfolk County, MA"	"25021"	"Non-Hispanic White"	"6"	143	47066	3.04
+	"Norfolk County, MA"	"25021"	"Non-Hispanic Black"	"7"	41	5380	7.62
+	"Plymouth County, MA"	"25023"	"Mexican"	"2148-5"	Suppressed	137	Suppressed
+	"Plymouth County, MA"	"25023"	"Puerto Rican"	"2180-8"	11	978	11.25 (Unreliable)
+	"Plymouth County, MA"	"25023"	"Cuban"	"2182-4"	Suppressed	44	Suppressed
+	"Plymouth County, MA"	"25023"	"Central or South American"	"4"	Suppressed	753	Suppressed
+	"Plymouth County, MA"	"25023"	"Non-Hispanic White"	"6"	118	35672	3.31
+	"Plymouth County, MA"	"25023"	"Non-Hispanic Black"	"7"	57	8257	6.90
+	"Suffolk County, MA"	"25025"	"Mexican"	"2148-5"	Suppressed	856	Suppressed
+	"Suffolk County, MA"	"25025"	"Puerto Rican"	"2180-8"	40	4976	8.04
+	"Suffolk County, MA"	"25025"	"Cuban"	"2182-4"	Suppressed	170	Suppressed
+	"Suffolk County, MA"	"25025"	"Central or South American"	"4"	63	12902	4.88
+	"Suffolk County, MA"	"25025"	"Non-Hispanic White"	"6"	120	34025	3.53
+	"Suffolk County, MA"	"25025"	"Non-Hispanic Black"	"7"	171	20730	8.25
+	"Worcester County, MA"	"25027"	"Mexican"	"2148-5"	Suppressed	469	Suppressed
+	"Worcester County, MA"	"25027"	"Puerto Rican"	"2180-8"	35	5340	6.55
+	"Worcester County, MA"	"25027"	"Cuban"	"2182-4"	Suppressed	80	Suppressed
+	"Worcester County, MA"	"25027"	"Central or South American"	"4"	13	2747	4.73 (Unreliable)
+	"Worcester County, MA"	"25027"	"Non-Hispanic White"	"6"	305	59061	5.16
+	"Worcester County, MA"	"25027"	"Non-Hispanic Black"	"7"	56	5132	10.91
+	"Unidentified Counties, MA"	"25999"	"Mexican"	"2148-5"	Suppressed	318	Suppressed
+	"Unidentified Counties, MA"	"25999"	"Puerto Rican"	"2180-8"	Suppressed	935	Suppressed
+	"Unidentified Counties, MA"	"25999"	"Cuban"	"2182-4"	Suppressed	66	Suppressed
+	"Unidentified Counties, MA"	"25999"	"Central or South American"	"4"	Suppressed	1124	Suppressed
+	"Unidentified Counties, MA"	"25999"	"Non-Hispanic White"	"6"	161	36389	4.42
+	"Unidentified Counties, MA"	"25999"	"Non-Hispanic Black"	"7"	18	1896	9.49 (Unreliable)
+	"Genesee County, MI"	"26049"	"Mexican"	"2148-5"	Suppressed	592	Suppressed
+	"Genesee County, MI"	"26049"	"Puerto Rican"	"2180-8"	Suppressed	56	Suppressed
+	"Genesee County, MI"	"26049"	"Cuban"	"2182-4"	Suppressed	12	Suppressed
+	"Genesee County, MI"	"26049"	"Central or South American"	"4"	Suppressed	70	Suppressed
+	"Genesee County, MI"	"26049"	"Non-Hispanic White"	"6"	187	31398	5.96
+	"Genesee County, MI"	"26049"	"Non-Hispanic Black"	"7"	197	13665	14.42
+	"Ingham County, MI"	"26065"	"Mexican"	"2148-5"	Suppressed	950	Suppressed
+	"Ingham County, MI"	"26065"	"Puerto Rican"	"2180-8"	Suppressed	64	Suppressed
+	"Ingham County, MI"	"26065"	"Cuban"	"2182-4"	Suppressed	130	Suppressed
+	"Ingham County, MI"	"26065"	"Central or South American"	"4"	Suppressed	132	Suppressed
+	"Ingham County, MI"	"26065"	"Non-Hispanic White"	"6"	122	20532	5.94
+	"Ingham County, MI"	"26065"	"Non-Hispanic Black"	"7"	60	5605	10.70
+	"Kalamazoo County, MI"	"26077"	"Mexican"	"2148-5"	Suppressed	274	Suppressed
+	"Kalamazoo County, MI"	"26077"	"Puerto Rican"	"2180-8"	Suppressed	30	Suppressed
+	"Kalamazoo County, MI"	"26077"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Kalamazoo County, MI"	"26077"	"Central or South American"	"4"	Suppressed	43	Suppressed
+	"Kalamazoo County, MI"	"26077"	"Non-Hispanic White"	"6"	19	4575	4.15 (Unreliable)
+	"Kalamazoo County, MI"	"26077"	"Non-Hispanic Black"	"7"	10	1132	8.83 (Unreliable)
+	"Kent County, MI"	"26081"	"Mexican"	"2148-5"	61	7587	8.04
+	"Kent County, MI"	"26081"	"Puerto Rican"	"2180-8"	Suppressed	730	Suppressed
+	"Kent County, MI"	"26081"	"Cuban"	"2182-4"	Suppressed	195	Suppressed
+	"Kent County, MI"	"26081"	"Central or South American"	"4"	Suppressed	2104	Suppressed
+	"Kent County, MI"	"26081"	"Non-Hispanic White"	"6"	260	54822	4.74
+	"Kent County, MI"	"26081"	"Non-Hispanic Black"	"7"	136	10957	12.41
+	"Macomb County, MI"	"26099"	"Mexican"	"2148-5"	10	1635	6.12 (Unreliable)
+	"Macomb County, MI"	"26099"	"Puerto Rican"	"2180-8"	Suppressed	242	Suppressed
+	"Macomb County, MI"	"26099"	"Cuban"	"2182-4"	Suppressed	49	Suppressed
+	"Macomb County, MI"	"26099"	"Central or South American"	"4"	Suppressed	250	Suppressed
+	"Macomb County, MI"	"26099"	"Non-Hispanic White"	"6"	347	63681	5.45
+	"Macomb County, MI"	"26099"	"Non-Hispanic Black"	"7"	136	12342	11.02
+	"Oakland County, MI"	"26125"	"Mexican"	"2148-5"	21	4355	4.82
+	"Oakland County, MI"	"26125"	"Puerto Rican"	"2180-8"	Suppressed	741	Suppressed
+	"Oakland County, MI"	"26125"	"Cuban"	"2182-4"	Suppressed	90	Suppressed
+	"Oakland County, MI"	"26125"	"Central or South American"	"4"	Suppressed	819	Suppressed
+	"Oakland County, MI"	"26125"	"Non-Hispanic White"	"6"	421	83926	5.02
+	"Oakland County, MI"	"26125"	"Non-Hispanic Black"	"7"	237	19579	12.10
+	"Ottawa County, MI"	"26139"	"Mexican"	"2148-5"	Suppressed	696	Suppressed
+	"Ottawa County, MI"	"26139"	"Puerto Rican"	"2180-8"	Suppressed	36	Suppressed
+	"Ottawa County, MI"	"26139"	"Cuban"	"2182-4"	Suppressed	15	Suppressed
+	"Ottawa County, MI"	"26139"	"Central or South American"	"4"	Suppressed	32	Suppressed
+	"Ottawa County, MI"	"26139"	"Non-Hispanic White"	"6"	22	5435	4.05
+	"Ottawa County, MI"	"26139"	"Non-Hispanic Black"	"7"	Suppressed	124	Suppressed
+	"Washtenaw County, MI"	"26161"	"Mexican"	"2148-5"	Suppressed	1107	Suppressed
+	"Washtenaw County, MI"	"26161"	"Puerto Rican"	"2180-8"	Suppressed	148	Suppressed
+	"Washtenaw County, MI"	"26161"	"Cuban"	"2182-4"	Suppressed	42	Suppressed
+	"Washtenaw County, MI"	"26161"	"Central or South American"	"4"	Suppressed	580	Suppressed
+	"Washtenaw County, MI"	"26161"	"Non-Hispanic White"	"6"	97	21992	4.41
+	"Washtenaw County, MI"	"26161"	"Non-Hispanic Black"	"7"	67	5921	11.32
+	"Wayne County, MI"	"26163"	"Mexican"	"2148-5"	73	11374	6.42
+	"Wayne County, MI"	"26163"	"Puerto Rican"	"2180-8"	13	1289	10.09 (Unreliable)
+	"Wayne County, MI"	"26163"	"Cuban"	"2182-4"	Suppressed	145	Suppressed
+	"Wayne County, MI"	"26163"	"Central or South American"	"4"	Suppressed	1184	Suppressed
+	"Wayne County, MI"	"26163"	"Non-Hispanic White"	"6"	563	93014	6.05
+	"Wayne County, MI"	"26163"	"Non-Hispanic Black"	"7"	1419	100683	14.09
+	"Unidentified Counties, MI"	"26999"	"Mexican"	"2148-5"	128	17784	7.20
+	"Unidentified Counties, MI"	"26999"	"Puerto Rican"	"2180-8"	Suppressed	998	Suppressed
+	"Unidentified Counties, MI"	"26999"	"Cuban"	"2182-4"	Suppressed	241	Suppressed
+	"Unidentified Counties, MI"	"26999"	"Central or South American"	"4"	Suppressed	1060	Suppressed
+	"Unidentified Counties, MI"	"26999"	"Non-Hispanic White"	"6"	1952	350283	5.57
+	"Unidentified Counties, MI"	"26999"	"Non-Hispanic Black"	"7"	409	27696	14.77
+	"Anoka County, MN"	"27003"	"Mexican"	"2148-5"	Suppressed	1295	Suppressed
+	"Anoka County, MN"	"27003"	"Puerto Rican"	"2180-8"	Suppressed	84	Suppressed
+	"Anoka County, MN"	"27003"	"Cuban"	"2182-4"	Suppressed	28	Suppressed
+	"Anoka County, MN"	"27003"	"Central or South American"	"4"	Suppressed	379	Suppressed
+	"Anoka County, MN"	"27003"	"Non-Hispanic White"	"6"	117	29622	3.95
+	"Anoka County, MN"	"27003"	"Non-Hispanic Black"	"7"	30	3333	9.00
+	"Dakota County, MN"	"27037"	"Mexican"	"2148-5"	11	2750	4.00 (Unreliable)
+	"Dakota County, MN"	"27037"	"Puerto Rican"	"2180-8"	Suppressed	140	Suppressed
+	"Dakota County, MN"	"27037"	"Cuban"	"2182-4"	Suppressed	24	Suppressed
+	"Dakota County, MN"	"27037"	"Central or South American"	"4"	Suppressed	665	Suppressed
+	"Dakota County, MN"	"27037"	"Non-Hispanic White"	"6"	116	35210	3.29
+	"Dakota County, MN"	"27037"	"Non-Hispanic Black"	"7"	35	4481	7.81
+	"Hennepin County, MN"	"27053"	"Mexican"	"2148-5"	56	10869	5.15
+	"Hennepin County, MN"	"27053"	"Puerto Rican"	"2180-8"	Suppressed	383	Suppressed
+	"Hennepin County, MN"	"27053"	"Cuban"	"2182-4"	Suppressed	121	Suppressed
+	"Hennepin County, MN"	"27053"	"Central or South American"	"4"	12	2983	4.02 (Unreliable)
+	"Hennepin County, MN"	"27053"	"Non-Hispanic White"	"6"	312	83265	3.75
+	"Hennepin County, MN"	"27053"	"Non-Hispanic Black"	"7"	307	31201	9.84
+	"Ramsey County, MN"	"27123"	"Mexican"	"2148-5"	13	4361	2.98 (Unreliable)
+	"Ramsey County, MN"	"27123"	"Puerto Rican"	"2180-8"	Suppressed	259	Suppressed
+	"Ramsey County, MN"	"27123"	"Cuban"	"2182-4"	Suppressed	87	Suppressed
+	"Ramsey County, MN"	"27123"	"Central or South American"	"4"	Suppressed	1198	Suppressed
+	"Ramsey County, MN"	"27123"	"Non-Hispanic White"	"6"	168	33223	5.06
+	"Ramsey County, MN"	"27123"	"Non-Hispanic Black"	"7"	139	12740	10.91
+	"Unidentified Counties, MN"	"27999"	"Mexican"	"2148-5"	71	12529	5.67
+	"Unidentified Counties, MN"	"27999"	"Puerto Rican"	"2180-8"	Suppressed	459	Suppressed
+	"Unidentified Counties, MN"	"27999"	"Cuban"	"2182-4"	Suppressed	150	Suppressed
+	"Unidentified Counties, MN"	"27999"	"Central or South American"	"4"	12	3019	3.97 (Unreliable)
+	"Unidentified Counties, MN"	"27999"	"Non-Hispanic White"	"6"	1258	277202	4.54
+	"Unidentified Counties, MN"	"27999"	"Non-Hispanic Black"	"7"	106	11077	9.57
+	"Hinds County, MS"	"28049"	"Mexican"	"2148-5"	Suppressed	135	Suppressed
+	"Hinds County, MS"	"28049"	"Puerto Rican"	"2180-8"	Suppressed	10	Suppressed
+	"Hinds County, MS"	"28049"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Hinds County, MS"	"28049"	"Central or South American"	"4"	Suppressed	127	Suppressed
+	"Hinds County, MS"	"28049"	"Non-Hispanic White"	"6"	27	4995	5.41
+	"Hinds County, MS"	"28049"	"Non-Hispanic Black"	"7"	243	19420	12.51
+	"Unidentified Counties, MS"	"28999"	"Mexican"	"2148-5"	48	7303	6.57
+	"Unidentified Counties, MS"	"28999"	"Puerto Rican"	"2180-8"	Suppressed	462	Suppressed
+	"Unidentified Counties, MS"	"28999"	"Cuban"	"2182-4"	Suppressed	97	Suppressed
+	"Unidentified Counties, MS"	"28999"	"Central or South American"	"4"	13	2946	4.41 (Unreliable)
+	"Unidentified Counties, MS"	"28999"	"Non-Hispanic White"	"6"	1260	182286	6.91
+	"Unidentified Counties, MS"	"28999"	"Non-Hispanic Black"	"7"	1816	141424	12.84
+	"Greene County, MO"	"29077"	"Mexican"	"2148-5"	Suppressed	212	Suppressed
+	"Greene County, MO"	"29077"	"Puerto Rican"	"2180-8"	Suppressed	26	Suppressed
+	"Greene County, MO"	"29077"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Greene County, MO"	"29077"	"Central or South American"	"4"	Suppressed	45	Suppressed
+	"Greene County, MO"	"29077"	"Non-Hispanic White"	"6"	32	6232	5.13
+	"Greene County, MO"	"29077"	"Non-Hispanic Black"	"7"	Suppressed	306	Suppressed
+	"Jackson County, MO"	"29095"	"Mexican"	"2148-5"	49	8794	5.57
+	"Jackson County, MO"	"29095"	"Puerto Rican"	"2180-8"	Suppressed	307	Suppressed
+	"Jackson County, MO"	"29095"	"Cuban"	"2182-4"	Suppressed	136	Suppressed
+	"Jackson County, MO"	"29095"	"Central or South American"	"4"	Suppressed	1409	Suppressed
+	"Jackson County, MO"	"29095"	"Non-Hispanic White"	"6"	259	48819	5.31
+	"Jackson County, MO"	"29095"	"Non-Hispanic Black"	"7"	273	25795	10.58
+	"St. Charles County, MO"	"29183"	"Mexican"	"2148-5"	Suppressed	1017	Suppressed
+	"St. Charles County, MO"	"29183"	"Puerto Rican"	"2180-8"	Suppressed	96	Suppressed
+	"St. Charles County, MO"	"29183"	"Cuban"	"2182-4"	Suppressed	30	Suppressed
+	"St. Charles County, MO"	"29183"	"Central or South American"	"4"	Suppressed	198	Suppressed
+	"St. Charles County, MO"	"29183"	"Non-Hispanic White"	"6"	177	35931	4.93
+	"St. Charles County, MO"	"29183"	"Non-Hispanic Black"	"7"	21	1919	10.94
+	"St. Louis County, MO"	"29189"	"Mexican"	"2148-5"	16	2486	6.44 (Unreliable)
+	"St. Louis County, MO"	"29189"	"Puerto Rican"	"2180-8"	Suppressed	235	Suppressed
+	"St. Louis County, MO"	"29189"	"Cuban"	"2182-4"	Suppressed	69	Suppressed
+	"St. Louis County, MO"	"29189"	"Central or South American"	"4"	Suppressed	656	Suppressed
+	"St. Louis County, MO"	"29189"	"Non-Hispanic White"	"6"	240	61786	3.88
+	"St. Louis County, MO"	"29189"	"Non-Hispanic Black"	"7"	450	33566	13.41
+	"St. Louis city, MO"	"29510"	"Mexican"	"2148-5"	Suppressed	1399	Suppressed
+	"St. Louis city, MO"	"29510"	"Puerto Rican"	"2180-8"	Suppressed	91	Suppressed
+	"St. Louis city, MO"	"29510"	"Cuban"	"2182-4"	Suppressed	60	Suppressed
+	"St. Louis city, MO"	"29510"	"Central or South American"	"4"	Suppressed	304	Suppressed
+	"St. Louis city, MO"	"29510"	"Non-Hispanic White"	"6"	74	15640	4.73
+	"St. Louis city, MO"	"29510"	"Non-Hispanic Black"	"7"	349	25174	13.86
+	"Unidentified Counties, MO"	"29999"	"Mexican"	"2148-5"	62	11353	5.46
+	"Unidentified Counties, MO"	"29999"	"Puerto Rican"	"2180-8"	Suppressed	894	Suppressed
+	"Unidentified Counties, MO"	"29999"	"Cuban"	"2182-4"	Suppressed	283	Suppressed
+	"Unidentified Counties, MO"	"29999"	"Central or South American"	"4"	18	2990	6.02 (Unreliable)
+	"Unidentified Counties, MO"	"29999"	"Non-Hispanic White"	"6"	2224	360608	6.17
+	"Unidentified Counties, MO"	"29999"	"Non-Hispanic Black"	"7"	225	18617	12.09
+	"Unidentified Counties, MT"	"30999"	"Mexican"	"2148-5"	13	2438	5.33 (Unreliable)
+	"Unidentified Counties, MT"	"30999"	"Puerto Rican"	"2180-8"	Suppressed	180	Suppressed
+	"Unidentified Counties, MT"	"30999"	"Cuban"	"2182-4"	Suppressed	37	Suppressed
+	"Unidentified Counties, MT"	"30999"	"Central or South American"	"4"	Suppressed	302	Suppressed
+	"Unidentified Counties, MT"	"30999"	"Non-Hispanic White"	"6"	502	90386	5.55
+	"Unidentified Counties, MT"	"30999"	"Non-Hispanic Black"	"7"	Suppressed	680	Suppressed
+	"Douglas County, NE"	"31055"	"Mexican"	"2148-5"	53	10495	5.05
+	"Douglas County, NE"	"31055"	"Puerto Rican"	"2180-8"	Suppressed	178	Suppressed
+	"Douglas County, NE"	"31055"	"Cuban"	"2182-4"	Suppressed	58	Suppressed
+	"Douglas County, NE"	"31055"	"Central or South American"	"4"	10	2216	4.51 (Unreliable)
+	"Douglas County, NE"	"31055"	"Non-Hispanic White"	"6"	210	47215	4.45
+	"Douglas County, NE"	"31055"	"Non-Hispanic Black"	"7"	141	11441	12.32
+	"Lancaster County, NE"	"31109"	"Mexican"	"2148-5"	15	2302	6.52 (Unreliable)
+	"Lancaster County, NE"	"31109"	"Puerto Rican"	"2180-8"	Suppressed	89	Suppressed
+	"Lancaster County, NE"	"31109"	"Cuban"	"2182-4"	Suppressed	41	Suppressed
+	"Lancaster County, NE"	"31109"	"Central or South American"	"4"	Suppressed	437	Suppressed
+	"Lancaster County, NE"	"31109"	"Non-Hispanic White"	"6"	156	29715	5.25
+	"Lancaster County, NE"	"31109"	"Non-Hispanic Black"	"7"	17	1995	8.52 (Unreliable)
+	"Unidentified Counties, NE"	"31999"	"Mexican"	"2148-5"	75	13586	5.52
+	"Unidentified Counties, NE"	"31999"	"Puerto Rican"	"2180-8"	Suppressed	273	Suppressed
+	"Unidentified Counties, NE"	"31999"	"Cuban"	"2182-4"	Suppressed	344	Suppressed
+	"Unidentified Counties, NE"	"31999"	"Central or South American"	"4"	20	3660	5.46
+	"Unidentified Counties, NE"	"31999"	"Non-Hispanic White"	"6"	475	98371	4.83
+	"Unidentified Counties, NE"	"31999"	"Non-Hispanic Black"	"7"	26	2587	10.05
+	"Clark County, NV"	"32003"	"Mexican"	"2148-5"	366	77472	4.72
+	"Clark County, NV"	"32003"	"Puerto Rican"	"2180-8"	15	2380	6.30 (Unreliable)
+	"Clark County, NV"	"32003"	"Cuban"	"2182-4"	17	2284	7.44 (Unreliable)
+	"Clark County, NV"	"32003"	"Central or South American"	"4"	40	10867	3.68
+	"Clark County, NV"	"32003"	"Non-Hispanic White"	"6"	432	90818	4.76
+	"Clark County, NV"	"32003"	"Non-Hispanic Black"	"7"	303	32473	9.33
+	"Washoe County, NV"	"32031"	"Mexican"	"2148-5"	94	14294	6.58
+	"Washoe County, NV"	"32031"	"Puerto Rican"	"2180-8"	Suppressed	213	Suppressed
+	"Washoe County, NV"	"32031"	"Cuban"	"2182-4"	Suppressed	47	Suppressed
+	"Washoe County, NV"	"32031"	"Central or South American"	"4"	14	1894	7.39 (Unreliable)
+	"Washoe County, NV"	"32031"	"Non-Hispanic White"	"6"	138	26341	5.24
+	"Washoe County, NV"	"32031"	"Non-Hispanic Black"	"7"	20	1448	13.81
+	"Unidentified Counties, NV"	"32999"	"Mexican"	"2148-5"	27	6779	3.98
+	"Unidentified Counties, NV"	"32999"	"Puerto Rican"	"2180-8"	Suppressed	105	Suppressed
+	"Unidentified Counties, NV"	"32999"	"Cuban"	"2182-4"	Suppressed	25	Suppressed
+	"Unidentified Counties, NV"	"32999"	"Central or South American"	"4"	Suppressed	411	Suppressed
+	"Unidentified Counties, NV"	"32999"	"Non-Hispanic White"	"6"	143	23005	6.22
+	"Unidentified Counties, NV"	"32999"	"Non-Hispanic Black"	"7"	Suppressed	451	Suppressed
+	"Hillsborough County, NH"	"33011"	"Mexican"	"2148-5"	Suppressed	652	Suppressed
+	"Hillsborough County, NH"	"33011"	"Puerto Rican"	"2180-8"	10	914	10.94 (Unreliable)
+	"Hillsborough County, NH"	"33011"	"Cuban"	"2182-4"	Suppressed	40	Suppressed
+	"Hillsborough County, NH"	"33011"	"Central or South American"	"4"	Suppressed	702	Suppressed
+	"Hillsborough County, NH"	"33011"	"Non-Hispanic White"	"6"	127	33003	3.85
+	"Hillsborough County, NH"	"33011"	"Non-Hispanic Black"	"7"	14	1273	11.00 (Unreliable)
+	"Rockingham County, NH"	"33015"	"Mexican"	"2148-5"	Suppressed	63	Suppressed
+	"Rockingham County, NH"	"33015"	"Puerto Rican"	"2180-8"	Suppressed	185	Suppressed
+	"Rockingham County, NH"	"33015"	"Cuban"	"2182-4"	Suppressed	23	Suppressed
+	"Rockingham County, NH"	"33015"	"Central or South American"	"4"	Suppressed	176	Suppressed
+	"Rockingham County, NH"	"33015"	"Non-Hispanic White"	"6"	88	22073	3.99
+	"Rockingham County, NH"	"33015"	"Non-Hispanic Black"	"7"	Suppressed	162	Suppressed
+	"Unidentified Counties, NH"	"33999"	"Mexican"	"2148-5"	Suppressed	188	Suppressed
+	"Unidentified Counties, NH"	"33999"	"Puerto Rican"	"2180-8"	Suppressed	275	Suppressed
+	"Unidentified Counties, NH"	"33999"	"Cuban"	"2182-4"	Suppressed	38	Suppressed
+	"Unidentified Counties, NH"	"33999"	"Central or South American"	"4"	Suppressed	187	Suppressed
+	"Unidentified Counties, NH"	"33999"	"Non-Hispanic White"	"6"	238	48483	4.91
+	"Unidentified Counties, NH"	"33999"	"Non-Hispanic Black"	"7"	Suppressed	520	Suppressed
+	"Atlantic County, NJ"	"34001"	"Mexican"	"2148-5"	21	2687	7.82
+	"Atlantic County, NJ"	"34001"	"Puerto Rican"	"2180-8"	27	2890	9.34
+	"Atlantic County, NJ"	"34001"	"Cuban"	"2182-4"	Suppressed	87	Suppressed
+	"Atlantic County, NJ"	"34001"	"Central or South American"	"4"	18	2512	7.17 (Unreliable)
+	"Atlantic County, NJ"	"34001"	"Non-Hispanic White"	"6"	73	13189	5.53
+	"Atlantic County, NJ"	"34001"	"Non-Hispanic Black"	"7"	102	5858	17.41
+	"Bergen County, NJ"	"34003"	"Mexican"	"2148-5"	Suppressed	1632	Suppressed
+	"Bergen County, NJ"	"34003"	"Puerto Rican"	"2180-8"	Suppressed	2790	Suppressed
+	"Bergen County, NJ"	"34003"	"Cuban"	"2182-4"	Suppressed	1068	Suppressed
+	"Bergen County, NJ"	"34003"	"Central or South American"	"4"	38	11799	3.22
+	"Bergen County, NJ"	"34003"	"Non-Hispanic White"	"6"	111	43686	2.54
+	"Bergen County, NJ"	"34003"	"Non-Hispanic Black"	"7"	35	4992	7.01
+	"Burlington County, NJ"	"34005"	"Mexican"	"2148-5"	Suppressed	665	Suppressed
+	"Burlington County, NJ"	"34005"	"Puerto Rican"	"2180-8"	14	1708	8.20 (Unreliable)
+	"Burlington County, NJ"	"34005"	"Cuban"	"2182-4"	Suppressed	119	Suppressed
+	"Burlington County, NJ"	"34005"	"Central or South American"	"4"	Suppressed	1518	Suppressed
+	"Burlington County, NJ"	"34005"	"Non-Hispanic White"	"6"	102	27590	3.70
+	"Burlington County, NJ"	"34005"	"Non-Hispanic Black"	"7"	75	7585	9.89
+	"Camden County, NJ"	"34007"	"Mexican"	"2148-5"	18	3010	5.98 (Unreliable)
+	"Camden County, NJ"	"34007"	"Puerto Rican"	"2180-8"	79	7432	10.63
+	"Camden County, NJ"	"34007"	"Cuban"	"2182-4"	Suppressed	121	Suppressed
+	"Camden County, NJ"	"34007"	"Central or South American"	"4"	23	2648	8.69
+	"Camden County, NJ"	"34007"	"Non-Hispanic White"	"6"	146	28949	5.04
+	"Camden County, NJ"	"34007"	"Non-Hispanic Black"	"7"	198	13432	14.74
+	"Essex County, NJ"	"34013"	"Mexican"	"2148-5"	Suppressed	1920	Suppressed
+	"Essex County, NJ"	"34013"	"Puerto Rican"	"2180-8"	63	7911	7.96
+	"Essex County, NJ"	"34013"	"Cuban"	"2182-4"	Suppressed	468	Suppressed
+	"Essex County, NJ"	"34013"	"Central or South American"	"4"	63	15340	4.11
+	"Essex County, NJ"	"34013"	"Non-Hispanic White"	"6"	67	22143	3.03
+	"Essex County, NJ"	"34013"	"Non-Hispanic Black"	"7"	438	42502	10.31
+	"Gloucester County, NJ"	"34015"	"Mexican"	"2148-5"	Suppressed	397	Suppressed
+	"Gloucester County, NJ"	"34015"	"Puerto Rican"	"2180-8"	Suppressed	1042	Suppressed
+	"Gloucester County, NJ"	"34015"	"Cuban"	"2182-4"	Suppressed	36	Suppressed
+	"Gloucester County, NJ"	"34015"	"Central or South American"	"4"	Suppressed	451	Suppressed
+	"Gloucester County, NJ"	"34015"	"Non-Hispanic White"	"6"	70	21976	3.19
+	"Gloucester County, NJ"	"34015"	"Non-Hispanic Black"	"7"	51	3348	15.23
+	"Hudson County, NJ"	"34017"	"Mexican"	"2148-5"	Suppressed	4186	Suppressed
+	"Hudson County, NJ"	"34017"	"Puerto Rican"	"2180-8"	43	7536	5.71
+	"Hudson County, NJ"	"34017"	"Cuban"	"2182-4"	Suppressed	1839	Suppressed
+	"Hudson County, NJ"	"34017"	"Central or South American"	"4"	64	20600	3.11
+	"Hudson County, NJ"	"34017"	"Non-Hispanic White"	"6"	74	25297	2.93
+	"Hudson County, NJ"	"34017"	"Non-Hispanic Black"	"7"	104	10662	9.75
+	"Mercer County, NJ"	"34021"	"Mexican"	"2148-5"	10	1095	9.13 (Unreliable)
+	"Mercer County, NJ"	"34021"	"Puerto Rican"	"2180-8"	19	2374	8.00 (Unreliable)
+	"Mercer County, NJ"	"34021"	"Cuban"	"2182-4"	Suppressed	85	Suppressed
+	"Mercer County, NJ"	"34021"	"Central or South American"	"4"	24	5565	4.31
+	"Mercer County, NJ"	"34021"	"Non-Hispanic White"	"6"	58	15098	3.84
+	"Mercer County, NJ"	"34021"	"Non-Hispanic Black"	"7"	166	9937	16.71
+	"Middlesex County, NJ"	"34023"	"Mexican"	"2148-5"	29	7580	3.83
+	"Middlesex County, NJ"	"34023"	"Puerto Rican"	"2180-8"	22	5223	4.21
+	"Middlesex County, NJ"	"34023"	"Cuban"	"2182-4"	Suppressed	461	Suppressed
+	"Middlesex County, NJ"	"34023"	"Central or South American"	"4"	35	10584	3.31
+	"Middlesex County, NJ"	"34023"	"Non-Hispanic White"	"6"	96	28799	3.33
+	"Middlesex County, NJ"	"34023"	"Non-Hispanic Black"	"7"	60	8454	7.10
+	"Monmouth County, NJ"	"34025"	"Mexican"	"2148-5"	17	5935	2.86 (Unreliable)
+	"Monmouth County, NJ"	"34025"	"Puerto Rican"	"2180-8"	Suppressed	2118	Suppressed
+	"Monmouth County, NJ"	"34025"	"Cuban"	"2182-4"	Suppressed	233	Suppressed
+	"Monmouth County, NJ"	"34025"	"Central or South American"	"4"	Suppressed	2726	Suppressed
+	"Monmouth County, NJ"	"34025"	"Non-Hispanic White"	"6"	105	37631	2.79
+	"Monmouth County, NJ"	"34025"	"Non-Hispanic Black"	"7"	51	5194	9.82
+	"Morris County, NJ"	"34027"	"Mexican"	"2148-5"	Suppressed	1125	Suppressed
+	"Morris County, NJ"	"34027"	"Puerto Rican"	"2180-8"	Suppressed	1114	Suppressed
+	"Morris County, NJ"	"34027"	"Cuban"	"2182-4"	Suppressed	176	Suppressed
+	"Morris County, NJ"	"34027"	"Central or South American"	"4"	15	5041	2.98 (Unreliable)
+	"Morris County, NJ"	"34027"	"Non-Hispanic White"	"6"	83	28124	2.95
+	"Morris County, NJ"	"34027"	"Non-Hispanic Black"	"7"	14	1314	10.65 (Unreliable)
+	"Ocean County, NJ"	"34029"	"Mexican"	"2148-5"	29	5467	5.30
+	"Ocean County, NJ"	"34029"	"Puerto Rican"	"2180-8"	Suppressed	1807	Suppressed
+	"Ocean County, NJ"	"34029"	"Cuban"	"2182-4"	Suppressed	164	Suppressed
+	"Ocean County, NJ"	"34029"	"Central or South American"	"4"	Suppressed	1428	Suppressed
+	"Ocean County, NJ"	"34029"	"Non-Hispanic White"	"6"	154	60731	2.54
+	"Ocean County, NJ"	"34029"	"Non-Hispanic Black"	"7"	20	2083	9.60
+	"Passaic County, NJ"	"34031"	"Mexican"	"2148-5"	22	7541	2.92
+	"Passaic County, NJ"	"34031"	"Puerto Rican"	"2180-8"	28	5811	4.82
+	"Passaic County, NJ"	"34031"	"Cuban"	"2182-4"	Suppressed	326	Suppressed
+	"Passaic County, NJ"	"34031"	"Central or South American"	"4"	41	15198	2.70
+	"Passaic County, NJ"	"34031"	"Non-Hispanic White"	"6"	68	21267	3.20
+	"Passaic County, NJ"	"34031"	"Non-Hispanic Black"	"7"	70	7858	8.91
+	"Somerset County, NJ"	"34035"	"Mexican"	"2148-5"	Suppressed	1281	Suppressed
+	"Somerset County, NJ"	"34035"	"Puerto Rican"	"2180-8"	Suppressed	860	Suppressed
+	"Somerset County, NJ"	"34035"	"Cuban"	"2182-4"	Suppressed	126	Suppressed
+	"Somerset County, NJ"	"34035"	"Central or South American"	"4"	17	4428	3.84 (Unreliable)
+	"Somerset County, NJ"	"34035"	"Non-Hispanic White"	"6"	33	15094	2.19
+	"Somerset County, NJ"	"34035"	"Non-Hispanic Black"	"7"	27	3260	8.28
+	"Union County, NJ"	"34039"	"Mexican"	"2148-5"	Suppressed	2370	Suppressed
+	"Union County, NJ"	"34039"	"Puerto Rican"	"2180-8"	28	3800	7.37
+	"Union County, NJ"	"34039"	"Cuban"	"2182-4"	Suppressed	932	Suppressed
+	"Union County, NJ"	"34039"	"Central or South American"	"4"	72	16796	4.29
+	"Union County, NJ"	"34039"	"Non-Hispanic White"	"6"	69	20632	3.34
+	"Union County, NJ"	"34039"	"Non-Hispanic Black"	"7"	111	13707	8.10
+	"Unidentified Counties, NJ"	"34999"	"Mexican"	"2148-5"	25	5842	4.28
+	"Unidentified Counties, NJ"	"34999"	"Puerto Rican"	"2180-8"	48	5152	9.32
+	"Unidentified Counties, NJ"	"34999"	"Cuban"	"2182-4"	Suppressed	211	Suppressed
+	"Unidentified Counties, NJ"	"34999"	"Central or South American"	"4"	Suppressed	2265	Suppressed
+	"Unidentified Counties, NJ"	"34999"	"Non-Hispanic White"	"6"	216	43439	4.97
+	"Unidentified Counties, NJ"	"34999"	"Non-Hispanic Black"	"7"	78	6735	11.58
+	"Bernalillo County, NM"	"35001"	"Mexican"	"2148-5"	89	15024	5.92
+	"Bernalillo County, NM"	"35001"	"Puerto Rican"	"2180-8"	Suppressed	381	Suppressed
+	"Bernalillo County, NM"	"35001"	"Cuban"	"2182-4"	Suppressed	311	Suppressed
+	"Bernalillo County, NM"	"35001"	"Central or South American"	"4"	Suppressed	668	Suppressed
+	"Bernalillo County, NM"	"35001"	"Non-Hispanic White"	"6"	126	22894	5.50
+	"Bernalillo County, NM"	"35001"	"Non-Hispanic Black"	"7"	18	1886	9.54 (Unreliable)
+	"Unidentified Counties, NM"	"35999"	"Mexican"	"2148-5"	200	38156	5.24
+	"Unidentified Counties, NM"	"35999"	"Puerto Rican"	"2180-8"	Suppressed	513	Suppressed
+	"Unidentified Counties, NM"	"35999"	"Cuban"	"2182-4"	Suppressed	97	Suppressed
+	"Unidentified Counties, NM"	"35999"	"Central or South American"	"4"	Suppressed	987	Suppressed
+	"Unidentified Counties, NM"	"35999"	"Non-Hispanic White"	"6"	253	47487	5.33
+	"Unidentified Counties, NM"	"35999"	"Non-Hispanic Black"	"7"	28	2416	11.59
+	"Albany County, NY"	"36001"	"Mexican"	"2148-5"	Suppressed	230	Suppressed
+	"Albany County, NY"	"36001"	"Puerto Rican"	"2180-8"	12	1145	10.48 (Unreliable)
+	"Albany County, NY"	"36001"	"Cuban"	"2182-4"	Suppressed	51	Suppressed
+	"Albany County, NY"	"36001"	"Central or South American"	"4"	Suppressed	251	Suppressed
+	"Albany County, NY"	"36001"	"Non-Hispanic White"	"6"	93	17636	5.27
+	"Albany County, NY"	"36001"	"Non-Hispanic Black"	"7"	91	5518	16.49
+	"Bronx County, NY"	"36005"	"Mexican"	"2148-5"	57	16057	3.55
+	"Bronx County, NY"	"36005"	"Puerto Rican"	"2180-8"	222	36353	6.11
+	"Bronx County, NY"	"36005"	"Cuban"	"2182-4"	Suppressed	592	Suppressed
+	"Bronx County, NY"	"36005"	"Central or South American"	"4"	83	17111	4.85
+	"Bronx County, NY"	"36005"	"Non-Hispanic White"	"6"	45	13957	3.22
+	"Bronx County, NY"	"36005"	"Non-Hispanic Black"	"7"	468	59321	7.89
+	"Dutchess County, NY"	"36027"	"Mexican"	"2148-5"	10	1420	7.04 (Unreliable)
+	"Dutchess County, NY"	"36027"	"Puerto Rican"	"2180-8"	Suppressed	1193	Suppressed
+	"Dutchess County, NY"	"36027"	"Cuban"	"2182-4"	Suppressed	71	Suppressed
+	"Dutchess County, NY"	"36027"	"Central or South American"	"4"	Suppressed	934	Suppressed
+	"Dutchess County, NY"	"36027"	"Non-Hispanic White"	"6"	61	16842	3.62
+	"Dutchess County, NY"	"36027"	"Non-Hispanic Black"	"7"	34	3032	11.21
+	"Erie County, NY"	"36029"	"Mexican"	"2148-5"	Suppressed	412	Suppressed
+	"Erie County, NY"	"36029"	"Puerto Rican"	"2180-8"	47	5004	9.39
+	"Erie County, NY"	"36029"	"Cuban"	"2182-4"	Suppressed	150	Suppressed
+	"Erie County, NY"	"36029"	"Central or South American"	"4"	Suppressed	293	Suppressed
+	"Erie County, NY"	"36029"	"Non-Hispanic White"	"6"	354	60447	5.86
+	"Erie County, NY"	"36029"	"Non-Hispanic Black"	"7"	260	17510	14.85
+	"Kings County, NY"	"36047"	"Mexican"	"2148-5"	73	20990	3.48
+	"Kings County, NY"	"36047"	"Puerto Rican"	"2180-8"	122	19158	6.37
+	"Kings County, NY"	"36047"	"Cuban"	"2182-4"	Suppressed	520	Suppressed
+	"Kings County, NY"	"36047"	"Central or South American"	"4"	58	17138	3.38
+	"Kings County, NY"	"36047"	"Non-Hispanic White"	"6"	345	141336	2.44
+	"Kings County, NY"	"36047"	"Non-Hispanic Black"	"7"	795	99394	8.00
+	"Monroe County, NY"	"36055"	"Mexican"	"2148-5"	Suppressed	339	Suppressed
+	"Monroe County, NY"	"36055"	"Puerto Rican"	"2180-8"	55	6210	8.86
+	"Monroe County, NY"	"36055"	"Cuban"	"2182-4"	Suppressed	296	Suppressed
+	"Monroe County, NY"	"36055"	"Central or South American"	"4"	Suppressed	409	Suppressed
+	"Monroe County, NY"	"36055"	"Non-Hispanic White"	"6"	233	47366	4.92
+	"Monroe County, NY"	"36055"	"Non-Hispanic Black"	"7"	229	17151	13.35
+	"Nassau County, NY"	"36059"	"Mexican"	"2148-5"	Suppressed	1883	Suppressed
+	"Nassau County, NY"	"36059"	"Puerto Rican"	"2180-8"	13	2768	4.70 (Unreliable)
+	"Nassau County, NY"	"36059"	"Cuban"	"2182-4"	Suppressed	346	Suppressed
+	"Nassau County, NY"	"36059"	"Central or South American"	"4"	83	22555	3.68
+	"Nassau County, NY"	"36059"	"Non-Hispanic White"	"6"	195	68205	2.86
+	"Nassau County, NY"	"36059"	"Non-Hispanic Black"	"7"	178	15708	11.33
+	"New York County, NY"	"36061"	"Mexican"	"2148-5"	28	7257	3.86
+	"New York County, NY"	"36061"	"Puerto Rican"	"2180-8"	56	10053	5.57
+	"New York County, NY"	"36061"	"Cuban"	"2182-4"	Suppressed	666	Suppressed
+	"New York County, NY"	"36061"	"Central or South American"	"4"	29	8848	3.28
+	"New York County, NY"	"36061"	"Non-Hispanic White"	"6"	144	69812	2.06
+	"New York County, NY"	"36061"	"Non-Hispanic Black"	"7"	210	20504	10.24
+	"Onondaga County, NY"	"36067"	"Mexican"	"2148-5"	Suppressed	246	Suppressed
+	"Onondaga County, NY"	"36067"	"Puerto Rican"	"2180-8"	12	1733	6.92 (Unreliable)
+	"Onondaga County, NY"	"36067"	"Cuban"	"2182-4"	Suppressed	249	Suppressed
+	"Onondaga County, NY"	"36067"	"Central or South American"	"4"	Suppressed	261	Suppressed
+	"Onondaga County, NY"	"36067"	"Non-Hispanic White"	"6"	161	33888	4.75
+	"Onondaga County, NY"	"36067"	"Non-Hispanic Black"	"7"	103	8673	11.88
+	"Orange County, NY"	"36071"	"Mexican"	"2148-5"	13	3679	3.53 (Unreliable)
+	"Orange County, NY"	"36071"	"Puerto Rican"	"2180-8"	21	3087	6.80
+	"Orange County, NY"	"36071"	"Cuban"	"2182-4"	Suppressed	130	Suppressed
+	"Orange County, NY"	"36071"	"Central or South American"	"4"	10	2162	4.63 (Unreliable)
+	"Orange County, NY"	"36071"	"Non-Hispanic White"	"6"	149	29429	5.06
+	"Orange County, NY"	"36071"	"Non-Hispanic Black"	"7"	51	3999	12.75
+	"Queens County, NY"	"36081"	"Mexican"	"2148-5"	71	19848	3.58
+	"Queens County, NY"	"36081"	"Puerto Rican"	"2180-8"	57	11047	5.16
+	"Queens County, NY"	"36081"	"Cuban"	"2182-4"	Suppressed	619	Suppressed
+	"Queens County, NY"	"36081"	"Central or South American"	"4"	149	42275	3.52
+	"Queens County, NY"	"36081"	"Non-Hispanic White"	"6"	174	60825	2.86
+	"Queens County, NY"	"36081"	"Non-Hispanic Black"	"7"	386	46187	8.36
+	"Richmond County, NY"	"36085"	"Mexican"	"2148-5"	15	4235	3.54 (Unreliable)
+	"Richmond County, NY"	"36085"	"Puerto Rican"	"2180-8"	36	4593	7.84
+	"Richmond County, NY"	"36085"	"Cuban"	"2182-4"	Suppressed	140	Suppressed
+	"Richmond County, NY"	"36085"	"Central or South American"	"4"	Suppressed	2021	Suppressed
+	"Richmond County, NY"	"36085"	"Non-Hispanic White"	"6"	68	26868	2.53
+	"Richmond County, NY"	"36085"	"Non-Hispanic Black"	"7"	76	6588	11.54
+	"Rockland County, NY"	"36087"	"Mexican"	"2148-5"	Suppressed	1003	Suppressed
+	"Rockland County, NY"	"36087"	"Puerto Rican"	"2180-8"	Suppressed	1097	Suppressed
+	"Rockland County, NY"	"36087"	"Cuban"	"2182-4"	Suppressed	75	Suppressed
+	"Rockland County, NY"	"36087"	"Central or South American"	"4"	20	5146	3.89
+	"Rockland County, NY"	"36087"	"Non-Hispanic White"	"6"	80	28202	2.84
+	"Rockland County, NY"	"36087"	"Non-Hispanic Black"	"7"	53	3826	13.85
+	"Suffolk County, NY"	"36103"	"Mexican"	"2148-5"	16	2985	5.36 (Unreliable)
+	"Suffolk County, NY"	"36103"	"Puerto Rican"	"2180-8"	32	6139	5.21
+	"Suffolk County, NY"	"36103"	"Cuban"	"2182-4"	Suppressed	370	Suppressed
+	"Suffolk County, NY"	"36103"	"Central or South American"	"4"	110	29688	3.71
+	"Suffolk County, NY"	"36103"	"Non-Hispanic White"	"6"	260	83522	3.11
+	"Suffolk County, NY"	"36103"	"Non-Hispanic Black"	"7"	108	12764	8.46
+	"Westchester County, NY"	"36119"	"Mexican"	"2148-5"	33	8621	3.83
+	"Westchester County, NY"	"36119"	"Puerto Rican"	"2180-8"	28	5363	5.22
+	"Westchester County, NY"	"36119"	"Cuban"	"2182-4"	Suppressed	363	Suppressed
+	"Westchester County, NY"	"36119"	"Central or South American"	"4"	53	13806	3.84
+	"Westchester County, NY"	"36119"	"Non-Hispanic White"	"6"	106	41884	2.53
+	"Westchester County, NY"	"36119"	"Non-Hispanic Black"	"7"	152	14735	10.32
+	"Unidentified Counties, NY"	"36999"	"Mexican"	"2148-5"	23	4312	5.33
+	"Unidentified Counties, NY"	"36999"	"Puerto Rican"	"2180-8"	91	10086	9.02
+	"Unidentified Counties, NY"	"36999"	"Cuban"	"2182-4"	Suppressed	444	Suppressed
+	"Unidentified Counties, NY"	"36999"	"Central or South American"	"4"	18	3563	5.05 (Unreliable)
+	"Unidentified Counties, NY"	"36999"	"Non-Hispanic White"	"6"	1787	323300	5.53
+	"Unidentified Counties, NY"	"36999"	"Non-Hispanic Black"	"7"	238	17072	13.94
+	"Cumberland County, NC"	"37051"	"Mexican"	"2148-5"	16	2640	6.06 (Unreliable)
+	"Cumberland County, NC"	"37051"	"Puerto Rican"	"2180-8"	24	1981	12.12
+	"Cumberland County, NC"	"37051"	"Cuban"	"2182-4"	Suppressed	162	Suppressed
+	"Cumberland County, NC"	"37051"	"Central or South American"	"4"	13	1286	10.11 (Unreliable)
+	"Cumberland County, NC"	"37051"	"Non-Hispanic White"	"6"	174	24585	7.08
+	"Cumberland County, NC"	"37051"	"Non-Hispanic Black"	"7"	251	18006	13.94
+	"Durham County, NC"	"37063"	"Mexican"	"2148-5"	Suppressed	886	Suppressed
+	"Durham County, NC"	"37063"	"Puerto Rican"	"2180-8"	Suppressed	104	Suppressed
+	"Durham County, NC"	"37063"	"Cuban"	"2182-4"	Suppressed	26	Suppressed
+	"Durham County, NC"	"37063"	"Central or South American"	"4"	Suppressed	765	Suppressed
+	"Durham County, NC"	"37063"	"Non-Hispanic White"	"6"	15	3374	4.45 (Unreliable)
+	"Durham County, NC"	"37063"	"Non-Hispanic Black"	"7"	30	2924	10.26
+	"Forsyth County, NC"	"37067"	"Mexican"	"2148-5"	49	7642	6.41
+	"Forsyth County, NC"	"37067"	"Puerto Rican"	"2180-8"	Suppressed	332	Suppressed
+	"Forsyth County, NC"	"37067"	"Cuban"	"2182-4"	Suppressed	62	Suppressed
+	"Forsyth County, NC"	"37067"	"Central or South American"	"4"	Suppressed	1566	Suppressed
+	"Forsyth County, NC"	"37067"	"Non-Hispanic White"	"6"	136	19523	6.97
+	"Forsyth County, NC"	"37067"	"Non-Hispanic Black"	"7"	190	11958	15.89
+	"Guilford County, NC"	"37081"	"Mexican"	"2148-5"	38	5050	7.52
+	"Guilford County, NC"	"37081"	"Puerto Rican"	"2180-8"	Suppressed	498	Suppressed
+	"Guilford County, NC"	"37081"	"Cuban"	"2182-4"	Suppressed	103	Suppressed
+	"Guilford County, NC"	"37081"	"Central or South American"	"4"	Suppressed	1478	Suppressed
+	"Guilford County, NC"	"37081"	"Non-Hispanic White"	"6"	129	22512	5.73
+	"Guilford County, NC"	"37081"	"Non-Hispanic Black"	"7"	280	21742	12.88
+	"Mecklenburg County, NC"	"37119"	"Mexican"	"2148-5"	71	11650	6.09
+	"Mecklenburg County, NC"	"37119"	"Puerto Rican"	"2180-8"	10	1457	6.86 (Unreliable)
+	"Mecklenburg County, NC"	"37119"	"Cuban"	"2182-4"	Suppressed	437	Suppressed
+	"Mecklenburg County, NC"	"37119"	"Central or South American"	"4"	51	10540	4.84
+	"Mecklenburg County, NC"	"37119"	"Non-Hispanic White"	"6"	174	53389	3.26
+	"Mecklenburg County, NC"	"37119"	"Non-Hispanic Black"	"7"	425	40588	10.47
+	"Wake County, NC"	"37183"	"Mexican"	"2148-5"	60	11662	5.14
+	"Wake County, NC"	"37183"	"Puerto Rican"	"2180-8"	12	1331	9.02 (Unreliable)
+	"Wake County, NC"	"37183"	"Cuban"	"2182-4"	Suppressed	320	Suppressed
+	"Wake County, NC"	"37183"	"Central or South American"	"4"	28	5060	5.53
+	"Wake County, NC"	"37183"	"Non-Hispanic White"	"6"	256	61504	4.16
+	"Wake County, NC"	"37183"	"Non-Hispanic Black"	"7"	329	25620	12.84
+	"Unidentified Counties, NC"	"37999"	"Mexican"	"2148-5"	408	72250	5.65
+	"Unidentified Counties, NC"	"37999"	"Puerto Rican"	"2180-8"	37	5420	6.83
+	"Unidentified Counties, NC"	"37999"	"Cuban"	"2182-4"	Suppressed	1019	Suppressed
+	"Unidentified Counties, NC"	"37999"	"Central or South American"	"4"	100	19200	5.21
+	"Unidentified Counties, NC"	"37999"	"Non-Hispanic White"	"6"	2615	434629	6.02
+	"Unidentified Counties, NC"	"37999"	"Non-Hispanic Black"	"7"	2007	144164	13.92
+	"Unidentified Counties, ND"	"38999"	"Mexican"	"2148-5"	10	2243	4.46 (Unreliable)
+	"Unidentified Counties, ND"	"38999"	"Puerto Rican"	"2180-8"	Suppressed	268	Suppressed
+	"Unidentified Counties, ND"	"38999"	"Cuban"	"2182-4"	Suppressed	68	Suppressed
+	"Unidentified Counties, ND"	"38999"	"Central or South American"	"4"	Suppressed	223	Suppressed
+	"Unidentified Counties, ND"	"38999"	"Non-Hispanic White"	"6"	391	71606	5.46
+	"Unidentified Counties, ND"	"38999"	"Non-Hispanic Black"	"7"	15	2497	6.01 (Unreliable)
+	"Butler County, OH"	"39017"	"Mexican"	"2148-5"	18	1704	10.56 (Unreliable)
+	"Butler County, OH"	"39017"	"Puerto Rican"	"2180-8"	Suppressed	217	Suppressed
+	"Butler County, OH"	"39017"	"Cuban"	"2182-4"	Suppressed	49	Suppressed
+	"Butler County, OH"	"39017"	"Central or South American"	"4"	Suppressed	738	Suppressed
+	"Butler County, OH"	"39017"	"Non-Hispanic White"	"6"	235	33617	6.99
+	"Butler County, OH"	"39017"	"Non-Hispanic Black"	"7"	48	4013	11.96
+	"Cuyahoga County, OH"	"39035"	"Mexican"	"2148-5"	Suppressed	965	Suppressed
+	"Cuyahoga County, OH"	"39035"	"Puerto Rican"	"2180-8"	47	5020	9.36
+	"Cuyahoga County, OH"	"39035"	"Cuban"	"2182-4"	Suppressed	98	Suppressed
+	"Cuyahoga County, OH"	"39035"	"Central or South American"	"4"	Suppressed	888	Suppressed
+	"Cuyahoga County, OH"	"39035"	"Non-Hispanic White"	"6"	372	70344	5.29
+	"Cuyahoga County, OH"	"39035"	"Non-Hispanic Black"	"7"	810	53217	15.22
+	"Franklin County, OH"	"39049"	"Mexican"	"2148-5"	35	7404	4.73
+	"Franklin County, OH"	"39049"	"Puerto Rican"	"2180-8"	11	1116	9.86 (Unreliable)
+	"Franklin County, OH"	"39049"	"Cuban"	"2182-4"	Suppressed	126	Suppressed
+	"Franklin County, OH"	"39049"	"Central or South American"	"4"	Suppressed	2528	Suppressed
+	"Franklin County, OH"	"39049"	"Non-Hispanic White"	"6"	597	95176	6.27
+	"Franklin County, OH"	"39049"	"Non-Hispanic Black"	"7"	603	45334	13.30
+	"Hamilton County, OH"	"39061"	"Mexican"	"2148-5"	13	1848	7.03 (Unreliable)
+	"Hamilton County, OH"	"39061"	"Puerto Rican"	"2180-8"	Suppressed	340	Suppressed
+	"Hamilton County, OH"	"39061"	"Cuban"	"2182-4"	Suppressed	86	Suppressed
+	"Hamilton County, OH"	"39061"	"Central or South American"	"4"	20	2486	8.05
+	"Hamilton County, OH"	"39061"	"Non-Hispanic White"	"6"	365	57600	6.34
+	"Hamilton County, OH"	"39061"	"Non-Hispanic Black"	"7"	544	33924	16.04
+	"Lorain County, OH"	"39093"	"Mexican"	"2148-5"	Suppressed	795	Suppressed
+	"Lorain County, OH"	"39093"	"Puerto Rican"	"2180-8"	13	2577	5.04 (Unreliable)
+	"Lorain County, OH"	"39093"	"Cuban"	"2182-4"	Suppressed	27	Suppressed
+	"Lorain County, OH"	"39093"	"Central or South American"	"4"	Suppressed	114	Suppressed
+	"Lorain County, OH"	"39093"	"Non-Hispanic White"	"6"	143	23267	6.15
+	"Lorain County, OH"	"39093"	"Non-Hispanic Black"	"7"	40	3393	11.79
+	"Lucas County, OH"	"39095"	"Mexican"	"2148-5"	31	3922	7.90
+	"Lucas County, OH"	"39095"	"Puerto Rican"	"2180-8"	Suppressed	222	Suppressed
+	"Lucas County, OH"	"39095"	"Cuban"	"2182-4"	Suppressed	51	Suppressed
+	"Lucas County, OH"	"39095"	"Central or South American"	"4"	Suppressed	120	Suppressed
+	"Lucas County, OH"	"39095"	"Non-Hispanic White"	"6"	193	33481	5.76
+	"Lucas County, OH"	"39095"	"Non-Hispanic Black"	"7"	157	13525	11.61
+	"Mahoning County, OH"	"39099"	"Mexican"	"2148-5"	Suppressed	133	Suppressed
+	"Mahoning County, OH"	"39099"	"Puerto Rican"	"2180-8"	Suppressed	737	Suppressed
+	"Mahoning County, OH"	"39099"	"Cuban"	"2182-4"	Suppressed	15	Suppressed
+	"Mahoning County, OH"	"39099"	"Central or South American"	"4"	Suppressed	47	Suppressed
+	"Mahoning County, OH"	"39099"	"Non-Hispanic White"	"6"	82	11757	6.97
+	"Mahoning County, OH"	"39099"	"Non-Hispanic Black"	"7"	65	4286	15.17
+	"Montgomery County, OH"	"39113"	"Mexican"	"2148-5"	Suppressed	1071	Suppressed
+	"Montgomery County, OH"	"39113"	"Puerto Rican"	"2180-8"	Suppressed	214	Suppressed
+	"Montgomery County, OH"	"39113"	"Cuban"	"2182-4"	Suppressed	34	Suppressed
+	"Montgomery County, OH"	"39113"	"Central or South American"	"4"	Suppressed	349	Suppressed
+	"Montgomery County, OH"	"39113"	"Non-Hispanic White"	"6"	259	41321	6.27
+	"Montgomery County, OH"	"39113"	"Non-Hispanic Black"	"7"	211	16386	12.88
+	"Stark County, OH"	"39151"	"Mexican"	"2148-5"	Suppressed	264	Suppressed
+	"Stark County, OH"	"39151"	"Puerto Rican"	"2180-8"	Suppressed	82	Suppressed
+	"Stark County, OH"	"39151"	"Cuban"	"2182-4"	Suppressed	15	Suppressed
+	"Stark County, OH"	"39151"	"Central or South American"	"4"	Suppressed	327	Suppressed
+	"Stark County, OH"	"39151"	"Non-Hispanic White"	"6"	222	32574	6.82
+	"Stark County, OH"	"39151"	"Non-Hispanic Black"	"7"	66	4443	14.85
+	"Summit County, OH"	"39153"	"Mexican"	"2148-5"	Suppressed	603	Suppressed
+	"Summit County, OH"	"39153"	"Puerto Rican"	"2180-8"	Suppressed	261	Suppressed
+	"Summit County, OH"	"39153"	"Cuban"	"2182-4"	Suppressed	23	Suppressed
+	"Summit County, OH"	"39153"	"Central or South American"	"4"	Suppressed	207	Suppressed
+	"Summit County, OH"	"39153"	"Non-Hispanic White"	"6"	236	40320	5.85
+	"Summit County, OH"	"39153"	"Non-Hispanic Black"	"7"	143	11915	12.00
+	"Unidentified Counties, OH"	"39999"	"Mexican"	"2148-5"	56	10150	5.52
+	"Unidentified Counties, OH"	"39999"	"Puerto Rican"	"2180-8"	Suppressed	2106	Suppressed
+	"Unidentified Counties, OH"	"39999"	"Cuban"	"2182-4"	Suppressed	213	Suppressed
+	"Unidentified Counties, OH"	"39999"	"Central or South American"	"4"	14	1996	7.01 (Unreliable)
+	"Unidentified Counties, OH"	"39999"	"Non-Hispanic White"	"6"	3249	524200	6.20
+	"Unidentified Counties, OH"	"39999"	"Non-Hispanic Black"	"7"	281	22075	12.73
+	"Cleveland County, OK"	"40027"	"Mexican"	"2148-5"	Suppressed	359	Suppressed
+	"Cleveland County, OK"	"40027"	"Puerto Rican"	"2180-8"	Suppressed	27	Suppressed
+	"Cleveland County, OK"	"40027"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Cleveland County, OK"	"40027"	"Central or South American"	"4"	Suppressed	98	Suppressed
+	"Cleveland County, OK"	"40027"	"Non-Hispanic White"	"6"	28	4427	6.32
+	"Cleveland County, OK"	"40027"	"Non-Hispanic Black"	"7"	Suppressed	363	Suppressed
+	"Oklahoma County, OK"	"40109"	"Mexican"	"2148-5"	119	19891	5.98
+	"Oklahoma County, OK"	"40109"	"Puerto Rican"	"2180-8"	Suppressed	403	Suppressed
+	"Oklahoma County, OK"	"40109"	"Cuban"	"2182-4"	Suppressed	88	Suppressed
+	"Oklahoma County, OK"	"40109"	"Central or South American"	"4"	Suppressed	2629	Suppressed
+	"Oklahoma County, OK"	"40109"	"Non-Hispanic White"	"6"	396	57663	6.87
+	"Oklahoma County, OK"	"40109"	"Non-Hispanic Black"	"7"	254	19817	12.82
+	"Tulsa County, OK"	"40143"	"Mexican"	"2148-5"	66	11775	5.61
+	"Tulsa County, OK"	"40143"	"Puerto Rican"	"2180-8"	Suppressed	256	Suppressed
+	"Tulsa County, OK"	"40143"	"Cuban"	"2182-4"	Suppressed	61	Suppressed
+	"Tulsa County, OK"	"40143"	"Central or South American"	"4"	Suppressed	1425	Suppressed
+	"Tulsa County, OK"	"40143"	"Non-Hispanic White"	"6"	342	50028	6.84
+	"Tulsa County, OK"	"40143"	"Non-Hispanic Black"	"7"	156	11703	13.33
+	"Unidentified Counties, OK"	"40999"	"Mexican"	"2148-5"	120	19222	6.24
+	"Unidentified Counties, OK"	"40999"	"Puerto Rican"	"2180-8"	Suppressed	875	Suppressed
+	"Unidentified Counties, OK"	"40999"	"Cuban"	"2182-4"	Suppressed	174	Suppressed
+	"Unidentified Counties, OK"	"40999"	"Central or South American"	"4"	13	1663	7.82 (Unreliable)
+	"Unidentified Counties, OK"	"40999"	"Non-Hispanic White"	"6"	1381	194943	7.08
+	"Unidentified Counties, OK"	"40999"	"Non-Hispanic Black"	"7"	158	12477	12.66
+	"Clackamas County, OR"	"41005"	"Mexican"	"2148-5"	Suppressed	4143	Suppressed
+	"Clackamas County, OR"	"41005"	"Puerto Rican"	"2180-8"	Suppressed	80	Suppressed
+	"Clackamas County, OR"	"41005"	"Cuban"	"2182-4"	Suppressed	36	Suppressed
+	"Clackamas County, OR"	"41005"	"Central or South American"	"4"	Suppressed	311	Suppressed
+	"Clackamas County, OR"	"41005"	"Non-Hispanic White"	"6"	130	28457	4.57
+	"Clackamas County, OR"	"41005"	"Non-Hispanic Black"	"7"	Suppressed	420	Suppressed
+	"Lane County, OR"	"41039"	"Mexican"	"2148-5"	12	3207	3.74 (Unreliable)
+	"Lane County, OR"	"41039"	"Puerto Rican"	"2180-8"	Suppressed	120	Suppressed
+	"Lane County, OR"	"41039"	"Cuban"	"2182-4"	Suppressed	27	Suppressed
+	"Lane County, OR"	"41039"	"Central or South American"	"4"	Suppressed	417	Suppressed
+	"Lane County, OR"	"41039"	"Non-Hispanic White"	"6"	131	25817	5.07
+	"Lane County, OR"	"41039"	"Non-Hispanic Black"	"7"	Suppressed	494	Suppressed
+	"Marion County, OR"	"41047"	"Mexican"	"2148-5"	74	14782	5.01
+	"Marion County, OR"	"41047"	"Puerto Rican"	"2180-8"	Suppressed	64	Suppressed
+	"Marion County, OR"	"41047"	"Cuban"	"2182-4"	Suppressed	29	Suppressed
+	"Marion County, OR"	"41047"	"Central or South American"	"4"	Suppressed	398	Suppressed
+	"Marion County, OR"	"41047"	"Non-Hispanic White"	"6"	132	23403	5.64
+	"Marion County, OR"	"41047"	"Non-Hispanic Black"	"7"	Suppressed	432	Suppressed
+	"Multnomah County, OR"	"41051"	"Mexican"	"2148-5"	56	11896	4.71
+	"Multnomah County, OR"	"41051"	"Puerto Rican"	"2180-8"	Suppressed	282	Suppressed
+	"Multnomah County, OR"	"41051"	"Cuban"	"2182-4"	Suppressed	276	Suppressed
+	"Multnomah County, OR"	"41051"	"Central or South American"	"4"	Suppressed	1279	Suppressed
+	"Multnomah County, OR"	"41051"	"Non-Hispanic White"	"6"	278	57223	4.86
+	"Multnomah County, OR"	"41051"	"Non-Hispanic Black"	"7"	70	6851	10.22
+	"Washington County, OR"	"41067"	"Mexican"	"2148-5"	69	13572	5.08
+	"Washington County, OR"	"41067"	"Puerto Rican"	"2180-8"	Suppressed	211	Suppressed
+	"Washington County, OR"	"41067"	"Cuban"	"2182-4"	Suppressed	76	Suppressed
+	"Washington County, OR"	"41067"	"Central or South American"	"4"	Suppressed	1423	Suppressed
+	"Washington County, OR"	"41067"	"Non-Hispanic White"	"6"	154	39398	3.91
+	"Washington County, OR"	"41067"	"Non-Hispanic Black"	"7"	11	1570	7.01 (Unreliable)
+	"Unidentified Counties, OR"	"41999"	"Mexican"	"2148-5"	117	24254	4.82
+	"Unidentified Counties, OR"	"41999"	"Puerto Rican"	"2180-8"	Suppressed	376	Suppressed
+	"Unidentified Counties, OR"	"41999"	"Cuban"	"2182-4"	Suppressed	102	Suppressed
+	"Unidentified Counties, OR"	"41999"	"Central or South American"	"4"	Suppressed	997	Suppressed
+	"Unidentified Counties, OR"	"41999"	"Non-Hispanic White"	"6"	607	118513	5.12
+	"Unidentified Counties, OR"	"41999"	"Non-Hispanic Black"	"7"	Suppressed	940	Suppressed
+	"Allegheny County, PA"	"42003"	"Mexican"	"2148-5"	Suppressed	741	Suppressed
+	"Allegheny County, PA"	"42003"	"Puerto Rican"	"2180-8"	Suppressed	418	Suppressed
+	"Allegheny County, PA"	"42003"	"Cuban"	"2182-4"	Suppressed	69	Suppressed
+	"Allegheny County, PA"	"42003"	"Central or South American"	"4"	Suppressed	537	Suppressed
+	"Allegheny County, PA"	"42003"	"Non-Hispanic White"	"6"	406	85801	4.73
+	"Allegheny County, PA"	"42003"	"Non-Hispanic Black"	"7"	337	23797	14.16
+	"Berks County, PA"	"42011"	"Mexican"	"2148-5"	17	2449	6.94 (Unreliable)
+	"Berks County, PA"	"42011"	"Puerto Rican"	"2180-8"	63	7216	8.73
+	"Berks County, PA"	"42011"	"Cuban"	"2182-4"	Suppressed	73	Suppressed
+	"Berks County, PA"	"42011"	"Central or South American"	"4"	Suppressed	957	Suppressed
+	"Berks County, PA"	"42011"	"Non-Hispanic White"	"6"	142	27264	5.21
+	"Berks County, PA"	"42011"	"Non-Hispanic Black"	"7"	45	2342	19.21
+	"Bucks County, PA"	"42017"	"Mexican"	"2148-5"	Suppressed	1235	Suppressed
+	"Bucks County, PA"	"42017"	"Puerto Rican"	"2180-8"	10	1295	7.72 (Unreliable)
+	"Bucks County, PA"	"42017"	"Cuban"	"2182-4"	Suppressed	85	Suppressed
+	"Bucks County, PA"	"42017"	"Central or South American"	"4"	Suppressed	1093	Suppressed
+	"Bucks County, PA"	"42017"	"Non-Hispanic White"	"6"	179	44837	3.99
+	"Bucks County, PA"	"42017"	"Non-Hispanic Black"	"7"	22	2866	7.68
+	"Chester County, PA"	"42029"	"Mexican"	"2148-5"	25	4158	6.01
+	"Chester County, PA"	"42029"	"Puerto Rican"	"2180-8"	Suppressed	1077	Suppressed
+	"Chester County, PA"	"42029"	"Cuban"	"2182-4"	Suppressed	69	Suppressed
+	"Chester County, PA"	"42029"	"Central or South American"	"4"	Suppressed	824	Suppressed
+	"Chester County, PA"	"42029"	"Non-Hispanic White"	"6"	170	37629	4.52
+	"Chester County, PA"	"42029"	"Non-Hispanic Black"	"7"	30	3175	9.45
+	"Dauphin County, PA"	"42043"	"Mexican"	"2148-5"	Suppressed	707	Suppressed
+	"Dauphin County, PA"	"42043"	"Puerto Rican"	"2180-8"	25	2189	11.42
+	"Dauphin County, PA"	"42043"	"Cuban"	"2182-4"	Suppressed	99	Suppressed
+	"Dauphin County, PA"	"42043"	"Central or South American"	"4"	Suppressed	349	Suppressed
+	"Dauphin County, PA"	"42043"	"Non-Hispanic White"	"6"	87	18062	4.82
+	"Dauphin County, PA"	"42043"	"Non-Hispanic Black"	"7"	89	7487	11.89
+	"Delaware County, PA"	"42045"	"Mexican"	"2148-5"	Suppressed	369	Suppressed
+	"Delaware County, PA"	"42045"	"Puerto Rican"	"2180-8"	Suppressed	1058	Suppressed
+	"Delaware County, PA"	"42045"	"Cuban"	"2182-4"	Suppressed	59	Suppressed
+	"Delaware County, PA"	"42045"	"Central or South American"	"4"	Suppressed	744	Suppressed
+	"Delaware County, PA"	"42045"	"Non-Hispanic White"	"6"	166	36442	4.56
+	"Delaware County, PA"	"42045"	"Non-Hispanic Black"	"7"	215	16376	13.13
+	"Erie County, PA"	"42049"	"Mexican"	"2148-5"	Suppressed	300	Suppressed
+	"Erie County, PA"	"42049"	"Puerto Rican"	"2180-8"	Suppressed	1080	Suppressed
+	"Erie County, PA"	"42049"	"Cuban"	"2182-4"	Suppressed	24	Suppressed
+	"Erie County, PA"	"42049"	"Central or South American"	"4"	Suppressed	91	Suppressed
+	"Erie County, PA"	"42049"	"Non-Hispanic White"	"6"	152	22983	6.61
+	"Erie County, PA"	"42049"	"Non-Hispanic Black"	"7"	53	3766	14.07
+	"Lancaster County, PA"	"42071"	"Mexican"	"2148-5"	Suppressed	556	Suppressed
+	"Lancaster County, PA"	"42071"	"Puerto Rican"	"2180-8"	53	5575	9.51
+	"Lancaster County, PA"	"42071"	"Cuban"	"2182-4"	Suppressed	245	Suppressed
+	"Lancaster County, PA"	"42071"	"Central or South American"	"4"	Suppressed	518	Suppressed
+	"Lancaster County, PA"	"42071"	"Non-Hispanic White"	"6"	337	51892	6.49
+	"Lancaster County, PA"	"42071"	"Non-Hispanic Black"	"7"	26	2653	9.80
+	"Lehigh County, PA"	"42077"	"Mexican"	"2148-5"	Suppressed	663	Suppressed
+	"Lehigh County, PA"	"42077"	"Puerto Rican"	"2180-8"	59	7008	8.42
+	"Lehigh County, PA"	"42077"	"Cuban"	"2182-4"	Suppressed	123	Suppressed
+	"Lehigh County, PA"	"42077"	"Central or South American"	"4"	Suppressed	1274	Suppressed
+	"Lehigh County, PA"	"42077"	"Non-Hispanic White"	"6"	111	20933	5.30
+	"Lehigh County, PA"	"42077"	"Non-Hispanic Black"	"7"	35	2838	12.33
+	"Luzerne County, PA"	"42079"	"Mexican"	"2148-5"	Suppressed	743	Suppressed
+	"Luzerne County, PA"	"42079"	"Puerto Rican"	"2180-8"	11	1213	9.07 (Unreliable)
+	"Luzerne County, PA"	"42079"	"Cuban"	"2182-4"	Suppressed	37	Suppressed
+	"Luzerne County, PA"	"42079"	"Central or South American"	"4"	Suppressed	347	Suppressed
+	"Luzerne County, PA"	"42079"	"Non-Hispanic White"	"6"	118	21956	5.37
+	"Luzerne County, PA"	"42079"	"Non-Hispanic Black"	"7"	25	1464	17.08
+	"Montgomery County, PA"	"42091"	"Mexican"	"2148-5"	15	3160	4.75 (Unreliable)
+	"Montgomery County, PA"	"42091"	"Puerto Rican"	"2180-8"	Suppressed	1338	Suppressed
+	"Montgomery County, PA"	"42091"	"Cuban"	"2182-4"	Suppressed	131	Suppressed
+	"Montgomery County, PA"	"42091"	"Central or South American"	"4"	Suppressed	1323	Suppressed
+	"Montgomery County, PA"	"42091"	"Non-Hispanic White"	"6"	202	58814	3.43
+	"Montgomery County, PA"	"42091"	"Non-Hispanic Black"	"7"	89	7855	11.33
+	"Northampton County, PA"	"42095"	"Mexican"	"2148-5"	Suppressed	483	Suppressed
+	"Northampton County, PA"	"42095"	"Puerto Rican"	"2180-8"	30	2958	10.14
+	"Northampton County, PA"	"42095"	"Cuban"	"2182-4"	Suppressed	65	Suppressed
+	"Northampton County, PA"	"42095"	"Central or South American"	"4"	Suppressed	751	Suppressed
+	"Northampton County, PA"	"42095"	"Non-Hispanic White"	"6"	103	19291	5.34
+	"Northampton County, PA"	"42095"	"Non-Hispanic Black"	"7"	18	1668	10.79 (Unreliable)
+	"Philadelphia County, PA"	"42101"	"Mexican"	"2148-5"	13	3335	3.90 (Unreliable)
+	"Philadelphia County, PA"	"42101"	"Puerto Rican"	"2180-8"	159	21168	7.51
+	"Philadelphia County, PA"	"42101"	"Cuban"	"2182-4"	Suppressed	445	Suppressed
+	"Philadelphia County, PA"	"42101"	"Central or South American"	"4"	17	3524	4.82 (Unreliable)
+	"Philadelphia County, PA"	"42101"	"Non-Hispanic White"	"6"	265	56097	4.72
+	"Philadelphia County, PA"	"42101"	"Non-Hispanic Black"	"7"	1152	94928	12.14
+	"Westmoreland County, PA"	"42129"	"Mexican"	"2148-5"	Suppressed	138	Suppressed
+	"Westmoreland County, PA"	"42129"	"Puerto Rican"	"2180-8"	Suppressed	88	Suppressed
+	"Westmoreland County, PA"	"42129"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Westmoreland County, PA"	"42129"	"Central or South American"	"4"	Suppressed	45	Suppressed
+	"Westmoreland County, PA"	"42129"	"Non-Hispanic White"	"6"	153	27131	5.64
+	"Westmoreland County, PA"	"42129"	"Non-Hispanic Black"	"7"	Suppressed	1053	Suppressed
+	"York County, PA"	"42133"	"Mexican"	"2148-5"	Suppressed	954	Suppressed
+	"York County, PA"	"42133"	"Puerto Rican"	"2180-8"	21	2674	7.85
+	"York County, PA"	"42133"	"Cuban"	"2182-4"	Suppressed	36	Suppressed
+	"York County, PA"	"42133"	"Central or South American"	"4"	Suppressed	396	Suppressed
+	"York County, PA"	"42133"	"Non-Hispanic White"	"6"	173	36256	4.77
+	"York County, PA"	"42133"	"Non-Hispanic Black"	"7"	44	3520	12.50
+	"Unidentified Counties, PA"	"42999"	"Mexican"	"2148-5"	16	4189	3.82 (Unreliable)
+	"Unidentified Counties, PA"	"42999"	"Puerto Rican"	"2180-8"	58	6750	8.59
+	"Unidentified Counties, PA"	"42999"	"Cuban"	"2182-4"	Suppressed	327	Suppressed
+	"Unidentified Counties, PA"	"42999"	"Central or South American"	"4"	10	2388	4.19 (Unreliable)
+	"Unidentified Counties, PA"	"42999"	"Non-Hispanic White"	"6"	2056	348943	5.89
+	"Unidentified Counties, PA"	"42999"	"Non-Hispanic Black"	"7"	173	12843	13.47
+	"Providence County, RI"	"44007"	"Mexican"	"2148-5"	Suppressed	1129	Suppressed
+	"Providence County, RI"	"44007"	"Puerto Rican"	"2180-8"	36	5829	6.18
+	"Providence County, RI"	"44007"	"Cuban"	"2182-4"	Suppressed	142	Suppressed
+	"Providence County, RI"	"44007"	"Central or South American"	"4"	42	7670	5.48
+	"Providence County, RI"	"44007"	"Non-Hispanic White"	"6"	161	32697	4.92
+	"Providence County, RI"	"44007"	"Non-Hispanic Black"	"7"	88	7725	11.39
+	"Unidentified Counties, RI"	"44999"	"Mexican"	"2148-5"	Suppressed	263	Suppressed
+	"Unidentified Counties, RI"	"44999"	"Puerto Rican"	"2180-8"	Suppressed	607	Suppressed
+	"Unidentified Counties, RI"	"44999"	"Cuban"	"2182-4"	Suppressed	53	Suppressed
+	"Unidentified Counties, RI"	"44999"	"Central or South American"	"4"	Suppressed	527	Suppressed
+	"Unidentified Counties, RI"	"44999"	"Non-Hispanic White"	"6"	119	26597	4.47
+	"Unidentified Counties, RI"	"44999"	"Non-Hispanic Black"	"7"	Suppressed	744	Suppressed
+	"Charleston County, SC"	"45019"	"Mexican"	"2148-5"	16	2775	5.77 (Unreliable)
+	"Charleston County, SC"	"45019"	"Puerto Rican"	"2180-8"	Suppressed	313	Suppressed
+	"Charleston County, SC"	"45019"	"Cuban"	"2182-4"	Suppressed	58	Suppressed
+	"Charleston County, SC"	"45019"	"Central or South American"	"4"	Suppressed	837	Suppressed
+	"Charleston County, SC"	"45019"	"Non-Hispanic White"	"6"	83	23938	3.47
+	"Charleston County, SC"	"45019"	"Non-Hispanic Black"	"7"	155	14814	10.46
+	"Greenville County, SC"	"45045"	"Mexican"	"2148-5"	27	4330	6.24
+	"Greenville County, SC"	"45045"	"Puerto Rican"	"2180-8"	Suppressed	523	Suppressed
+	"Greenville County, SC"	"45045"	"Cuban"	"2182-4"	Suppressed	98	Suppressed
+	"Greenville County, SC"	"45045"	"Central or South American"	"4"	12	2491	4.82 (Unreliable)
+	"Greenville County, SC"	"45045"	"Non-Hispanic White"	"6"	156	36560	4.27
+	"Greenville County, SC"	"45045"	"Non-Hispanic Black"	"7"	143	12137	11.78
+	"Horry County, SC"	"45051"	"Mexican"	"2148-5"	Suppressed	346	Suppressed
+	"Horry County, SC"	"45051"	"Puerto Rican"	"2180-8"	Suppressed	65	Suppressed
+	"Horry County, SC"	"45051"	"Cuban"	"2182-4"	Suppressed	11	Suppressed
+	"Horry County, SC"	"45051"	"Central or South American"	"4"	Suppressed	176	Suppressed
+	"Horry County, SC"	"45051"	"Non-Hispanic White"	"6"	33	4327	7.63
+	"Horry County, SC"	"45051"	"Non-Hispanic Black"	"7"	Suppressed	1107	Suppressed
+	"Lexington County, SC"	"45063"	"Mexican"	"2148-5"	Suppressed	337	Suppressed
+	"Lexington County, SC"	"45063"	"Puerto Rican"	"2180-8"	Suppressed	78	Suppressed
+	"Lexington County, SC"	"45063"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Lexington County, SC"	"45063"	"Central or South American"	"4"	Suppressed	126	Suppressed
+	"Lexington County, SC"	"45063"	"Non-Hispanic White"	"6"	28	4545	6.16
+	"Lexington County, SC"	"45063"	"Non-Hispanic Black"	"7"	Suppressed	1074	Suppressed
+	"Richland County, SC"	"45079"	"Mexican"	"2148-5"	Suppressed	1532	Suppressed
+	"Richland County, SC"	"45079"	"Puerto Rican"	"2180-8"	Suppressed	544	Suppressed
+	"Richland County, SC"	"45079"	"Cuban"	"2182-4"	Suppressed	59	Suppressed
+	"Richland County, SC"	"45079"	"Central or South American"	"4"	Suppressed	641	Suppressed
+	"Richland County, SC"	"45079"	"Non-Hispanic White"	"6"	63	16165	3.90
+	"Richland County, SC"	"45079"	"Non-Hispanic Black"	"7"	248	23461	10.57
+	"Spartanburg County, SC"	"45083"	"Mexican"	"2148-5"	14	2274	6.16 (Unreliable)
+	"Spartanburg County, SC"	"45083"	"Puerto Rican"	"2180-8"	Suppressed	213	Suppressed
+	"Spartanburg County, SC"	"45083"	"Cuban"	"2182-4"	Suppressed	33	Suppressed
+	"Spartanburg County, SC"	"45083"	"Central or South American"	"4"	Suppressed	413	Suppressed
+	"Spartanburg County, SC"	"45083"	"Non-Hispanic White"	"6"	106	21275	4.98
+	"Spartanburg County, SC"	"45083"	"Non-Hispanic Black"	"7"	70	7682	9.11
+	"Unidentified Counties, SC"	"45999"	"Mexican"	"2148-5"	84	16859	4.98
+	"Unidentified Counties, SC"	"45999"	"Puerto Rican"	"2180-8"	13	2067	6.29 (Unreliable)
+	"Unidentified Counties, SC"	"45999"	"Cuban"	"2182-4"	Suppressed	377	Suppressed
+	"Unidentified Counties, SC"	"45999"	"Central or South American"	"4"	23	5050	4.55
+	"Unidentified Counties, SC"	"45999"	"Non-Hispanic White"	"6"	1154	196168	5.88
+	"Unidentified Counties, SC"	"45999"	"Non-Hispanic Black"	"7"	1334	108967	12.24
+	"Unidentified Counties, SD"	"46999"	"Mexican"	"2148-5"	21	2637	7.96
+	"Unidentified Counties, SD"	"46999"	"Puerto Rican"	"2180-8"	Suppressed	330	Suppressed
+	"Unidentified Counties, SD"	"46999"	"Cuban"	"2182-4"	Suppressed	49	Suppressed
+	"Unidentified Counties, SD"	"46999"	"Central or South American"	"4"	Suppressed	1077	Suppressed
+	"Unidentified Counties, SD"	"46999"	"Non-Hispanic White"	"6"	460	81879	5.62
+	"Unidentified Counties, SD"	"46999"	"Non-Hispanic Black"	"7"	27	2491	10.84
+	"Davidson County, TN"	"47037"	"Mexican"	"2148-5"	46	9403	4.89
+	"Davidson County, TN"	"47037"	"Puerto Rican"	"2180-8"	Suppressed	525	Suppressed
+	"Davidson County, TN"	"47037"	"Cuban"	"2182-4"	Suppressed	246	Suppressed
+	"Davidson County, TN"	"47037"	"Central or South American"	"4"	17	4030	4.22 (Unreliable)
+	"Davidson County, TN"	"47037"	"Non-Hispanic White"	"6"	239	43903	5.44
+	"Davidson County, TN"	"47037"	"Non-Hispanic Black"	"7"	301	26556	11.33
+	"Hamilton County, TN"	"47065"	"Mexican"	"2148-5"	13	1541	8.44 (Unreliable)
+	"Hamilton County, TN"	"47065"	"Puerto Rican"	"2180-8"	Suppressed	160	Suppressed
+	"Hamilton County, TN"	"47065"	"Cuban"	"2182-4"	Suppressed	54	Suppressed
+	"Hamilton County, TN"	"47065"	"Central or South American"	"4"	19	2234	8.50 (Unreliable)
+	"Hamilton County, TN"	"47065"	"Non-Hispanic White"	"6"	143	23625	6.05
+	"Hamilton County, TN"	"47065"	"Non-Hispanic Black"	"7"	122	9124	13.37
+	"Knox County, TN"	"47093"	"Mexican"	"2148-5"	11	2007	5.48 (Unreliable)
+	"Knox County, TN"	"47093"	"Puerto Rican"	"2180-8"	Suppressed	168	Suppressed
+	"Knox County, TN"	"47093"	"Cuban"	"2182-4"	Suppressed	49	Suppressed
+	"Knox County, TN"	"47093"	"Central or South American"	"4"	Suppressed	843	Suppressed
+	"Knox County, TN"	"47093"	"Non-Hispanic White"	"6"	195	37743	5.17
+	"Knox County, TN"	"47093"	"Non-Hispanic Black"	"7"	57	5028	11.34
+	"Rutherford County, TN"	"47149"	"Mexican"	"2148-5"	Suppressed	559	Suppressed
+	"Rutherford County, TN"	"47149"	"Puerto Rican"	"2180-8"	Suppressed	52	Suppressed
+	"Rutherford County, TN"	"47149"	"Cuban"	"2182-4"	Suppressed	15	Suppressed
+	"Rutherford County, TN"	"47149"	"Central or South American"	"4"	Suppressed	186	Suppressed
+	"Rutherford County, TN"	"47149"	"Non-Hispanic White"	"6"	33	5537	5.96
+	"Rutherford County, TN"	"47149"	"Non-Hispanic Black"	"7"	10	1202	8.32 (Unreliable)
+	"Shelby County, TN"	"47157"	"Mexican"	"2148-5"	37	8854	4.18
+	"Shelby County, TN"	"47157"	"Puerto Rican"	"2180-8"	Suppressed	209	Suppressed
+	"Shelby County, TN"	"47157"	"Cuban"	"2182-4"	Suppressed	100	Suppressed
+	"Shelby County, TN"	"47157"	"Central or South American"	"4"	15	2311	6.49 (Unreliable)
+	"Shelby County, TN"	"47157"	"Non-Hispanic White"	"6"	174	33797	5.15
+	"Shelby County, TN"	"47157"	"Non-Hispanic Black"	"7"	1088	76204	14.28
+	"Unidentified Counties, TN"	"47999"	"Mexican"	"2148-5"	101	20608	4.90
+	"Unidentified Counties, TN"	"47999"	"Puerto Rican"	"2180-8"	16	1864	8.58 (Unreliable)
+	"Unidentified Counties, TN"	"47999"	"Cuban"	"2182-4"	Suppressed	415	Suppressed
+	"Unidentified Counties, TN"	"47999"	"Central or South American"	"4"	29	4353	6.66
+	"Unidentified Counties, TN"	"47999"	"Non-Hispanic White"	"6"	2302	355129	6.48
+	"Unidentified Counties, TN"	"47999"	"Non-Hispanic Black"	"7"	404	35609	11.35
+	"Bell County, TX"	"48027"	"Mexican"	"2148-5"	11	2222	4.95 (Unreliable)
+	"Bell County, TX"	"48027"	"Puerto Rican"	"2180-8"	Suppressed	479	Suppressed
+	"Bell County, TX"	"48027"	"Cuban"	"2182-4"	Suppressed	28	Suppressed
+	"Bell County, TX"	"48027"	"Central or South American"	"4"	Suppressed	175	Suppressed
+	"Bell County, TX"	"48027"	"Non-Hispanic White"	"6"	35	5891	5.94
+	"Bell County, TX"	"48027"	"Non-Hispanic Black"	"7"	27	2908	9.28
+	"Bexar County, TX"	"48029"	"Mexican"	"2148-5"	734	125566	5.85
+	"Bexar County, TX"	"48029"	"Puerto Rican"	"2180-8"	12	1742	6.89 (Unreliable)
+	"Bexar County, TX"	"48029"	"Cuban"	"2182-4"	Suppressed	246	Suppressed
+	"Bexar County, TX"	"48029"	"Central or South American"	"4"	13	2772	4.69 (Unreliable)
+	"Bexar County, TX"	"48029"	"Non-Hispanic White"	"6"	254	58235	4.36
+	"Bexar County, TX"	"48029"	"Non-Hispanic Black"	"7"	168	15799	10.63
+	"Brazoria County, TX"	"48039"	"Mexican"	"2148-5"	11	2515	4.37 (Unreliable)
+	"Brazoria County, TX"	"48039"	"Puerto Rican"	"2180-8"	Suppressed	53	Suppressed
+	"Brazoria County, TX"	"48039"	"Cuban"	"2182-4"	Suppressed	11	Suppressed
+	"Brazoria County, TX"	"48039"	"Central or South American"	"4"	Suppressed	202	Suppressed
+	"Brazoria County, TX"	"48039"	"Non-Hispanic White"	"6"	16	4665	3.43 (Unreliable)
+	"Brazoria County, TX"	"48039"	"Non-Hispanic Black"	"7"	Suppressed	1134	Suppressed
+	"Cameron County, TX"	"48061"	"Mexican"	"2148-5"	351	62770	5.59
+	"Cameron County, TX"	"48061"	"Puerto Rican"	"2180-8"	Suppressed	66	Suppressed
+	"Cameron County, TX"	"48061"	"Cuban"	"2182-4"	Suppressed	19	Suppressed
+	"Cameron County, TX"	"48061"	"Central or South American"	"4"	Suppressed	191	Suppressed
+	"Cameron County, TX"	"48061"	"Non-Hispanic White"	"6"	Suppressed	2575	Suppressed
+	"Cameron County, TX"	"48061"	"Non-Hispanic Black"	"7"	Suppressed	168	Suppressed
+	"Collin County, TX"	"48085"	"Mexican"	"2148-5"	72	13706	5.25
+	"Collin County, TX"	"48085"	"Puerto Rican"	"2180-8"	Suppressed	480	Suppressed
+	"Collin County, TX"	"48085"	"Cuban"	"2182-4"	Suppressed	138	Suppressed
+	"Collin County, TX"	"48085"	"Central or South American"	"4"	Suppressed	2431	Suppressed
+	"Collin County, TX"	"48085"	"Non-Hispanic White"	"6"	219	54290	4.03
+	"Collin County, TX"	"48085"	"Non-Hispanic Black"	"7"	64	8703	7.35
+	"Dallas County, TX"	"48113"	"Mexican"	"2148-5"	963	155357	6.20
+	"Dallas County, TX"	"48113"	"Puerto Rican"	"2180-8"	Suppressed	1283	Suppressed
+	"Dallas County, TX"	"48113"	"Cuban"	"2182-4"	Suppressed	448	Suppressed
+	"Dallas County, TX"	"48113"	"Central or South American"	"4"	106	18055	5.87
+	"Dallas County, TX"	"48113"	"Non-Hispanic White"	"6"	394	80326	4.91
+	"Dallas County, TX"	"48113"	"Non-Hispanic Black"	"7"	933	77763	12.00
+	"Denton County, TX"	"48121"	"Mexican"	"2148-5"	75	16502	4.54
+	"Denton County, TX"	"48121"	"Puerto Rican"	"2180-8"	Suppressed	517	Suppressed
+	"Denton County, TX"	"48121"	"Cuban"	"2182-4"	Suppressed	151	Suppressed
+	"Denton County, TX"	"48121"	"Central or South American"	"4"	Suppressed	2135	Suppressed
+	"Denton County, TX"	"48121"	"Non-Hispanic White"	"6"	218	48670	4.48
+	"Denton County, TX"	"48121"	"Non-Hispanic Black"	"7"	62	7304	8.49
+	"El Paso County, TX"	"48141"	"Mexican"	"2148-5"	311	74323	4.18
+	"El Paso County, TX"	"48141"	"Puerto Rican"	"2180-8"	Suppressed	628	Suppressed
+	"El Paso County, TX"	"48141"	"Cuban"	"2182-4"	Suppressed	85	Suppressed
+	"El Paso County, TX"	"48141"	"Central or South American"	"4"	Suppressed	525	Suppressed
+	"El Paso County, TX"	"48141"	"Non-Hispanic White"	"6"	65	13659	4.76
+	"El Paso County, TX"	"48141"	"Non-Hispanic Black"	"7"	36	3412	10.55
+	"Fort Bend County, TX"	"48157"	"Mexican"	"2148-5"	57	13434	4.24
+	"Fort Bend County, TX"	"48157"	"Puerto Rican"	"2180-8"	Suppressed	394	Suppressed
+	"Fort Bend County, TX"	"48157"	"Cuban"	"2182-4"	Suppressed	212	Suppressed
+	"Fort Bend County, TX"	"48157"	"Central or South American"	"4"	11	3721	2.96 (Unreliable)
+	"Fort Bend County, TX"	"48157"	"Non-Hispanic White"	"6"	87	24559	3.54
+	"Fort Bend County, TX"	"48157"	"Non-Hispanic Black"	"7"	117	15443	7.58
+	"Galveston County, TX"	"48167"	"Mexican"	"2148-5"	34	8136	4.18
+	"Galveston County, TX"	"48167"	"Puerto Rican"	"2180-8"	Suppressed	148	Suppressed
+	"Galveston County, TX"	"48167"	"Cuban"	"2182-4"	Suppressed	56	Suppressed
+	"Galveston County, TX"	"48167"	"Central or South American"	"4"	Suppressed	1111	Suppressed
+	"Galveston County, TX"	"48167"	"Non-Hispanic White"	"6"	105	20026	5.24
+	"Galveston County, TX"	"48167"	"Non-Hispanic Black"	"7"	45	5018	8.97
+	"Harris County, TX"	"48201"	"Mexican"	"2148-5"	1139	217128	5.25
+	"Harris County, TX"	"48201"	"Puerto Rican"	"2180-8"	21	2855	7.36
+	"Harris County, TX"	"48201"	"Cuban"	"2182-4"	Suppressed	2068	Suppressed
+	"Harris County, TX"	"48201"	"Central or South American"	"4"	266	57159	4.65
+	"Harris County, TX"	"48201"	"Non-Hispanic White"	"6"	735	152025	4.83
+	"Harris County, TX"	"48201"	"Non-Hispanic Black"	"7"	1227	116855	10.50
+	"Hidalgo County, TX"	"48215"	"Mexican"	"2148-5"	408	89168	4.58
+	"Hidalgo County, TX"	"48215"	"Puerto Rican"	"2180-8"	Suppressed	108	Suppressed
+	"Hidalgo County, TX"	"48215"	"Cuban"	"2182-4"	Suppressed	63	Suppressed
+	"Hidalgo County, TX"	"48215"	"Central or South American"	"4"	Suppressed	618	Suppressed
+	"Hidalgo County, TX"	"48215"	"Non-Hispanic White"	"6"	Suppressed	3062	Suppressed
+	"Hidalgo County, TX"	"48215"	"Non-Hispanic Black"	"7"	Suppressed	243	Suppressed
+	"Jefferson County, TX"	"48245"	"Mexican"	"2148-5"	31	6899	4.49
+	"Jefferson County, TX"	"48245"	"Puerto Rican"	"2180-8"	Suppressed	97	Suppressed
+	"Jefferson County, TX"	"48245"	"Cuban"	"2182-4"	Suppressed	44	Suppressed
+	"Jefferson County, TX"	"48245"	"Central or South American"	"4"	Suppressed	776	Suppressed
+	"Jefferson County, TX"	"48245"	"Non-Hispanic White"	"6"	74	11155	6.63
+	"Jefferson County, TX"	"48245"	"Non-Hispanic Black"	"7"	138	11584	11.91
+	"Lubbock County, TX"	"48303"	"Mexican"	"2148-5"	13	2294	5.67 (Unreliable)
+	"Lubbock County, TX"	"48303"	"Puerto Rican"	"2180-8"	Suppressed	16	Suppressed
+	"Lubbock County, TX"	"48303"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Lubbock County, TX"	"48303"	"Central or South American"	"4"	Suppressed	39	Suppressed
+	"Lubbock County, TX"	"48303"	"Non-Hispanic White"	"6"	Suppressed	3888	Suppressed
+	"Lubbock County, TX"	"48303"	"Non-Hispanic Black"	"7"	Suppressed	724	Suppressed
+	"Montgomery County, TX"	"48339"	"Mexican"	"2148-5"	61	12709	4.80
+	"Montgomery County, TX"	"48339"	"Puerto Rican"	"2180-8"	Suppressed	247	Suppressed
+	"Montgomery County, TX"	"48339"	"Cuban"	"2182-4"	Suppressed	108	Suppressed
+	"Montgomery County, TX"	"48339"	"Central or South American"	"4"	Suppressed	2566	Suppressed
+	"Montgomery County, TX"	"48339"	"Non-Hispanic White"	"6"	196	37038	5.29
+	"Montgomery County, TX"	"48339"	"Non-Hispanic Black"	"7"	25	2736	9.14
+	"Nueces County, TX"	"48355"	"Mexican"	"2148-5"	74	13093	5.65
+	"Nueces County, TX"	"48355"	"Puerto Rican"	"2180-8"	Suppressed	164	Suppressed
+	"Nueces County, TX"	"48355"	"Cuban"	"2182-4"	Suppressed	46	Suppressed
+	"Nueces County, TX"	"48355"	"Central or South American"	"4"	Suppressed	291	Suppressed
+	"Nueces County, TX"	"48355"	"Non-Hispanic White"	"6"	56	11359	4.93
+	"Nueces County, TX"	"48355"	"Non-Hispanic Black"	"7"	Suppressed	1320	Suppressed
+	"Tarrant County, TX"	"48439"	"Mexican"	"2148-5"	556	79438	7.00
+	"Tarrant County, TX"	"48439"	"Puerto Rican"	"2180-8"	13	1825	7.12 (Unreliable)
+	"Tarrant County, TX"	"48439"	"Cuban"	"2182-4"	Suppressed	391	Suppressed
+	"Tarrant County, TX"	"48439"	"Central or South American"	"4"	26	5229	4.97
+	"Tarrant County, TX"	"48439"	"Non-Hispanic White"	"6"	590	106686	5.53
+	"Tarrant County, TX"	"48439"	"Non-Hispanic Black"	"7"	529	41435	12.77
+	"Travis County, TX"	"48453"	"Mexican"	"2148-5"	274	57618	4.76
+	"Travis County, TX"	"48453"	"Puerto Rican"	"2180-8"	Suppressed	701	Suppressed
+	"Travis County, TX"	"48453"	"Cuban"	"2182-4"	Suppressed	550	Suppressed
+	"Travis County, TX"	"48453"	"Central or South American"	"4"	20	4906	4.08
+	"Travis County, TX"	"48453"	"Non-Hispanic White"	"6"	223	56269	3.96
+	"Travis County, TX"	"48453"	"Non-Hispanic Black"	"7"	127	11517	11.03
+	"Webb County, TX"	"48479"	"Mexican"	"2148-5"	48	7400	6.49
+	"Webb County, TX"	"48479"	"Puerto Rican"	"2180-8"	Suppressed	20	Suppressed
+	"Webb County, TX"	"48479"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Webb County, TX"	"48479"	"Central or South American"	"4"	Suppressed	70	Suppressed
+	"Webb County, TX"	"48479"	"Non-Hispanic White"	"6"	Suppressed	119	Suppressed
+	"Webb County, TX"	"48479"	"Non-Hispanic Black"	"7"	Suppressed	10	Suppressed
+	"Williamson County, TX"	"48491"	"Mexican"	"2148-5"	14	2863	4.89 (Unreliable)
+	"Williamson County, TX"	"48491"	"Puerto Rican"	"2180-8"	Suppressed	104	Suppressed
+	"Williamson County, TX"	"48491"	"Cuban"	"2182-4"	Suppressed	40	Suppressed
+	"Williamson County, TX"	"48491"	"Central or South American"	"4"	Suppressed	176	Suppressed
+	"Williamson County, TX"	"48491"	"Non-Hispanic White"	"6"	35	7366	4.75
+	"Williamson County, TX"	"48491"	"Non-Hispanic Black"	"7"	Suppressed	847	Suppressed
+	"Unidentified Counties, TX"	"48999"	"Mexican"	"2148-5"	1784	325781	5.48
+	"Unidentified Counties, TX"	"48999"	"Puerto Rican"	"2180-8"	30	4436	6.76
+	"Unidentified Counties, TX"	"48999"	"Cuban"	"2182-4"	Suppressed	914	Suppressed
+	"Unidentified Counties, TX"	"48999"	"Central or South American"	"4"	37	8415	4.40
+	"Unidentified Counties, TX"	"48999"	"Non-Hispanic White"	"6"	3157	537859	5.87
+	"Unidentified Counties, TX"	"48999"	"Non-Hispanic Black"	"7"	964	88638	10.88
+	"Davis County, UT"	"49011"	"Mexican"	"2148-5"	Suppressed	618	Suppressed
+	"Davis County, UT"	"49011"	"Puerto Rican"	"2180-8"	Suppressed	31	Suppressed
+	"Davis County, UT"	"49011"	"Cuban"	"2182-4"	Suppressed	13	Suppressed
+	"Davis County, UT"	"49011"	"Central or South American"	"4"	Suppressed	235	Suppressed
+	"Davis County, UT"	"49011"	"Non-Hispanic White"	"6"	44	9859	4.46
+	"Davis County, UT"	"49011"	"Non-Hispanic Black"	"7"	Suppressed	123	Suppressed
+	"Salt Lake County, UT"	"49035"	"Mexican"	"2148-5"	151	27238	5.54
+	"Salt Lake County, UT"	"49035"	"Puerto Rican"	"2180-8"	Suppressed	559	Suppressed
+	"Salt Lake County, UT"	"49035"	"Cuban"	"2182-4"	Suppressed	136	Suppressed
+	"Salt Lake County, UT"	"49035"	"Central or South American"	"4"	20	4172	4.79
+	"Salt Lake County, UT"	"49035"	"Non-Hispanic White"	"6"	531	112285	4.73
+	"Salt Lake County, UT"	"49035"	"Non-Hispanic Black"	"7"	35	3240	10.80
+	"Utah County, UT"	"49049"	"Mexican"	"2148-5"	46	8244	5.58
+	"Utah County, UT"	"49049"	"Puerto Rican"	"2180-8"	Suppressed	200	Suppressed
+	"Utah County, UT"	"49049"	"Cuban"	"2182-4"	Suppressed	66	Suppressed
+	"Utah County, UT"	"49049"	"Central or South American"	"4"	12	2231	5.38 (Unreliable)
+	"Utah County, UT"	"49049"	"Non-Hispanic White"	"6"	377	91773	4.11
+	"Utah County, UT"	"49049"	"Non-Hispanic Black"	"7"	Suppressed	499	Suppressed
+	"Unidentified Counties, UT"	"49999"	"Mexican"	"2148-5"	102	17820	5.72
+	"Unidentified Counties, UT"	"49999"	"Puerto Rican"	"2180-8"	Suppressed	394	Suppressed
+	"Unidentified Counties, UT"	"49999"	"Cuban"	"2182-4"	Suppressed	79	Suppressed
+	"Unidentified Counties, UT"	"49999"	"Central or South American"	"4"	16	2777	5.76 (Unreliable)
+	"Unidentified Counties, UT"	"49999"	"Non-Hispanic White"	"6"	781	153678	5.08
+	"Unidentified Counties, UT"	"49999"	"Non-Hispanic Black"	"7"	14	1216	11.51 (Unreliable)
+	"Unidentified Counties, VT"	"50999"	"Mexican"	"2148-5"	Suppressed	233	Suppressed
+	"Unidentified Counties, VT"	"50999"	"Puerto Rican"	"2180-8"	Suppressed	184	Suppressed
+	"Unidentified Counties, VT"	"50999"	"Cuban"	"2182-4"	Suppressed	28	Suppressed
+	"Unidentified Counties, VT"	"50999"	"Central or South American"	"4"	Suppressed	192	Suppressed
+	"Unidentified Counties, VT"	"50999"	"Non-Hispanic White"	"6"	244	51929	4.70
+	"Unidentified Counties, VT"	"50999"	"Non-Hispanic Black"	"7"	Suppressed	918	Suppressed
+	"Chesterfield County, VA"	"51041"	"Mexican"	"2148-5"	Suppressed	1195	Suppressed
+	"Chesterfield County, VA"	"51041"	"Puerto Rican"	"2180-8"	Suppressed	383	Suppressed
+	"Chesterfield County, VA"	"51041"	"Cuban"	"2182-4"	Suppressed	40	Suppressed
+	"Chesterfield County, VA"	"51041"	"Central or South American"	"4"	Suppressed	1766	Suppressed
+	"Chesterfield County, VA"	"51041"	"Non-Hispanic White"	"6"	99	20882	4.74
+	"Chesterfield County, VA"	"51041"	"Non-Hispanic Black"	"7"	64	7428	8.62
+	"Fairfax County, VA"	"51059"	"Mexican"	"2148-5"	11	2761	3.98 (Unreliable)
+	"Fairfax County, VA"	"51059"	"Puerto Rican"	"2180-8"	Suppressed	867	Suppressed
+	"Fairfax County, VA"	"51059"	"Cuban"	"2182-4"	Suppressed	193	Suppressed
+	"Fairfax County, VA"	"51059"	"Central or South American"	"4"	126	23403	5.38
+	"Fairfax County, VA"	"51059"	"Non-Hispanic White"	"6"	218	60118	3.63
+	"Fairfax County, VA"	"51059"	"Non-Hispanic Black"	"7"	106	13728	7.72
+	"Henrico County, VA"	"51087"	"Mexican"	"2148-5"	Suppressed	1037	Suppressed
+	"Henrico County, VA"	"51087"	"Puerto Rican"	"2180-8"	Suppressed	277	Suppressed
+	"Henrico County, VA"	"51087"	"Cuban"	"2182-4"	Suppressed	69	Suppressed
+	"Henrico County, VA"	"51087"	"Central or South American"	"4"	Suppressed	1036	Suppressed
+	"Henrico County, VA"	"51087"	"Non-Hispanic White"	"6"	83	18583	4.47
+	"Henrico County, VA"	"51087"	"Non-Hispanic Black"	"7"	122	10303	11.84
+	"Loudoun County, VA"	"51107"	"Mexican"	"2148-5"	Suppressed	214	Suppressed
+	"Loudoun County, VA"	"51107"	"Puerto Rican"	"2180-8"	Suppressed	103	Suppressed
+	"Loudoun County, VA"	"51107"	"Cuban"	"2182-4"	Suppressed	28	Suppressed
+	"Loudoun County, VA"	"51107"	"Central or South American"	"4"	Suppressed	578	Suppressed
+	"Loudoun County, VA"	"51107"	"Non-Hispanic White"	"6"	11	5560	1.98 (Unreliable)
+	"Loudoun County, VA"	"51107"	"Non-Hispanic Black"	"7"	Suppressed	775	Suppressed
+	"Prince William County, VA"	"51153"	"Mexican"	"2148-5"	Suppressed	2741	Suppressed
+	"Prince William County, VA"	"51153"	"Puerto Rican"	"2180-8"	Suppressed	843	Suppressed
+	"Prince William County, VA"	"51153"	"Cuban"	"2182-4"	Suppressed	95	Suppressed
+	"Prince William County, VA"	"51153"	"Central or South American"	"4"	53	8397	6.31
+	"Prince William County, VA"	"51153"	"Non-Hispanic White"	"6"	108	26286	4.11
+	"Prince William County, VA"	"51153"	"Non-Hispanic Black"	"7"	130	12315	10.56
+	"Virginia Beach city, VA"	"51810"	"Mexican"	"2148-5"	Suppressed	1687	Suppressed
+	"Virginia Beach city, VA"	"51810"	"Puerto Rican"	"2180-8"	Suppressed	1347	Suppressed
+	"Virginia Beach city, VA"	"51810"	"Cuban"	"2182-4"	Suppressed	123	Suppressed
+	"Virginia Beach city, VA"	"51810"	"Central or South American"	"4"	Suppressed	1092	Suppressed
+	"Virginia Beach city, VA"	"51810"	"Non-Hispanic White"	"6"	161	34788	4.63
+	"Virginia Beach city, VA"	"51810"	"Non-Hispanic Black"	"7"	136	12573	10.82
+	"Unidentified Counties, VA"	"51999"	"Mexican"	"2148-5"	117	18762	6.24
+	"Unidentified Counties, VA"	"51999"	"Puerto Rican"	"2180-8"	45	5307	8.48
+	"Unidentified Counties, VA"	"51999"	"Cuban"	"2182-4"	Suppressed	789	Suppressed
+	"Unidentified Counties, VA"	"51999"	"Central or South American"	"4"	134	23376	5.73
+	"Unidentified Counties, VA"	"51999"	"Non-Hispanic White"	"6"	2067	377051	5.48
+	"Unidentified Counties, VA"	"51999"	"Non-Hispanic Black"	"7"	1884	144540	13.03
+	"Clark County, WA"	"53011"	"Mexican"	"2148-5"	17	4565	3.72 (Unreliable)
+	"Clark County, WA"	"53011"	"Puerto Rican"	"2180-8"	Suppressed	142	Suppressed
+	"Clark County, WA"	"53011"	"Cuban"	"2182-4"	Suppressed	51	Suppressed
+	"Clark County, WA"	"53011"	"Central or South American"	"4"	Suppressed	484	Suppressed
+	"Clark County, WA"	"53011"	"Non-Hispanic White"	"6"	182	39257	4.64
+	"Clark County, WA"	"53011"	"Non-Hispanic Black"	"7"	Suppressed	1081	Suppressed
+	"King County, WA"	"53033"	"Mexican"	"2148-5"	96	22516	4.26
+	"King County, WA"	"53033"	"Puerto Rican"	"2180-8"	Suppressed	913	Suppressed
+	"King County, WA"	"53033"	"Cuban"	"2182-4"	Suppressed	293	Suppressed
+	"King County, WA"	"53033"	"Central or South American"	"4"	13	4180	3.11 (Unreliable)
+	"King County, WA"	"53033"	"Non-Hispanic White"	"6"	412	120747	3.41
+	"King County, WA"	"53033"	"Non-Hispanic Black"	"7"	148	19571	7.56
+	"Kitsap County, WA"	"53035"	"Mexican"	"2148-5"	Suppressed	329	Suppressed
+	"Kitsap County, WA"	"53035"	"Puerto Rican"	"2180-8"	Suppressed	62	Suppressed
+	"Kitsap County, WA"	"53035"	"Cuban"	"2182-4"	Suppressed	Suppressed	Suppressed
+	"Kitsap County, WA"	"53035"	"Central or South American"	"4"	Suppressed	104	Suppressed
+	"Kitsap County, WA"	"53035"	"Non-Hispanic White"	"6"	24	4699	5.11
+	"Kitsap County, WA"	"53035"	"Non-Hispanic Black"	"7"	Suppressed	277	Suppressed
+	"Pierce County, WA"	"53053"	"Mexican"	"2148-5"	46	9746	4.72
+	"Pierce County, WA"	"53053"	"Puerto Rican"	"2180-8"	Suppressed	1223	Suppressed
+	"Pierce County, WA"	"53053"	"Cuban"	"2182-4"	Suppressed	173	Suppressed
+	"Pierce County, WA"	"53053"	"Central or South American"	"4"	Suppressed	1076	Suppressed
+	"Pierce County, WA"	"53053"	"Non-Hispanic White"	"6"	317	67092	4.72
+	"Pierce County, WA"	"53053"	"Non-Hispanic Black"	"7"	89	8863	10.04
+	"Snohomish County, WA"	"53061"	"Mexican"	"2148-5"	36	8491	4.24
+	"Snohomish County, WA"	"53061"	"Puerto Rican"	"2180-8"	Suppressed	371	Suppressed
+	"Snohomish County, WA"	"53061"	"Cuban"	"2182-4"	Suppressed	93	Suppressed
+	"Snohomish County, WA"	"53061"	"Central or South American"	"4"	Suppressed	1020	Suppressed
+	"Snohomish County, WA"	"53061"	"Non-Hispanic White"	"6"	213	55681	3.83
+	"Snohomish County, WA"	"53061"	"Non-Hispanic Black"	"7"	21	3029	6.93
+	"Spokane County, WA"	"53063"	"Mexican"	"2148-5"	Suppressed	2169	Suppressed
+	"Spokane County, WA"	"53063"	"Puerto Rican"	"2180-8"	Suppressed	164	Suppressed
+	"Spokane County, WA"	"53063"	"Cuban"	"2182-4"	Suppressed	65	Suppressed
+	"Spokane County, WA"	"53063"	"Central or South American"	"4"	Suppressed	199	Suppressed
+	"Spokane County, WA"	"53063"	"Non-Hispanic White"	"6"	248	45720	5.42
+	"Spokane County, WA"	"53063"	"Non-Hispanic Black"	"7"	Suppressed	1336	Suppressed
+	"Thurston County, WA"	"53067"	"Mexican"	"2148-5"	Suppressed	453	Suppressed
+	"Thurston County, WA"	"53067"	"Puerto Rican"	"2180-8"	Suppressed	65	Suppressed
+	"Thurston County, WA"	"53067"	"Cuban"	"2182-4"	Suppressed	10	Suppressed
+	"Thurston County, WA"	"53067"	"Central or South American"	"4"	Suppressed	86	Suppressed
+	"Thurston County, WA"	"53067"	"Non-Hispanic White"	"6"	19	4644	4.09 (Unreliable)
+	"Thurston County, WA"	"53067"	"Non-Hispanic Black"	"7"	Suppressed	273	Suppressed
+	"Unidentified Counties, WA"	"53999"	"Mexican"	"2148-5"	329	65880	4.99
+	"Unidentified Counties, WA"	"53999"	"Puerto Rican"	"2180-8"	Suppressed	873	Suppressed
+	"Unidentified Counties, WA"	"53999"	"Cuban"	"2182-4"	Suppressed	208	Suppressed
+	"Unidentified Counties, WA"	"53999"	"Central or South American"	"4"	11	2952	3.73 (Unreliable)
+	"Unidentified Counties, WA"	"53999"	"Non-Hispanic White"	"6"	810	163631	4.95
+	"Unidentified Counties, WA"	"53999"	"Non-Hispanic Black"	"7"	37	3969	9.32
+	"Unidentified Counties, WV"	"54999"	"Mexican"	"2148-5"	Suppressed	913	Suppressed
+	"Unidentified Counties, WV"	"54999"	"Puerto Rican"	"2180-8"	Suppressed	326	Suppressed
+	"Unidentified Counties, WV"	"54999"	"Cuban"	"2182-4"	Suppressed	35	Suppressed
+	"Unidentified Counties, WV"	"54999"	"Central or South American"	"4"	Suppressed	426	Suppressed
+	"Unidentified Counties, WV"	"54999"	"Non-Hispanic White"	"6"	1265	175984	7.19
+	"Unidentified Counties, WV"	"54999"	"Non-Hispanic Black"	"7"	76	6895	11.02
+	"Dane County, WI"	"55025"	"Mexican"	"2148-5"	16	3852	4.15 (Unreliable)
+	"Dane County, WI"	"55025"	"Puerto Rican"	"2180-8"	Suppressed	246	Suppressed
+	"Dane County, WI"	"55025"	"Cuban"	"2182-4"	Suppressed	59	Suppressed
+	"Dane County, WI"	"55025"	"Central or South American"	"4"	Suppressed	874	Suppressed
+	"Dane County, WI"	"55025"	"Non-Hispanic White"	"6"	173	40671	4.25
+	"Dane County, WI"	"55025"	"Non-Hispanic Black"	"7"	66	4713	14.00
+	"Milwaukee County, WI"	"55079"	"Mexican"	"2148-5"	105	16764	6.26
+	"Milwaukee County, WI"	"55079"	"Puerto Rican"	"2180-8"	34	5192	6.55
+	"Milwaukee County, WI"	"55079"	"Cuban"	"2182-4"	Suppressed	191	Suppressed
+	"Milwaukee County, WI"	"55079"	"Central or South American"	"4"	Suppressed	916	Suppressed
+	"Milwaukee County, WI"	"55079"	"Non-Hispanic White"	"6"	277	51700	5.36
+	"Milwaukee County, WI"	"55079"	"Non-Hispanic Black"	"7"	650	46283	14.04
+	"Waukesha County, WI"	"55133"	"Mexican"	"2148-5"	10	1731	5.78 (Unreliable)
+	"Waukesha County, WI"	"55133"	"Puerto Rican"	"2180-8"	Suppressed	261	Suppressed
+	"Waukesha County, WI"	"55133"	"Cuban"	"2182-4"	Suppressed	24	Suppressed
+	"Waukesha County, WI"	"55133"	"Central or South American"	"4"	Suppressed	196	Suppressed
+	"Waukesha County, WI"	"55133"	"Non-Hispanic White"	"6"	121	29642	4.08
+	"Waukesha County, WI"	"55133"	"Non-Hispanic Black"	"7"	Suppressed	518	Suppressed
+	"Unidentified Counties, WI"	"55999"	"Mexican"	"2148-5"	123	24050	5.11
+	"Unidentified Counties, WI"	"55999"	"Puerto Rican"	"2180-8"	Suppressed	1569	Suppressed
+	"Unidentified Counties, WI"	"55999"	"Cuban"	"2182-4"	Suppressed	212	Suppressed
+	"Unidentified Counties, WI"	"55999"	"Central or South American"	"4"	Suppressed	1544	Suppressed
+	"Unidentified Counties, WI"	"55999"	"Non-Hispanic White"	"6"	1748	337892	5.17
+	"Unidentified Counties, WI"	"55999"	"Non-Hispanic Black"	"7"	154	11270	13.66
+	"Unidentified Counties, WY"	"56999"	"Mexican"	"2148-5"	35	5750	6.09
+	"Unidentified Counties, WY"	"56999"	"Puerto Rican"	"2180-8"	Suppressed	182	Suppressed
+	"Unidentified Counties, WY"	"56999"	"Cuban"	"2182-4"	Suppressed	34	Suppressed
+	"Unidentified Counties, WY"	"56999"	"Central or South American"	"4"	Suppressed	446	Suppressed
+	"Unidentified Counties, WY"	"56999"	"Non-Hispanic White"	"6"	325	55999	5.80
+	"Unidentified Counties, WY"	"56999"	"Non-Hispanic Black"	"7"	Suppressed	700	Suppressed
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2015"
+"Query Parameters:"
+"Title:"
+"Age of Infant at Death: All"
+"Age of Mother: All"
+"Birthplace: All"
+"Birth Weight: All"
+"Delivery Method: All"
+"Education: All"
+"Gender: All"
+"Hispanic Origin: Mexican, Puerto Rican, Cuban, Central or South American, Non-Hispanic White, Non-Hispanic Black"
+"ICD-10 Codes: All"
+"Live Birth Order: All"
+"LMP Gestational Age 11: All"
+"Marital Status: All"
+"Medical Attendant: All"
+"Month Prenatal Care Began: All"
+"OE Gestational Age 11: All"
+"Plurality or Multiple Birth: All"
+"Race: All"
+"States: All"
+"Year of Death: All, 2007 to 2015"
+"Group By: County, Hispanic Origin"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Jun 1, 2018 2:41:39 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2015, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Jun 1, 2018 2:41:39 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."
+"5. County-level data are shown only for counties with populations of 250,000 persons or more. Data for all counties with fewer"
+"than 250,000 persons within a state are combined together under the label ""Unidentified Counties."""
+"6. Dade county, Florida (FIPS code 12025) was renamed Miami-Dade County (FIPS code 12086) effective November 13, 1997. The area"
+"is coded to Miami-Dade (12086) after 2002 and Dade (12025) for earlier years in other linked-birth datasets."
+"7. The independent city of Baltimore, Maryland (FIPS code 24510) is reported separately from Baltimore county (FIPS code 24005)."
+"8. The independent city of St. Louis, Missouri (FIPS code 29510) is reported separately from St. Louis county (FIPS code 29189)."
+"9. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"10. Kings county, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"11. New York county, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"12. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"13. Richmond county, New York (FIPS code 36085) represents Staten Island Borough, New York City."
+"14. As a result of population changes the following counties do not have data available for all years.<br/> Before 2014 the data"
+"for the following counties was recoded to the ""Unidentified Counties"" category within the state of the county because they did"
+"not meet minimum population standards. Pinal County, AZ (04021); Marin County, CA (06041); Merced County, CA (06047); Placer"
+"County, CA (06061); San Luis Obispo County, CA (06079); Douglas County, CO (08035); Weld County, CO (08123); Lake County, FL"
+"(12069); Leon County, FL (12073); Osceola County, FL (12097); St. Lucie County, FL (12111); Chatham County, GA (13051); Clayton"
+"County, GA (13063); Hamilton County, IN (18057); Howard County, MD (24027); Kalamazoo County, MI (26077); Ottawa County, MI"
+"(26139); Greene County, MO (29077); Durham County, NC (37063); Cleveland County, OK (40027); Horry County, SC (45051); Lexington"
+"County, SC (45063); Rutherford County, TN (47149); Bell County, TX (48027); Brazoria County, TX (48039); Lubbock County, TX"
+"(48303); Webb County, TX (48479); Williamson County, TX (48491); Davis County, UT (49011); Loudoun County, VA (51107); Kitsap"
+"County, WA (53035); Thurston County, WA (53067). <br/> After 2013 the data for the following counties was recoded to the"
+"""Unidentified Counties"" category within the state of the county because they did not meet minimum population standards. Hinds"
+"County, MS (28049); Mahoning County, OH (39099)."

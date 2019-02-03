@@ -1,0 +1,264 @@
+"Notes"	"Census Region"	"Census Region Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	"Year of Death"	"Year of Death Code"	Deaths	Births	Death Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"1999"	"1999"	66	11728	5.63
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2000"	"2000"	85	13509	6.29
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2001"	"2001"	66	15665	4.21
+	"Census Region 1: Northeast"	"CENS-R1"	"Mexican"	"2148-5"	"White"	"2106-3"	"2002"	"2002"	87	16583	5.25
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"1999"	"1999"	12	1132	10.60 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2000"	"2000"	15	1418	10.58 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"Black or African American"	"2054-5"	"2001"	"2001"	15	1459	10.28 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"1999"	"1999"	298	34486	8.64
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2000"	"2000"	271	33915	7.99
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2001"	"2001"	294	33055	8.89
+	"Census Region 1: Northeast"	"CENS-R1"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2002"	"2002"	286	32789	8.72
+	"Census Region 1: Northeast"	"CENS-R1"	"Cuban"	"2182-4"	"White"	"2106-3"	"1999"	"1999"	10	1478	6.77 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Cuban"	"2182-4"	"White"	"2106-3"	"2001"	"2001"	11	1468	7.49 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"1999"	"1999"	39	6703	5.82
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2000"	"2000"	38	7257	5.24
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2001"	"2001"	43	6497	6.62
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"Black or African American"	"2054-5"	"2002"	"2002"	37	6264	5.91
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"1999"	"1999"	152	31437	4.84
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2000"	"2000"	138	32997	4.18
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2001"	"2001"	165	36430	4.53
+	"Census Region 1: Northeast"	"CENS-R1"	"Central or South American"	"4"	"White"	"2106-3"	"2002"	"2002"	168	38338	4.38
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"Black or African American"	"2054-5"	"2000"	"2000"	11	1568	7.02 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"1999"	"1999"	77	10145	7.59
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2000"	"2000"	57	9118	6.25
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2001"	"2001"	46	9287	4.95
+	"Census Region 1: Northeast"	"CENS-R1"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2002"	"2002"	59	9684	6.09
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"1999"	"1999"	2104	430732	4.88
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2000"	"2000"	2110	432376	4.88
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2001"	"2001"	2086	431860	4.83
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2002"	"2002"	2097	425579	4.93
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"1999"	"1999"	1289	99302	12.98
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2000"	"2000"	1302	99837	13.04
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2001"	"2001"	1183	97839	12.09
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2002"	"2002"	1165	95940	12.14
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	12	1575	7.62 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	13	1644	7.91 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	13	1761	7.38 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"1999"	"1999"	30	9694	3.09
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2000"	"2000"	35	11480	3.05
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2001"	"2001"	24	10787	2.22
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2002"	"2002"	27	11591	2.33
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"1999"	"1999"	11	3021	3.64 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2000"	"2000"	12	3325	3.61 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2002"	"2002"	12	3413	3.52 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"1999"	"1999"	92	21938	4.19
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2000"	"2000"	93	23988	3.88
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2001"	"2001"	104	24780	4.20
+	"Census Region 1: Northeast"	"CENS-R1"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2002"	"2002"	97	26614	3.64
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"1999"	"1999"	15	948	15.82 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2000"	"2000"	22	814	27.03
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2001"	"2001"	16	796	20.10 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2002"	"2002"	19	518	36.68 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"1999"	"1999"	164	18151	9.04
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2000"	"2000"	130	15137	8.59
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2001"	"2001"	96	6385	15.04
+	"Census Region 1: Northeast"	"CENS-R1"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2002"	"2002"	73	4535	16.10
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"1999"	"1999"	386	55250	6.99
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2000"	"2000"	413	61502	6.72
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2001"	"2001"	400	66140	6.05
+	"Census Region 2: Midwest"	"CENS-R2"	"Mexican"	"2148-5"	"White"	"2106-3"	"2002"	"2002"	425	67517	6.29
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"1999"	"1999"	57	5360	10.63
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2000"	"2000"	60	5760	10.42
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2001"	"2001"	44	5509	7.99
+	"Census Region 2: Midwest"	"CENS-R2"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2002"	"2002"	47	5430	8.66
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"1999"	"1999"	16	3403	4.70 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2000"	"2000"	33	4639	7.11
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2001"	"2001"	24	4885	4.91
+	"Census Region 2: Midwest"	"CENS-R2"	"Central or South American"	"4"	"White"	"2106-3"	"2002"	"2002"	33	5399	6.11
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"1999"	"1999"	22	3831	5.74
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2000"	"2000"	19	3289	5.78 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2001"	"2001"	28	3825	7.32
+	"Census Region 2: Midwest"	"CENS-R2"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2002"	"2002"	28	3678	7.61
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"1999"	"1999"	4051	653647	6.20
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2000"	"2000"	4027	657043	6.13
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2001"	"2001"	3950	651176	6.07
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2002"	"2002"	3828	640981	5.97
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"1999"	"1999"	1918	115515	16.60
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2000"	"2000"	1841	118717	15.51
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2001"	"2001"	1757	116571	15.07
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2002"	"2002"	1821	113233	16.08
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	74	6838	10.82
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	66	7110	9.28
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	87	7380	11.79
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	77	7473	10.30
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"1999"	"1999"	10	2483	4.03 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2000"	"2000"	15	2821	5.32 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2001"	"2001"	14	2604	5.38 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2002"	"2002"	11	2887	3.81 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"1999"	"1999"	15	2526	5.94 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2000"	"2000"	23	2681	8.58
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2001"	"2001"	21	2726	7.70
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2002"	"2002"	15	2735	5.48 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"1999"	"1999"	114	17077	6.68
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2000"	"2000"	96	18955	5.06
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2001"	"2001"	110	19247	5.72
+	"Census Region 2: Midwest"	"CENS-R2"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2002"	"2002"	115	20188	5.70
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"1999"	"1999"	17	835	20.36 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2000"	"2000"	21	608	34.54
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2002"	"2002"	13	412	31.55 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"1999"	"1999"	108	12925	8.36
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2000"	"2000"	106	12425	8.53
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2001"	"2001"	47	4070	11.55
+	"Census Region 2: Midwest"	"CENS-R2"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2002"	"2002"	43	4315	9.97
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"1999"	"1999"	917	177496	5.17
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2000"	"2000"	958	194599	4.92
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2001"	"2001"	1027	207087	4.96
+	"Census Region 3: South"	"CENS-R3"	"Mexican"	"2148-5"	"White"	"2106-3"	"2002"	"2002"	1140	215022	5.30
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"1999"	"1999"	79	11424	6.92
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2000"	"2000"	83	12075	6.87
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2001"	"2001"	104	12512	8.31
+	"Census Region 3: South"	"CENS-R3"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2002"	"2002"	95	12864	7.38
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"1999"	"1999"	36	9830	3.66
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2000"	"2000"	43	9982	4.31
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2001"	"2001"	31	10520	2.95
+	"Census Region 3: South"	"CENS-R3"	"Cuban"	"2182-4"	"White"	"2106-3"	"2002"	"2002"	35	10867	3.22
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"1999"	"1999"	136	31981	4.25
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2000"	"2000"	165	37036	4.46
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2001"	"2001"	207	41911	4.94
+	"Census Region 3: South"	"CENS-R3"	"Central or South American"	"4"	"White"	"2106-3"	"2002"	"2002"	236	44738	5.28
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"1999"	"1999"	117	12648	9.25
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2000"	"2000"	106	12999	8.15
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2001"	"2001"	92	13393	6.87
+	"Census Region 3: South"	"CENS-R3"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2002"	"2002"	131	15931	8.22
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"1999"	"1999"	5049	816808	6.18
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2000"	"2000"	4998	826442	6.05
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2001"	"2001"	4974	805760	6.17
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2002"	"2002"	5114	796592	6.42
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"1999"	"1999"	4549	326737	13.92
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2000"	"2000"	4505	338102	13.32
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2001"	"2001"	4486	329171	13.63
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2002"	"2002"	4506	324058	13.90
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	102	9490	10.75
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	74	10264	7.21
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	85	10351	8.21
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	96	10246	9.37
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2000"	"2000"	14	3885	3.60 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2001"	"2001"	15	3761	3.99 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2002"	"2002"	14	3906	3.58 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"1999"	"1999"	30	3722	8.06
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2000"	"2000"	26	4013	6.48
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2001"	"2001"	16	4032	3.97 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2002"	"2002"	28	4208	6.65
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"1999"	"1999"	119	25135	4.73
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2000"	"2000"	126	28539	4.42
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2001"	"2001"	156	29892	5.22
+	"Census Region 3: South"	"CENS-R3"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2002"	"2002"	162	32338	5.01
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"1999"	"1999"	11	1284	8.57 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2000"	"2000"	20	1227	16.30
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2001"	"2001"	22	932	23.61
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2002"	"2002"	36	1075	33.49
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"1999"	"1999"	51	3596	14.18
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2000"	"2000"	65	3525	18.44
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2001"	"2001"	60	3235	18.55
+	"Census Region 3: South"	"CENS-R3"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2002"	"2002"	55	3582	15.35
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"1999"	"1999"	1575	292515	5.38
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2000"	"2000"	1679	308036	5.45
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2001"	"2001"	1665	317852	5.24
+	"Census Region 4: West"	"CENS-R4"	"Mexican"	"2148-5"	"White"	"2106-3"	"2002"	"2002"	1714	323939	5.29
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"1999"	"1999"	15	3019	4.97 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2000"	"2000"	27	3095	8.72
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2001"	"2001"	22	3196	6.88
+	"Census Region 4: West"	"CENS-R4"	"Puerto Rican"	"2180-8"	"White"	"2106-3"	"2002"	"2002"	19	3204	5.93 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"1999"	"1999"	128	27609	4.64
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2000"	"2000"	137	28714	4.77
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2001"	"2001"	152	29058	5.23
+	"Census Region 4: West"	"CENS-R4"	"Central or South American"	"4"	"White"	"2106-3"	"2002"	"2002"	147	29039	5.06
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"1999"	"1999"	122	19582	6.23
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2000"	"2000"	126	19362	6.51
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2001"	"2001"	98	17832	5.50
+	"Census Region 4: West"	"CENS-R4"	"Other and Unknown Hispanic"	"5"	"White"	"2106-3"	"2002"	"2002"	122	18597	6.56
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"1999"	"1999"	2317	445263	5.20
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2000"	"2000"	2326	447121	5.20
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2001"	"2001"	2290	437810	5.23
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic White"	"6"	"White"	"2106-3"	"2002"	"2002"	2288	435016	5.26
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"1999"	"1999"	571	47427	12.04
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2000"	"2000"	565	47711	11.84
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2001"	"2001"	512	46359	11.04
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic Black"	"7"	"Black or African American"	"2054-5"	"2002"	"2002"	539	45135	11.94
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	156	18968	8.22
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	164	19032	8.62
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	183	18642	9.82
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	147	18940	7.76
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"1999"	"1999"	35	13100	2.67
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2000"	"2000"	52	15661	3.32
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2001"	"2001"	44	13877	3.17
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Chinese"	"2034-7"	"2002"	"2002"	47	14866	3.16
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"1999"	"1999"	111	19966	5.56
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2000"	"2000"	112	20639	5.43
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2001"	"2001"	129	20862	6.18
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Filipino"	"2036-2"	"2002"	"2002"	120	21099	5.69
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Hawaiian"	"2076-8"	"1999"	"1999"	36	4646	7.75
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Hawaiian"	"2076-8"	"2000"	"2000"	46	4950	9.29
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Hawaiian"	"2076-8"	"2001"	"2001"	35	4818	7.26
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Hawaiian"	"2076-8"	"2002"	"2002"	48	5058	9.49
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Japanese"	"2039-6"	"1999"	"1999"	20	5775	3.46
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Japanese"	"2039-6"	"2000"	"2000"	25	5871	4.26
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Japanese"	"2039-6"	"2001"	"2001"	24	5907	4.06
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Japanese"	"2039-6"	"2002"	"2002"	35	6014	5.82
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"1999"	"1999"	189	39921	4.73
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2000"	"2000"	234	44475	5.26
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2001"	"2001"	194	44940	4.32
+	"Census Region 4: West"	"CENS-R4"	"Non-Hispanic other races"	"8"	"Other Asian "	"2028-9"	"2002"	"2002"	211	46715	4.52
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"American Indian or Alaska Native"	"1002-5"	"1999"	"1999"	13	642	20.25 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"American Indian or Alaska Native"	"1002-5"	"2000"	"2000"	10	624	16.03 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"American Indian or Alaska Native"	"1002-5"	"2001"	"2001"	14	876	15.98 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"American Indian or Alaska Native"	"1002-5"	"2002"	"2002"	14	779	17.97 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"1999"	"1999"	11	446	24.66 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"Black or African American"	"2054-5"	"2002"	"2002"	12	526	22.81 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"1999"	"1999"	70	6737	10.39
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2000"	"2000"	71	6307	11.26
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2001"	"2001"	93	6195	15.01
+	"Census Region 4: West"	"CENS-R4"	"Origin unknown or not stated"	"9"	"White"	"2106-3"	"2002"	"2002"	110	7667	14.35
+"---"
+"Dataset: Linked Birth / Infant Death Records, 1999-2002"
+"Query Parameters:"
+"Title:"
+"Age of Infant at Death: All"
+"Age of Mother: All"
+"Birthplace: All"
+"Birth Weight: All"
+"Census Regions: All"
+"Delivery Method: All"
+"Education: All"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Live Birth Order: All"
+"LMP Gestational Age 11: All"
+"Marital Status: All"
+"Medical Attendant: All"
+"Month Prenatal Care Began: All"
+"Plurality or Multiple Birth: All"
+"Race: All"
+"Year of Death: All, 1999 to 2002"
+"Group By: Census Region, Hispanic Origin, Race, Year of Death"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: May 11, 2018 4:40:07 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS), Linked Birth / Infant Death Records"
+"1999-2002 on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-v2002.html on May 11, 2018 4:40:07 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"2. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"3. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."

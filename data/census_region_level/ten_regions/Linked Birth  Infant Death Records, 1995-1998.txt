@@ -1,0 +1,223 @@
+"Notes"	"HHS Region"	"HHS Region Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Year of Death"	"Year of Death Code"	Deaths	Births	Death Rate
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Puerto Rican"	"2180-8"	"1995"	"1995"	80	8483	9.43
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Puerto Rican"	"2180-8"	"1996"	"1996"	73	8540	8.55
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Puerto Rican"	"2180-8"	"1997"	"1997"	85	8945	9.50
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Puerto Rican"	"2180-8"	"1998"	"1998"	86	9373	9.18
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Central or South American"	"4"	"1995"	"1995"	30	5095	5.89
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Central or South American"	"4"	"1996"	"1996"	24	5073	4.73
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Central or South American"	"4"	"1997"	"1997"	40	5254	7.61
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Central or South American"	"4"	"1998"	"1998"	38	5693	6.67
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Non-Hispanic White"	"6"	"1995"	"1995"	687	135365	5.08
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Non-Hispanic White"	"6"	"1996"	"1996"	590	133836	4.41
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Non-Hispanic White"	"6"	"1997"	"1997"	627	129932	4.83
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Non-Hispanic White"	"6"	"1998"	"1998"	634	130964	4.84
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Non-Hispanic Black"	"7"	"1995"	"1995"	129	12103	10.66
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Non-Hispanic Black"	"7"	"1996"	"1996"	149	11672	12.77
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Non-Hispanic Black"	"7"	"1997"	"1997"	134	12067	11.10
+	"HHS Region #1  CT, ME, MA, NH, RI, VT"	"HHS1"	"Non-Hispanic Black"	"7"	"1998"	"1998"	161	12354	13.03
+	"HHS Region #2  NJ, NY"	"HHS2"	"Mexican"	"2148-5"	"1995"	"1995"	41	8266	4.96
+	"HHS Region #2  NJ, NY"	"HHS2"	"Mexican"	"2148-5"	"1996"	"1996"	60	8591	6.98
+	"HHS Region #2  NJ, NY"	"HHS2"	"Mexican"	"2148-5"	"1997"	"1997"	53	8490	6.24
+	"HHS Region #2  NJ, NY"	"HHS2"	"Mexican"	"2148-5"	"1998"	"1998"	33	9367	3.52
+	"HHS Region #2  NJ, NY"	"HHS2"	"Puerto Rican"	"2180-8"	"1995"	"1995"	223	23352	9.55
+	"HHS Region #2  NJ, NY"	"HHS2"	"Puerto Rican"	"2180-8"	"1996"	"1996"	193	22502	8.58
+	"HHS Region #2  NJ, NY"	"HHS2"	"Puerto Rican"	"2180-8"	"1997"	"1997"	172	22369	7.69
+	"HHS Region #2  NJ, NY"	"HHS2"	"Puerto Rican"	"2180-8"	"1998"	"1998"	179	22423	7.98
+	"HHS Region #2  NJ, NY"	"HHS2"	"Cuban"	"2182-4"	"1996"	"1996"	10	1350	7.41 (Unreliable)
+	"HHS Region #2  NJ, NY"	"HHS2"	"Cuban"	"2182-4"	"1997"	"1997"	13	1423	9.14 (Unreliable)
+	"HHS Region #2  NJ, NY"	"HHS2"	"Central or South American"	"4"	"1995"	"1995"	197	32504	6.06
+	"HHS Region #2  NJ, NY"	"HHS2"	"Central or South American"	"4"	"1996"	"1996"	178	33583	5.30
+	"HHS Region #2  NJ, NY"	"HHS2"	"Central or South American"	"4"	"1997"	"1997"	163	32760	4.98
+	"HHS Region #2  NJ, NY"	"HHS2"	"Central or South American"	"4"	"1998"	"1998"	155	30925	5.01
+	"HHS Region #2  NJ, NY"	"HHS2"	"Non-Hispanic White"	"6"	"1995"	"1995"	980	190724	5.14
+	"HHS Region #2  NJ, NY"	"HHS2"	"Non-Hispanic White"	"6"	"1996"	"1996"	833	186507	4.47
+	"HHS Region #2  NJ, NY"	"HHS2"	"Non-Hispanic White"	"6"	"1997"	"1997"	822	183809	4.47
+	"HHS Region #2  NJ, NY"	"HHS2"	"Non-Hispanic White"	"6"	"1998"	"1998"	833	190464	4.37
+	"HHS Region #2  NJ, NY"	"HHS2"	"Non-Hispanic Black"	"7"	"1995"	"1995"	960	69248	13.86
+	"HHS Region #2  NJ, NY"	"HHS2"	"Non-Hispanic Black"	"7"	"1996"	"1996"	941	67323	13.98
+	"HHS Region #2  NJ, NY"	"HHS2"	"Non-Hispanic Black"	"7"	"1997"	"1997"	855	66474	12.86
+	"HHS Region #2  NJ, NY"	"HHS2"	"Non-Hispanic Black"	"7"	"1998"	"1998"	834	67957	12.27
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Mexican"	"2148-5"	"1995"	"1995"	14	2500	5.60 (Unreliable)
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Mexican"	"2148-5"	"1996"	"1996"	20	2795	7.16
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Mexican"	"2148-5"	"1998"	"1998"	13	3291	3.95 (Unreliable)
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Puerto Rican"	"2180-8"	"1995"	"1995"	44	5434	8.10
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Puerto Rican"	"2180-8"	"1996"	"1996"	62	5561	11.15
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Puerto Rican"	"2180-8"	"1997"	"1997"	45	5513	8.16
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Puerto Rican"	"2180-8"	"1998"	"1998"	40	5746	6.96
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Central or South American"	"4"	"1995"	"1995"	34	5545	6.13
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Central or South American"	"4"	"1996"	"1996"	41	6146	6.67
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Central or South American"	"4"	"1997"	"1997"	45	5900	7.63
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Central or South American"	"4"	"1998"	"1998"	36	6527	5.52
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Non-Hispanic White"	"6"	"1995"	"1995"	1571	255331	6.15
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Non-Hispanic White"	"6"	"1996"	"1996"	1543	249818	6.18
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Non-Hispanic White"	"6"	"1997"	"1997"	1511	243531	6.20
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Non-Hispanic White"	"6"	"1998"	"1998"	1448	245256	5.90
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Non-Hispanic Black"	"7"	"1995"	"1995"	1189	74487	15.96
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Non-Hispanic Black"	"7"	"1996"	"1996"	1056	72759	14.51
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Non-Hispanic Black"	"7"	"1997"	"1997"	1108	72276	15.33
+	"HHS Region #3  DE, DC, MD, PA, VA, WV"	"HHS3"	"Non-Hispanic Black"	"7"	"1998"	"1998"	1081	74722	14.47
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Mexican"	"2148-5"	"1995"	"1995"	116	15125	7.67
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Mexican"	"2148-5"	"1996"	"1996"	115	18119	6.35
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Mexican"	"2148-5"	"1997"	"1997"	126	21515	5.86
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Mexican"	"2148-5"	"1998"	"1998"	140	24752	5.66
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Puerto Rican"	"2180-8"	"1995"	"1995"	48	7058	6.80
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Puerto Rican"	"2180-8"	"1996"	"1996"	49	7840	6.25
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Puerto Rican"	"2180-8"	"1997"	"1997"	40	8289	4.83
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Puerto Rican"	"2180-8"	"1998"	"1998"	50	8951	5.59
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Cuban"	"2182-4"	"1995"	"1995"	50	8774	5.70
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Cuban"	"2182-4"	"1996"	"1996"	42	8907	4.72
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Cuban"	"2182-4"	"1997"	"1997"	48	9067	5.29
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Cuban"	"2182-4"	"1998"	"1998"	34	9567	3.55
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Central or South American"	"4"	"1995"	"1995"	54	13104	4.12
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Central or South American"	"4"	"1996"	"1996"	69	13983	4.93
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Central or South American"	"4"	"1997"	"1997"	62	14835	4.18
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Central or South American"	"4"	"1998"	"1998"	81	16217	4.99
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Non-Hispanic White"	"6"	"1995"	"1995"	2903	435620	6.66
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Non-Hispanic White"	"6"	"1996"	"1996"	2935	436483	6.72
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Non-Hispanic White"	"6"	"1997"	"1997"	2888	440287	6.56
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Non-Hispanic White"	"6"	"1998"	"1998"	2906	449594	6.46
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Non-Hispanic Black"	"7"	"1995"	"1995"	2699	184594	14.62
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Non-Hispanic Black"	"7"	"1996"	"1996"	2604	183783	14.17
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Non-Hispanic Black"	"7"	"1997"	"1997"	2587	187394	13.81
+	"HHS Region #4  AL, FL, GA, KY, MS, NC, SC, TN"	"HHS4"	"Non-Hispanic Black"	"7"	"1998"	"1998"	2761	192451	14.35
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Mexican"	"2148-5"	"1995"	"1995"	252	36003	7.00
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Mexican"	"2148-5"	"1996"	"1996"	266	38420	6.92
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Mexican"	"2148-5"	"1997"	"1997"	286	40032	7.14
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Mexican"	"2148-5"	"1998"	"1998"	289	42981	6.72
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Puerto Rican"	"2180-8"	"1995"	"1995"	54	5581	9.68
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Puerto Rican"	"2180-8"	"1996"	"1996"	54	5320	10.15
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Puerto Rican"	"2180-8"	"1997"	"1997"	49	5439	9.01
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Puerto Rican"	"2180-8"	"1998"	"1998"	53	5638	9.40
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Central or South American"	"4"	"1995"	"1995"	16	1761	9.09 (Unreliable)
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Central or South American"	"4"	"1997"	"1997"	12	2252	5.33 (Unreliable)
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Central or South American"	"4"	"1998"	"1998"	16	2491	6.42 (Unreliable)
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Non-Hispanic White"	"6"	"1995"	"1995"	3489	507834	6.87
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Non-Hispanic White"	"6"	"1996"	"1996"	3180	503119	6.32
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Non-Hispanic White"	"6"	"1997"	"1997"	3159	498217	6.34
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Non-Hispanic White"	"6"	"1998"	"1998"	3149	498506	6.32
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Non-Hispanic Black"	"7"	"1995"	"1995"	1754	102544	17.10
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Non-Hispanic Black"	"7"	"1996"	"1996"	1652	99876	16.54
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Non-Hispanic Black"	"7"	"1997"	"1997"	1541	99732	15.45
+	"HHS Region #5  IL, IN, MI, MN, OH, WI"	"HHS5"	"Non-Hispanic Black"	"7"	"1998"	"1998"	1574	101080	15.57
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Mexican"	"2148-5"	"1995"	"1995"	769	129017	5.96
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Mexican"	"2148-5"	"1996"	"1996"	718	136635	5.25
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Mexican"	"2148-5"	"1997"	"1997"	797	140128	5.69
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Mexican"	"2148-5"	"1998"	"1998"	790	144041	5.48
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Puerto Rican"	"2180-8"	"1995"	"1995"	10	1203	8.31 (Unreliable)
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Central or South American"	"4"	"1995"	"1995"	25	6946	3.60
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Central or South American"	"4"	"1996"	"1996"	38	7476	5.08
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Central or South American"	"4"	"1997"	"1997"	34	7577	4.49
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Central or South American"	"4"	"1998"	"1998"	49	7720	6.35
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Non-Hispanic White"	"6"	"1995"	"1995"	1579	243867	6.47
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Non-Hispanic White"	"6"	"1996"	"1996"	1592	245538	6.48
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Non-Hispanic White"	"6"	"1997"	"1997"	1587	244826	6.48
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Non-Hispanic White"	"6"	"1998"	"1998"	1624	247793	6.55
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Non-Hispanic Black"	"7"	"1995"	"1995"	975	77808	12.53
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Non-Hispanic Black"	"7"	"1996"	"1996"	933	77704	12.01
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Non-Hispanic Black"	"7"	"1997"	"1997"	925	78977	11.71
+	"HHS Region #6  AR, LA, NM, OK, TX"	"HHS6"	"Non-Hispanic Black"	"7"	"1998"	"1998"	987	80142	12.32
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Mexican"	"2148-5"	"1995"	"1995"	40	5580	7.17
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Mexican"	"2148-5"	"1996"	"1996"	43	6512	6.60
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Mexican"	"2148-5"	"1997"	"1997"	54	7138	7.57
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Mexican"	"2148-5"	"1998"	"1998"	42	7899	5.32
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Non-Hispanic White"	"6"	"1995"	"1995"	948	142185	6.67
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Non-Hispanic White"	"6"	"1996"	"1996"	969	141406	6.85
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Non-Hispanic White"	"6"	"1997"	"1997"	883	140720	6.27
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Non-Hispanic White"	"6"	"1998"	"1998"	927	142508	6.50
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Non-Hispanic Black"	"7"	"1995"	"1995"	217	16019	13.55
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Non-Hispanic Black"	"7"	"1996"	"1996"	259	16003	16.18
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Non-Hispanic Black"	"7"	"1997"	"1997"	243	16050	15.14
+	"HHS Region #7  IA, KS, MO, NE"	"HHS7"	"Non-Hispanic Black"	"7"	"1998"	"1998"	249	16387	15.19
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Mexican"	"2148-5"	"1995"	"1995"	60	10392	5.77
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Mexican"	"2148-5"	"1996"	"1996"	73	11900	6.13
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Mexican"	"2148-5"	"1997"	"1997"	85	13083	6.50
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Mexican"	"2148-5"	"1998"	"1998"	107	14510	7.37
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Central or South American"	"4"	"1997"	"1997"	10	908	11.01 (Unreliable)
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Non-Hispanic White"	"6"	"1995"	"1995"	621	103197	6.02
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Non-Hispanic White"	"6"	"1996"	"1996"	606	104663	5.79
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Non-Hispanic White"	"6"	"1997"	"1997"	626	104948	5.96
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Non-Hispanic White"	"6"	"1998"	"1998"	666	107147	6.22
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Non-Hispanic Black"	"7"	"1995"	"1995"	39	3016	12.93
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Non-Hispanic Black"	"7"	"1996"	"1996"	38	2949	12.89
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Non-Hispanic Black"	"7"	"1997"	"1997"	37	2974	12.44
+	"HHS Region #8  CO, MT, ND, SD, UT, WY"	"HHS8"	"Non-Hispanic Black"	"7"	"1998"	"1998"	48	3278	14.64
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Mexican"	"2148-5"	"1995"	"1995"	1459	248172	5.88
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Mexican"	"2148-5"	"1996"	"1996"	1477	251483	5.87
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Mexican"	"2148-5"	"1997"	"1997"	1412	249404	5.66
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Mexican"	"2148-5"	"1998"	"1998"	1381	251499	5.49
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Puerto Rican"	"2180-8"	"1995"	"1995"	24	2931	8.19
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Puerto Rican"	"2180-8"	"1996"	"1996"	23	3025	7.60
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Puerto Rican"	"2180-8"	"1997"	"1997"	24	2930	8.19
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Puerto Rican"	"2180-8"	"1998"	"1998"	23	2977	7.73
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Central or South American"	"4"	"1995"	"1995"	158	28340	5.58
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Central or South American"	"4"	"1996"	"1996"	122	27688	4.41
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Central or South American"	"4"	"1997"	"1997"	160	26537	6.03
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Central or South American"	"4"	"1998"	"1998"	129	26128	4.94
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Non-Hispanic White"	"6"	"1995"	"1995"	1531	254939	6.01
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Non-Hispanic White"	"6"	"1996"	"1996"	1368	243765	5.61
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Non-Hispanic White"	"6"	"1997"	"1997"	1316	234610	5.61
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Non-Hispanic White"	"6"	"1998"	"1998"	1324	234639	5.64
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Non-Hispanic Black"	"7"	"1995"	"1995"	585	43853	13.34
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Non-Hispanic Black"	"7"	"1996"	"1996"	529	41812	12.65
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Non-Hispanic Black"	"7"	"1997"	"1997"	499	41098	12.14
+	"HHS Region #9  AZ, CA, HI, NV"	"HHS9"	"Non-Hispanic Black"	"7"	"1998"	"1998"	491	40453	12.14
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Mexican"	"2148-5"	"1995"	"1995"	75	13785	5.44
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Mexican"	"2148-5"	"1996"	"1996"	85	14443	5.89
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Mexican"	"2148-5"	"1997"	"1997"	84	15450	5.44
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Mexican"	"2148-5"	"1998"	"1998"	92	16702	5.51
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Non-Hispanic White"	"6"	"1995"	"1995"	648	113576	5.71
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Non-Hispanic White"	"6"	"1996"	"1996"	633	113854	5.56
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Non-Hispanic White"	"6"	"1997"	"1997"	627	112483	5.57
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Non-Hispanic White"	"6"	"1998"	"1998"	610	114591	5.32
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Non-Hispanic Black"	"7"	"1995"	"1995"	63	4109	15.33
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Non-Hispanic Black"	"7"	"1996"	"1996"	48	4218	11.38
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Non-Hispanic Black"	"7"	"1997"	"1997"	47	4389	10.71
+	"HHS Region #10  AK, ID, OR, WA"	"HHS10"	"Non-Hispanic Black"	"7"	"1998"	"1998"	47	4303	10.92
+"---"
+"Dataset: Linked Birth / Infant Death Records, 1995-1998"
+"Query Parameters:"
+"Title:"
+"Age of Infant at Death: All"
+"Age of Mother: All"
+"Birth Weight: All"
+"Education: All"
+"Gender: All"
+"Hispanic Origin: Mexican, Puerto Rican, Cuban, Central or South American, Non-Hispanic White, Non-Hispanic Black"
+"ICD-9 Codes: All"
+"Live Birth Order: All"
+"LMP Gestational Age at Birth: All"
+"Marital Status: All"
+"Month Prenatal Care Began: All"
+"Plurality or Multiple Birth: All"
+"Race: All"
+"States: All"
+"Year of Death: All, 1995 to 1998"
+"Group By: HHS Region, Hispanic Origin, Year of Death"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: May 30, 2018 1:35:48 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS), Linked Birth / Infant Death Records"
+"1995-1998 on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-icd9.html on May 30, 2018 1:35:48 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"2. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"3. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."
